@@ -54,20 +54,13 @@ app.post("/ask", async (req, res) => {
    MICROSOFT TEAMS BOT
 ========================= */
 
-// Modern Entra-compatible authentication
-const botFrameworkAuthentication = new ConfigurationBotFrameworkAuthentication({
-  MicrosoftAppId: process.env.MICROSOFT_APP_ID,
-  MicrosoftAppPassword: process.env.MICROSOFT_APP_PASSWORD,
-  MicrosoftAppType: "SingleTenant",
-  MicrosoftAppTenantId: process.env.MICROSOFT_APP_TENANT_ID,
-});
+// Let SDK read ALL bot settings from process.env
+const botFrameworkAuthentication =
+  new ConfigurationBotFrameworkAuthentication(process.env);
 
-
-
-// Use CloudAdapter instead of legacy BotFrameworkAdapter
 const adapter = new CloudAdapter(botFrameworkAuthentication);
 
-// Proper global error handler
+// Global error handler
 adapter.onTurnError = async (context, error) => {
   console.error("🔥 UNHANDLED BOT ERROR:", error);
   await context.sendActivity("The bot encountered an internal error.");
@@ -75,7 +68,6 @@ adapter.onTurnError = async (context, error) => {
 
 const bot = new StaffAIBot();
 
-// Updated process method for CloudAdapter
 app.post("/api/messages", async (req, res) => {
   await adapter.process(req, res, async (context) => {
     await bot.run(context);
