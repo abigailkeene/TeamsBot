@@ -1,0 +1,148 @@
+DrFirst EPCS - Provider ID Proofing with Experian
+
+------------------------------------------------------------
+Purpose
+------------------------------------------------------------
+
+The purpose of this document is to assist providers in completing the Identity Assurance Level (IAL2) identity proofing process required to electronically prescribe controlled and non-controlled medications through DrFirst.
+
+------------------------------------------------------------
+Provider Identity Proofing Process (IAL2)
+------------------------------------------------------------
+
+Identity Assurance Level 2 (IAL2) is an identity proofing standard that satisfies Surescripts requirements for e-prescribing.  
+
+For a provider account to be authenticated by the Surescripts standard, each provider must complete an identity proofing (IDP) process. Once completed, the provider’s e-prescribing account may be activated.
+
+------------------------------------------------------------
+Step-by-Step Identity Proofing Instructions
+------------------------------------------------------------
+
+1. After Nextech initiates an EPCS invite, the provider will receive a system-generated email from:
+   infinidadmin@drfirst.com
+
+   Open the email and click the link labeled:
+   "Enroll Now"
+
+   This will auto-populate the information on the enrollment screen.
+
+   If the link does not work, a new invitation may be required.
+
+2. The InfinID application will open and display a notification that the organization has requested identity proofing.
+
+   Providers who have previously completed identity proofing may opt to skip this step.
+
+3. Record the temporary session code in case the workflow is interrupted, then select Continue.
+
+4. Complete all mandatory fields:
+   - Home address
+   - Date of birth (DOB)
+   - Mobile phone number
+   - Social security number (SSN)
+
+   Recommended field:
+   - Credit card number
+
+5. If Experian verifies your information, you will be prompted to scan a QR code using a mobile device.
+   If already on a mobile device, select "Tap here" instead.
+
+   Save your temporary session password in case the session times out.
+
+   If Experian does not verify your information, you may be asked credit-related questions before proceeding.
+
+6. Select "Let's Get Started" to consent to identity verification.
+   This includes photographing an identification document.
+
+7. Select the type of identification to submit (example: ID card).
+
+8. Allow camera access and select "Capture ID Photo".
+
+9. Take a photo of the front and back of your identification.
+   Continue when satisfied with the images.
+
+10. Select "Take Selfie" and take a photograph of yourself.
+    Recommended: Take the photo without glasses.
+
+11. You will receive an email confirmation if your identity is successfully verified.
+    If unsuccessful, you will be prompted to retry.
+
+    Keep this email for future reference.
+
+------------------------------------------------------------
+Authenticator (Token) Setup
+------------------------------------------------------------
+
+After identity verification, you must add an authenticator ("token") to your account.
+
+The token generates a one-time PIN (OTP) for two-factor authentication.
+
+Available token options:
+
+- Symantec VIP Access mobile app (soft token)
+- Physical hardware token (fob) manufactured by:
+  - OneSpan
+  - Symantec
+
+Recommended: Register two tokens to avoid being locked out of EPCS access.
+
+If one token is lost and no backup exists, the identity proofing process must be repeated.
+
+------------------------------------------------------------
+Passphrase Setup
+------------------------------------------------------------
+
+Create a passphrase that will be used for EPCS authentication.
+
+Passphrase requirements:
+- 8 to 20 characters
+- At least one uppercase letter
+- At least one number
+- No more than two consecutive repeated characters
+- Avoid special characters
+
+Create a security question and answer for future account recovery.
+These fields are case sensitive.
+
+------------------------------------------------------------
+Verification Code
+------------------------------------------------------------
+
+A verification code will be sent via:
+- SMS text message, or
+- Postal mail (approximately 5–7 business days)
+
+Once received, use the original email link from InfinIDAdmin@drfirst.com to enter the verification code.
+
+If the email cannot be located, the administrator must resend the invitation.
+
+------------------------------------------------------------
+Final Confirmation
+------------------------------------------------------------
+
+After entering the verification code:
+
+1. Enter your passphrase
+2. Enter a one-time PIN from your registered token
+
+You will then receive confirmation that identity proofing and EPCS enrollment are complete.
+
+------------------------------------------------------------
+Final Step: Logical Access Control (LAC)
+------------------------------------------------------------
+
+A clinical administrator must complete Logical Access Control (LAC) to finalize EPCS authorization.
+
+Steps for Clinical Administrator:
+
+1. Log into Nextech
+2. Access a test or demo patient
+3. Open eRx
+4. Click the 3-line menu (top left)
+5. Select Utilities
+6. Select LAC (Logical Access Control)
+7. Select Active next to the provider name
+8. Enter administrator name
+9. Enter provider NPI and click Authorize
+10. Provider selects a token, enters passphrase, and enters one-time passcode
+
+Once complete, the provider is fully authorized to e-prescribe controlled substances (EPCS).

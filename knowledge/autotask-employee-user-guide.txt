@@ -1,0 +1,234 @@
+Autotask Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates IT and operations staff with instructions for using Autotask for IT service management, ticketing, asset tracking, project management, and internal support workflows.
+
+Autotask is the primary system used to:
+- Track IT support requests
+- Manage incidents and problems
+- Document service activity
+- Track assets and devices
+- Manage projects and changes
+- Maintain service history and accountability
+
+Autotask is the official system of record for IT work.
+
+Accessing Autotask
+
+1. Open a web browser
+2. Go to the Autotask login page
+3. Sign in using your assigned Autotask credentials
+4. Complete MFA if prompted
+
+If you cannot log in:
+- Verify your username and password
+- Verify MFA is working
+- Contact IT administration for access
+
+Dashboard Overview
+
+After logging in, you will see the Autotask dashboard.
+
+Key sections include:
+- Tickets
+- Projects
+- Assets
+- Accounts
+- Contacts
+- Time Entries
+- Reports
+
+Tickets
+
+Tickets are used to track all IT requests, incidents, and issues.
+
+Every IT task should have a ticket.
+
+Creating a Ticket
+
+1. Navigate to Tickets
+2. Click New Ticket
+3. Select the correct Account (office location or department)
+4. Select the Contact (requesting user)
+5. Enter the Issue Summary
+6. Enter a detailed Description
+7. Select Priority and Impact
+8. Assign the ticket to the appropriate technician or queue
+9. Save the ticket
+
+Ticket Statuses
+
+Common ticket statuses:
+- New
+- In Progress
+- Waiting on User
+- Waiting on Vendor
+- Scheduled
+- Completed
+- Closed
+
+Updating a Ticket
+
+1. Open the ticket
+2. Add internal notes or customer notes
+3. Update status as work progresses
+4. Add time entries for work performed
+5. Save changes
+
+Closing a Ticket
+
+1. Confirm the issue is resolved
+2. Add final resolution notes
+3. Set status to Completed or Closed
+4. Submit final time entry
+
+Projects
+
+Projects are used for:
+- Office deployments
+- Hardware upgrades
+- Network upgrades
+- Software migrations
+- Security initiatives
+- System rollouts
+
+Creating a Project
+
+1. Navigate to Projects
+2. Click New Project
+3. Enter project name and description
+4. Assign project manager
+5. Set timeline and milestones
+6. Add tasks
+
+Project Tasks
+
+Each project contains tasks.
+
+Tasks include:
+- Description
+- Assigned technician
+- Due date
+- Dependencies
+- Status
+
+Assets
+
+Assets track all Retina Associates IT equipment including:
+- PCs
+- Servers
+- Network devices
+- Phones
+- Tablets
+- Imaging systems (as applicable)
+
+Asset records include:
+- Device name
+- Serial number
+- Location
+- Assigned user
+- Warranty status
+- Configuration details
+
+Viewing Assets
+
+1. Navigate to Assets
+2. Search by device name or user
+3. Open asset record
+
+Updating Assets
+
+1. Open asset record
+2. Edit fields as needed
+3. Save changes
+
+Time Entries
+
+Time entries track all IT work.
+
+All IT work must be logged.
+
+Creating a Time Entry
+
+1. Open assigned ticket or task
+2. Click Add Time Entry
+3. Enter work description
+4. Enter time spent
+5. Save entry
+
+Accounts & Contacts
+
+Accounts represent:
+- Office locations
+- Departments
+- Vendors
+
+Contacts represent:
+- Employees
+- Vendors
+- Partners
+
+Correct account and contact assignment ensures proper reporting and tracking.
+
+Reports
+
+Autotask provides reports for:
+- Ticket volume
+- Resolution times
+- SLA compliance
+- Technician workload
+- Asset inventory
+- Project status
+
+Reports are used for:
+- Management oversight
+- Compliance tracking
+- Performance measurement
+
+Change Management
+
+Major changes should be tracked as:
+- Change tickets
+- Change projects
+
+This includes:
+- Server upgrades
+- Network changes
+- Security updates
+- System migrations
+
+Security & Compliance
+
+Autotask contains sensitive internal information.
+
+Staff must:
+- Use strong passwords
+- Never share credentials
+- Log all work accurately
+- Follow change management procedures
+
+Common Issues & Troubleshooting
+
+Ticket Not Assigned
+- Verify correct queue
+- Verify correct account
+- Update priority if urgent
+
+Missing Asset
+- Confirm asset exists
+- Create new asset record if needed
+
+Cannot Log Time
+- Verify ticket status
+- Verify permissions
+
+Duplicate Tickets
+- Merge or close duplicates
+
+Support
+
+If Autotask issues occur:
+- Document the problem
+- Capture screenshots if needed
+- Contact IT administration

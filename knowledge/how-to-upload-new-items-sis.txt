@@ -1,0 +1,334 @@
+How to Upload New Items (SIS)
+
+Introduction
+
+This guide will walk you through the steps on how to load new items into Envi Inventory that will sync with SIS.
+
+Loading new Inventory Items in Envi is a three-part upload process. It is recommended to complete the following upload types in this order:
+
+1) Inventory – This upload type will populate data found in the Details tab of the item.
+2) Inventory Vendor – This upload type will populate data found in the Vendors tab of the item.
+3) Inventory Locations – This upload type will populate data found in the Locations tab of the item.
+
+
+Requirements
+
+User must have Full Access to Inventory and access to Utilities/Load Data.
+Please contact your Envi Domain Admin if you require access to these modules.
+
+Inventory data needs to be entered in the Envi Item Master Template Excel file.
+Please contact support@envi.com for this template.
+
+To complete all 3 upload types (Inventory, Inventory Vendors, Inventory Locations), the following fields must be entered in the Envi Item Master Template Excel file:
+
+Inventory Group No – default value = 1, please check Org Configurations if you have multiple Inventory Groups.
+Inventory No – Internal Inventory Number, must be unique
+Inventory Description – Limited to 80 characters
+Stock UOM – Lowest UOM, represents On Hand Qty, typically = EA
+Classification – SIS requires one of the following:
+SUPPLY
+MEDICATION
+INSTRUMENT
+EQUIPMENT
+IMPLANT
+
+HCPCS Code – The Healthcare Common Procedure Coding System code for interfacing billing codes in a patient billing system (CPT Code). This field is required by SIS for Billable items.
+
+Facility No – Enter MASTER to upload Master pricing. Enter specific Facility No for Facility Specific pricing.
+Vendor No – Internal Vendor Number
+Vendor Item No – Vendor’s Product Number
+Vendor UOM – Default Purchasing Unit
+Manufacturer No – Internal Manufacturer Number. This field is required by SIS.
+Manufacturer Item No – Manufacturer’s Product Number. This field is required by SIS.
+Location No – Internal Location Number
+
+Item Type – Must be one of the following values:
+Stock
+Non-Stock
+Consignment
+Service
+
+Is Billable – Enter True if item should be marked as Billable.
+Sync Flag – Indicates whether an inventory location is synchronized to SIS. Enter True if item should be synchronized to SIS.
+
+
+Best Practice Tips
+
+Before loading new items into Envi, it is recommended to pull the Inventory Vendors (Extended) and Inventory Locations extracts from the Envi organization and save as backup files. Data uploads in Envi cannot be reversed.
+
+Before uploading Inventory, check to make sure the item does not already exist in Envi. Envi does not automatically identify duplicate or like items.
+
+Item Descriptions must be unique. Duplicate descriptions will cause an error in SIS.
+
+Make sure data only exists in the first tab of the Excel workbook file.
+
+
+1) How to Upload Inventory
+
+Inventory Required Fields
+
+Inventory Group No
+Inventory No
+Inventory Description
+Stock UOM
+Classification
+HCPCS Code
+
+
+Inventory Optional Fields
+
+Inventory Description 2 – Additional description up to 1000 characters
+UNSPSC Code
+Classification 2
+Perioperative Item Category:
+Equipment
+Instrument Trays
+Instruments
+Drapes/Packs
+Supply Trays
+Supplies
+Dressings
+Sutures
+Medications
+Anesthesia Supplies
+Implants
+Specialty Supplies
+
+Default Asset Ledger No
+Default Expense Ledger No
+AR Billing Code
+Notes
+Is Latex
+System Type (Standard or Implant)
+Default Is Billable
+Active Status
+
+
+Inventory Upload Steps
+
+Prepare the File
+Fill out the Envi Item Master Template.
+Save the file as Excel Workbook.
+Inventory No values must not be duplicated.
+
+Navigate to Load Data
+Go to Utilities → Load Data
+
+Select Upload Settings
+Upload Type = Inventory
+File Type = Excel Workbook
+Update Type = Insert Only
+Select File
+
+Map Headers
+Verify headers match Envi fields.
+Adjust mappings if needed.
+Check Add missing Classification if applicable.
+Click Submit.
+
+Confirm Completion
+Once status says Completed, the Inventory Upload is finished.
+Spot check at least one item.
+
+If status shows Terminated, click Check Errors.
+
+Proceed to Inventory Vendor upload.
+
+
+2) How to Upload Inventory Vendors
+
+Inventory Vendor Required Fields
+
+Inventory Group No
+Inventory No
+Facility No
+Vendor No
+Vendor Item No
+Vendor UOM
+Vendor Conversion Factor
+Manufacturer No
+Manufacturer Item No
+
+
+Inventory Vendor Optional Fields
+
+Vendor Cost
+Priority
+Contract No
+Contract Expiration
+GTIN
+Alt Item No
+NDC Number
+Lock Cost
+Active Status
+
+
+Inventory Vendor Upload Steps
+
+Prepare the File
+You may use the same file that was used to upload Inventory.
+Multiple vendors are allowed per Inventory No.
+Priority is required if more than one vendor exists.
+
+Navigate to Load Data
+Go to Utilities → Load Data
+
+Select Upload Settings
+Upload Type = Inventory Vendors
+File Type = Excel Workbook
+Update Type = Insert Only
+Select File
+
+Map Headers
+Verify header mapping.
+Click Submit.
+
+Confirm Completion
+Once status says Completed, the Inventory Vendor Upload is finished.
+Spot check Vendors tab.
+
+Proceed to Inventory Location upload.
+
+
+3) How to Upload Inventory Locations
+
+Inventory Location Required Fields
+
+Inventory No
+Location No
+Item Type
+Is Billable
+Sync Flag
+
+
+Inventory Location Optional Fields
+
+Location Cost
+Default Issue UOM
+Default Issue CF
+Default Count UOM
+Default Count CF
+Price Markup
+Bin Shelf
+Min Quantity
+Max Quantity
+Safety Stock
+Location UOM
+Location CF
+Disable Purchasing
+Active Status
+
+
+Inventory Location Upload Steps
+
+Prepare the File
+Multiple locations allowed per Inventory No.
+
+Navigate to Load Data
+Go to Utilities → Load Data
+
+Select Upload Settings
+Upload Type = Inventory Locations
+File Type = Excel Workbook
+Update Type = Insert Only
+Select File
+
+Map Headers
+Verify header mapping.
+Click Submit.
+
+Confirm Completion
+Once status says Completed, the Inventory Locations Upload is finished.
+Spot check Locations tab.
+
+
+Troubleshooting
+
+Inventory Upload Error Example
+Inventory already exists.
+Solution: Use a unique Inventory No.
+
+Inventory Vendor Error Example
+Vendor record already exists.
+Solution: Update Vendor No, Item No, or Vendor UOM.
+
+Inventory Location Error Example
+Invalid Item Type.
+Solution: Must be Stock, Non-Stock, Consignment, or Service.
+
+
+UOM Best Practices
+
+Stock UOM represents On Hand Quantity and should be the lowest unit tracked.
+
+Vendor UOM represents the purchasing unit.
+
+Conversion Factor defines how many Stock UOM units exist in a Vendor UOM.
+
+If Vendor CF = 1, Stock UOM must equal Vendor UOM.
+If Vendor CF > 1, Stock UOM must not equal Vendor UOM.
+
+
+Example 1 – Break Down to Each
+
+Vendor sells by Box of 100 Each
+Stock UOM = EA
+Vendor UOM = BX
+Vendor CF = 100
+
+Ordering 2 BX increases on hand by 200 EA.
+Location cost equals Vendor Cost divided by 100.
+
+
+Example 2 – Track Only at Box Level
+
+Vendor sells by Box of 100
+Stock UOM = BX
+Vendor UOM = BX
+Vendor CF = 1
+
+Ordering 2 BX increases on hand by 2 BX.
+
+
+Alternate Purchasing Units (Inventory Vendor Units)
+
+Alternate purchasing units are additional purchasing units allowed by a vendor.
+
+Example:
+BX (25) default
+EA (1) alternate
+
+
+Inventory Vendor Units Required Fields
+
+Inventory Group No
+Inventory No
+Facility No
+Vendor No
+Vendor Item No
+Vendor UOM
+Vendor CF
+
+
+Inventory Vendor Units Upload Steps
+
+Prepare File
+Enter alternate purchasing unit in Vendor UOM 2 fields.
+
+Navigate to Load Data
+Upload Type = Inventory Vendor Units
+
+Map Headers
+Map Vendor UOM 2 to Vendor UOM.
+Map Vendor CF 2 to Vendor CF.
+
+Submit upload.
+
+Confirm Completion.
+
+
+Support
+
+support@envi.com
+
+End of Document

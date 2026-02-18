@@ -1,0 +1,40 @@
+DrFirst - How to Download & Sync Medications to ICP
+
+Purpose:
+The purpose of this training is to review how to download and sync the patient’s systemic medications from DrFirst into ICP.
+
+------------------------------------------------------------
+Step-by-Step Instructions
+------------------------------------------------------------
+
+1. In the Sys Meds control, select the eRx button to open DrFirst.
+
+2. Enter the patient’s pharmacy information by selecting:
+   - "Please set the default pharmacy"
+   OR
+   - Bypass if the pharmacy is not known.
+
+3. A list of medications should populate in the Active Medications section in the middle of the page.
+
+   If medications do not populate or the patient reports additional medications:
+   - Click on "Show Medication History"
+
+4. Select the time period to search for Medication History from Other Sources using the drop-down menu.
+
+5. Select any of the appropriate medications to add to the patient’s medication list by selecting the check box next to the desired medications.
+
+   Then click:
+   - "Add to Active Medications"
+
+   Close the DrFirst window.
+
+6. Once back in the Encounter window, click:
+   - "Sync DrFirst" from the Sys Meds control.
+
+   All Active Medications will be added to the patient’s chart.
+
+------------------------------------------------------------
+Summary
+------------------------------------------------------------
+
+This process ensures that the patient’s systemic medications are accurately downloaded from DrFirst and synchronized into the ICP chart, allowing providers to view and manage up-to-date medication records.

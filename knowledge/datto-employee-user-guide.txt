@@ -1,0 +1,207 @@
+Datto Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates IT and operations staff with instructions for using Datto for backup, disaster recovery, endpoint protection, and business continuity.
+
+Datto is used to protect critical systems, servers, workstations, and data against:
+- Hardware failure
+- Ransomware
+- Accidental deletion
+- System corruption
+- Site outages
+
+Datto is a core part of the Retina Associates disaster recovery and business continuity strategy.
+
+Accessing Datto
+
+1. Open a web browser
+2. Go to the Datto Partner or Datto Portal login page
+3. Sign in using your assigned Datto credentials
+4. Complete MFA if prompted
+
+If you cannot log in:
+- Verify your username and password
+- Verify MFA is working
+- Contact IT administration for access
+
+Dashboard Overview
+
+After logging in, you will see the Datto dashboard.
+
+Key sections include:
+- Devices
+- Protected Systems
+- Backups
+- Recovery
+- Alerts
+- Reports
+
+Protected Systems
+
+Protected systems include:
+- Physical servers
+- Virtual machines
+- Workstations
+- Network devices (if configured)
+
+Each protected system has:
+- Backup agent
+- Backup schedule
+- Retention policy
+- Screenshot verification (for servers)
+- Restore points
+
+Viewing Protected Systems
+
+1. Open the Devices or Protected Systems section
+2. Select the system name
+3. Review backup status, last backup time, and health indicators
+
+Backup Status
+
+Backup status indicators:
+- Green: Healthy backups
+- Yellow: Warning or delayed backup
+- Red: Backup failure or agent offline
+
+Backup Types
+
+Datto supports:
+- Image-based backups (full system)
+- File-level backups
+- Cloud replication
+- Local appliance backups
+
+Backup Schedules
+
+Backups run automatically based on policy.
+
+Common schedules include:
+- Hourly backups for servers
+- Daily backups for workstations
+- Nightly replication to cloud
+
+Schedules are configured by IT administration.
+
+Running a Manual Backup
+
+1. Select the protected system
+2. Click Run Backup
+3. Confirm the job
+
+Recovery & Restore
+
+Datto supports multiple restore options:
+- File-level restore
+- Bare-metal restore
+- Virtual machine restore
+- Cloud restore
+
+File Restore
+
+1. Select protected system
+2. Choose a restore point
+3. Browse files
+4. Select files to restore
+5. Download or restore to system
+
+System Restore
+
+Used for full system recovery.
+
+Requires IT administration approval and coordination.
+
+Disaster Recovery
+
+Datto enables:
+- Local appliance virtualization
+- Cloud virtualization
+- Business continuity operations
+
+If a server fails:
+- It can be virtualized locally
+- Or spun up in the Datto cloud
+
+This allows clinic operations to continue while hardware is repaired.
+
+Monitoring & Alerts
+
+Datto generates alerts for:
+- Failed backups
+- Offline agents
+- Storage issues
+- Replication failures
+
+Alerts are monitored by IT.
+
+Reports
+
+Datto provides reports including:
+- Backup success rates
+- Backup health
+- Device protection status
+- Compliance reports
+
+Reports are reviewed regularly by IT leadership.
+
+Endpoint Protection (if enabled)
+
+Datto may be used for:
+- Ransomware protection
+- Endpoint monitoring
+- Threat detection
+
+Security policies are managed by IT.
+
+Agent Management
+
+Each protected system runs a Datto agent.
+
+Agent status must be:
+- Installed
+- Online
+- Up to date
+
+Agent issues may be caused by:
+- Network connectivity problems
+- Firewall blocks
+- System reboots
+- Outdated software
+
+Security & Compliance
+
+- Datto protects HIPAA-sensitive data
+- Encryption is enabled for backups
+- Access is restricted and audited
+
+Staff must:
+- Never disable backup agents
+- Never uninstall Datto software
+- Never change backup schedules
+- Report backup alerts immediately
+
+Common Issues & Troubleshooting
+
+Backup Failed
+- Check system is powered on
+- Check network connection
+- Verify agent is running
+- Escalate to IT
+
+Agent Offline
+- Reboot system
+- Check internet connection
+- Verify firewall is not blocking Datto
+
+Slow Backups
+- Check network bandwidth
+- Verify backup window
+- Check storage capacity
+
+Support
+
+If Datto issues occur:
+- Do not attempt system restores without IT approval
+- Document the issue
+- Contact IT administration immediately

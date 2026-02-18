@@ -1,0 +1,126 @@
+OptosCloud Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates clinical and imaging staff with instructions for using OptosCloud to access, review, and manage retinal imaging captured from Optos devices.
+
+OptosCloud is used to:
+- Access widefield retinal images
+- Review diagnostic imaging
+- Compare historical scans
+- Support physician clinical decisions
+- Provide cloud-based image access
+- Support remote viewing when approved
+
+OptosCloud complements the on-prem Optos Advance system.
+
+What Is OptosCloud
+
+OptosCloud is a cloud-based retinal imaging platform used with Optos widefield retinal cameras.
+
+It provides:
+- Secure cloud image storage
+- Web-based image viewing
+- Historical image comparison
+- Integration with clinical systems
+
+Who Uses OptosCloud
+
+OptosCloud is used by:
+- Physicians
+- Imaging technicians
+- Clinical staff
+- Clinical leadership
+
+Accessing OptosCloud
+
+1. Open a web browser
+2. Navigate to the OptosCloud portal
+3. Sign in with assigned credentials
+4. Complete MFA if required
+
+Access is role-based and audited.
+
+Patient Search
+
+1. Enter patient name, DOB, or MRN
+2. Select patient record
+3. Open imaging study
+
+Image Review
+
+Users can:
+- View widefield retinal images
+- Zoom and pan images
+- Adjust brightness and contrast
+- Compare historical images
+
+Image Types
+
+OptosCloud supports:
+- Color fundus imaging
+- Autofluorescence
+- Red-free imaging
+- Angiography
+
+Image Comparison
+
+Users can:
+- Compare prior studies
+- Track disease progression
+- Document changes
+
+Integration
+
+OptosCloud integrates with:
+- Heidelberg Heyex
+- Nextech IntelleChart (MDI)
+- AthenaHealth
+
+Images are available within the patient chart.
+
+Exporting Images
+
+Image exports are permitted only for approved clinical use.
+
+Exports must follow HIPAA and internal policy.
+
+Common Issues & Troubleshooting
+
+Cannot Log In
+- Verify username and password
+- Check MFA
+- Contact IT
+
+Images Not Appearing
+- Verify study was captured
+- Check patient record
+- Confirm upload completed
+
+Slow Performance
+- Check internet connection
+- Try another browser
+- Contact IT
+
+Wrong Patient Selected
+- Exit immediately
+- Notify supervisor
+- Document correction
+
+Security & Patient Privacy
+
+OptosCloud contains protected health information (PHI).
+
+Staff must:
+- Never share login credentials
+- Never access records without authorization
+- Never download patient images without approval
+- Always log out when finished
+
+Support
+
+For OptosCloud issues:
+- Document the issue
+- Capture screenshots
+- Identify patient MRN
+- Contact IT or imaging systems support

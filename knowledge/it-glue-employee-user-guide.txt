@@ -1,0 +1,279 @@
+IT Glue Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates IT and operations staff with instructions for using IT Glue as the central documentation platform for systems, devices, credentials, vendors, and internal processes.
+
+IT Glue is the official source of truth for IT documentation at Retina Associates.
+
+It is used for:
+- Storing system documentation
+- Tracking hardware and software assets
+- Managing vendor and support information
+- Recording network and infrastructure details
+- Documenting internal processes and procedures
+
+Accessing IT Glue
+
+1. Open a web browser
+2. Go to the IT Glue login page
+3. Sign in using your assigned IT Glue credentials
+4. Complete MFA if prompted
+
+If you cannot log in:
+- Verify your username and password
+- Make sure MFA is working
+- Contact IT administration for access
+
+Dashboard Overview
+
+After logging in, you will see the IT Glue dashboard.
+
+Key sections include:
+- Organizations
+- Configurations
+- Passwords
+- Documents
+- Contacts
+- Locations
+- Domains
+- Flexible Assets
+
+Organizations
+
+Organizations represent business entities.
+
+Retina Associates is stored as an Organization.
+
+Inside the Organization you will find:
+- Locations
+- Configurations
+- Documents
+- Passwords
+- Contacts
+- Vendors
+- Network diagrams
+
+Locations
+
+Locations represent physical office sites.
+
+Retina Associates locations include:
+- Winchester
+- Woodstock
+- Martinsburg
+
+Each location contains:
+- Devices
+- Network equipment
+- ISP information
+- Contacts
+- Diagrams
+
+Configurations
+
+Configurations represent hardware assets.
+
+Examples:
+- Workstations
+- Laptops
+- Servers
+- Firewalls
+- Switches
+- Printers
+- Cameras and imaging devices
+
+Each configuration record includes:
+- Device name
+- Serial number
+- Model
+- Location
+- Assigned user
+- Operating system
+- Warranty information
+- Notes
+
+Adding a Configuration
+
+1. Go to Organizations
+2. Select Retina Associates
+3. Click Configurations
+4. Click New Configuration
+5. Enter device details
+6. Save
+
+Passwords
+
+Passwords store system credentials.
+
+Examples:
+- Server logins
+- Network equipment
+- Vendor portals
+- Application admin accounts
+
+Password entries include:
+- Username
+- Password
+- URL
+- Notes
+- Linked configuration or organization
+
+Security Rules:
+- Never export passwords
+- Never store passwords outside IT Glue
+- Never share passwords via email or chat
+
+Documents
+
+Documents store internal documentation.
+
+Examples:
+- SOPs
+- Network diagrams
+- System procedures
+- Vendor setup guides
+- Internal workflows
+
+Documents can be:
+- Linked to configurations
+- Linked to locations
+- Linked to vendors
+
+Creating a Document
+
+1. Go to Documents
+2. Click New Document
+3. Enter title and category
+4. Add content
+5. Save
+
+Contacts
+
+Contacts store vendor and internal contacts.
+
+Examples:
+- Internet providers
+- Phone system support
+- Software vendors
+- Hardware vendors
+
+Each contact includes:
+- Name
+- Company
+- Phone number
+- Email
+- Notes
+
+Vendors
+
+Vendors represent external service providers.
+
+Examples:
+- Internet providers
+- Phone providers
+- Software vendors
+- Hardware vendors
+
+Vendor records include:
+- Contact information
+- Support numbers
+- Account numbers
+- Contract details
+- Notes
+
+Domains
+
+Domains store website and DNS information.
+
+Includes:
+- Domain name
+- Registrar
+- Expiration date
+- DNS provider
+
+Flexible Assets
+
+Flexible assets store structured data.
+
+Examples:
+- Firewall rules
+- Backup schedules
+- Licensing records
+- Inventory lists
+- Network diagrams
+
+Search
+
+Use the search bar at the top to find:
+- Devices
+- Passwords
+- Documents
+- Contacts
+- Vendors
+
+Search by:
+- Name
+- Serial number
+- IP address
+- Model
+- User
+
+Common IT Glue Tasks
+
+Finding a Device
+1. Search by device name or serial number
+2. Open configuration record
+3. Review details
+
+Finding a Password
+1. Search by system name
+2. Open password record
+3. Use built-in copy function
+
+Finding a Vendor
+1. Search vendor name
+2. Open vendor record
+3. View support info
+
+Finding Documentation
+1. Search document title
+2. Open document
+3. Review procedures
+
+Documentation Standards
+
+All documentation must:
+- Be accurate
+- Be current
+- Be complete
+- Be easy to understand
+
+Update documentation when:
+- Systems change
+- Devices are replaced
+- Vendors change
+- Procedures are updated
+
+Security & Compliance
+
+- IT Glue is a restricted-access system
+- Access is role-based
+- MFA is required
+- Audit logs are enabled
+
+Staff must:
+- Protect credentials
+- Follow documentation standards
+- Report access issues immediately
+
+Support
+
+If IT Glue is unavailable:
+- Check internet connection
+- Verify login credentials
+- Contact IT administration
+
+If documentation is missing or outdated:
+- Update it
+- Notify IT leadership

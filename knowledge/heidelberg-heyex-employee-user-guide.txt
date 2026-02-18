@@ -1,0 +1,148 @@
+Heidelberg Heyex Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates clinical and imaging staff with instructions for using Heidelberg Heyex for ophthalmic imaging workflow management, image storage, and diagnostic image review.
+
+Heyex is used to:
+- Capture retinal images
+- Store diagnostic imaging
+- Review OCT and fundus photography
+- Compare historical images
+- Support physician clinical decisions
+- Integrate with MDI and Optos systems
+
+Heyex is a core imaging platform and must be used accurately and consistently.
+
+What Is Heidelberg Heyex
+
+Heidelberg Heyex is an ophthalmic imaging software platform used with Heidelberg imaging devices such as:
+- OCT scanners
+- Fundus cameras
+- Angiography systems
+
+It manages:
+- Image acquisition
+- Patient imaging records
+- Historical image comparison
+- Device integration
+- Workflow coordination
+
+Who Uses Heyex
+
+Heyex is used by:
+- Imaging technicians
+- Clinical technicians
+- Physicians
+- Scribes
+- Clinical support staff
+
+Accessing Heyex
+
+1. Log into the imaging workstation
+2. Launch Heidelberg Heyex
+3. Sign in with assigned credentials
+
+Access is role-based and tracked.
+
+Patient Search
+
+1. Enter patient name, DOB, or MRN
+2. Select patient from results
+3. Open patient imaging record
+
+Patient Verification
+
+Verify patient identity before imaging:
+- Full name
+- Date of birth
+- Medical record number
+
+Never image the wrong patient.
+
+Image Acquisition
+
+1. Select imaging device
+2. Select exam type
+3. Position patient
+4. Capture images
+5. Review image quality
+6. Save images to patient record
+
+Image Types
+
+Heyex supports:
+- OCT scans
+- Fundus photography
+- Angiography
+- Autofluorescence
+
+Images are automatically stored in the patient record.
+
+Image Review
+
+Providers can:
+- Review current images
+- Compare historical images
+- Analyze disease progression
+- Document findings
+
+Image Integration
+
+Heyex integrates with:
+- Nextech IntelleChart (MDI)
+- Optos Advance
+- AthenaHealth
+
+Images are available within the patient chart.
+
+Image Export
+
+Images may be exported only for approved clinical purposes.
+
+Exports must follow HIPAA policy.
+
+Common Issues & Troubleshooting
+
+Cannot Log In
+- Verify credentials
+- Restart workstation
+- Contact IT
+
+Device Not Connecting
+- Verify cable connections
+- Restart device
+- Restart Heyex
+
+Images Not Saving
+- Check storage space
+- Verify patient record
+- Contact IT
+
+Slow Performance
+- Restart workstation
+- Close unused applications
+- Contact IT
+
+Wrong Patient Selected
+- Stop immediately
+- Notify supervisor
+- Document correction
+
+Security & Patient Privacy
+
+Heyex contains protected health information (PHI).
+
+Staff must:
+- Never share login credentials
+- Never leave images open unattended
+- Never export patient images without approval
+- Always verify patient identity
+
+Support
+
+For Heyex issues:
+- Document the issue
+- Capture screenshots
+- Identify device name
+- Contact IT or imaging systems support

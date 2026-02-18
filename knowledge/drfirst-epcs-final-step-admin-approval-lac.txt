@@ -1,0 +1,132 @@
+DrFirst EPCS – Final Step Admin Approval (LAC)
+
+Purpose:
+This document provides instructions for completing the final administrative approval step
+for Electronic Prescribing of Controlled Substances (EPCS) through DrFirst.
+
+This step must be completed by an authorized administrator in order to activate a provider’s
+EPCS access.
+
+------------------------------------------------------------
+Overview
+------------------------------------------------------------
+
+EPCS onboarding requires the following major steps:
+
+1. Provider identity proofing (Experian)
+2. Two-factor authentication setup
+3. Administrator approval
+4. Final system activation
+
+This document covers the administrator approval step.
+
+------------------------------------------------------------
+Administrator Requirements
+------------------------------------------------------------
+
+The administrator completing this process must:
+
+- Have admin access in DrFirst
+- Be authorized to approve EPCS credentials
+- Have completed their own EPCS registration if required by the organization
+- Be listed as an approving authority in DrFirst
+
+------------------------------------------------------------
+Accessing DrFirst Admin Portal
+------------------------------------------------------------
+
+1. Log into DrFirst using administrator credentials.
+
+2. Navigate to the DrFirst portal.
+
+3. Open the Menu in the upper-left corner.
+
+4. Select Utilities.
+
+5. Select EPCS Administration.
+
+------------------------------------------------------------
+Locating Provider for Approval
+------------------------------------------------------------
+
+1. In the EPCS Administration section, locate the provider pending approval.
+
+2. Providers will appear with a status of:
+   - Pending Admin Approval
+   - Awaiting Final Authorization
+   - Incomplete (if additional steps are required)
+
+3. Select the provider’s name to open their EPCS profile.
+
+------------------------------------------------------------
+Review Provider Information
+------------------------------------------------------------
+
+Verify the following information is accurate:
+
+- Provider full legal name
+- DEA number
+- NPI number
+- Practice location
+- Phone number
+- Email address
+- Identity proofing status (Experian completed)
+- Two-factor authentication completed
+
+If any information is incorrect, the provider must update it before approval.
+
+------------------------------------------------------------
+Approve Provider EPCS Access
+------------------------------------------------------------
+
+1. Select the Approve or Authorize button.
+
+2. Review the EPCS compliance statement.
+
+3. Confirm authorization.
+
+4. Submit approval.
+
+Once submitted, the provider’s EPCS access will be activated.
+
+------------------------------------------------------------
+Confirmation
+------------------------------------------------------------
+
+After approval:
+
+- Provider status will update to “Active”
+- Provider will be able to prescribe controlled substances electronically
+- Two-factor authentication will be required for each controlled substance prescription
+
+------------------------------------------------------------
+Troubleshooting
+------------------------------------------------------------
+
+If provider does not appear in the approval list:
+- Verify they completed Experian identity proofing
+- Verify two-factor authentication setup
+- Verify provider accepted EPCS terms
+
+If approval fails:
+- Confirm admin permissions
+- Verify DEA and NPI numbers
+- Contact DrFirst support
+
+------------------------------------------------------------
+Support
+------------------------------------------------------------
+
+DrFirst Support:
+- Website: www.drfirst.com
+- Support Portal: support.drfirst.com
+
+For Nextech or IntelleChart integrations, contact your implementation specialist.
+
+------------------------------------------------------------
+Compliance Reminder
+------------------------------------------------------------
+
+EPCS is regulated by the DEA and state pharmacy boards.
+All approvals must be completed by authorized administrators only.
+Improper access may result in compliance violations.

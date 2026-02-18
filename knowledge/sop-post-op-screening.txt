@@ -1,0 +1,103 @@
+Standard Operating Procedure (SOP)
+Title: Clinical Post-Op Screening
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+The purpose of screening patients before being seen by the doctor is to ensure that all necessary preliminary information is gathered to facilitate a smooth and efficient examination process. Screening helps with collecting vital information, performing baseline tests, identifying urgent issues, improving clinic efficiency, and enhancing patient care.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including patient preparation, diagnostic testing, assistance during procedures, and equipment maintenance. It ensures standardized, high-quality support in clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+3. Definitions
+• MDI: Electronic Health Record  
+• Gtt: Eye Drops  
+• QAM: Once in the AM  
+• QID: Four Times a Day  
+• QHS: Once at Night  
+• OCT: Optical Coherence Tomography  
+• VA: Visual Acuity  
+• OU: Both Eyes  
+• IOP: Intraocular Pressure  
+
+4. Responsibilities
+• Clinical Technician: One should be able to consistently perform all assigned screening duties within the recommended time frame and in accordance with clinic protocols within 6 months of employment.
+
+5. Screening
+
+5.1 Post-Ops
+
+1. Prepare Materials  
+Grab superbill and post-op bag for 1-day post-op patients.
+
+2. Select Patient  
+Select the patient’s name in MDI and move them into the screening room.  
+Create a new encounter for today’s visit.
+
+3. Prep Chart with Orders  
+Review and prepare the chart with diagnostic orders and gtt information.  
+1-day post-ops do not require OCTs (check the follow-up note; Dr. K may also omit OCTs for some 1-week post-ops).
+
+4. Input Medication (gtts)  
+Input prescribed eye drops for 1-day post-ops:  
+- Atropine QAM  
+- Prednisolone QID  
+- Tobramycin QID  
+- Ointment QHS  
+Adjust if otherwise specified.
+
+5. Call Patient  
+Escort the patient into the room.
+
+6. Confirm Patient Information  
+Verify the patient's name and date of birth.
+
+7. Post-Op Questions  
+Ask: “How’s the post-op eye feeling?”  
+Document response under Chief Complaint: “Patient states [summary of condition].”
+
+8. Chief Complaint Documentation  
+Only 2 elements are needed for post-op visits.  
+Include relevant details from the Post-Op Element Tab (e.g., eye pain, no eye pain, using gtts as prescribed).
+
+9. Review of Symptoms  
+Complete 2 bubbles under Review of Symptoms.
+
+10. Confirm Medication Usage  
+For 1-day post-ops, review gtt instructions with the patient.  
+For 1-week post-ops or more, confirm which drops the patient is using and how often.
+
+11. Check Visual Acuity (VA)  
+For 1-day post-ops, check VA of post-op eye only.  
+For other post-ops, check VA OU.
+
+12. Check Fields, Pupils, and Motility  
+For 1-day and 1-month post-ops, perform checks on post-op eye only.  
+For other post-ops, check OU.
+
+13. Check Intraocular Pressure (IOP)  
+Administer numbing drops and check IOP.  
+For 1-day post-ops, check IOP of post-op eye only.  
+For other post-ops, check IOP OU.  
+If IOP is above 22, ask the doctor if dilation is okay.
+
+14. Administer Eye Drops for 1-Day Post-Ops  
+Administer post-op eye drops minus antibiotic ointment.  
+Record administration time in the chart.
+
+15. Dilate Eye  
+Dilate the post-op eye only unless otherwise specified.
+
+Important Notes  
+Doctors prefer seasoned technicians for post-op patients.  
+Follow procedure efficiently to ensure timely evaluations.
+
+6. Review
+Reviewed annually and updated as necessary.
+
+Revision History  
+1.0 2024-10-25 Initial Creation Theresa Hilliard

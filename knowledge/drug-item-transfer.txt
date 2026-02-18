@@ -1,0 +1,91 @@
+DRUG ITEM TRANSFER PROCEDURE
+RETINA ASSOCIATES
+
+--------------------------------------------------
+PURPOSE
+
+This document outlines the procedure for transferring drug inventory items between Retina Associates locations to ensure accurate tracking, accountability, and compliance.
+
+--------------------------------------------------
+SCOPE
+
+This procedure applies to all clinical and administrative staff responsible for handling, transporting, and documenting drug inventory transfers between facilities.
+
+--------------------------------------------------
+RESPONSIBILITIES
+
+Clinic Staff:
+- Prepare drugs for transfer
+- Verify quantities and expiration dates
+- Ensure proper packaging and documentation
+
+Receiving Clinic:
+- Verify received items
+- Confirm quantities and condition
+- Update inventory records
+
+Management:
+- Approve transfers when required
+- Ensure compliance with inventory policies
+
+--------------------------------------------------
+TRANSFER PROCEDURE
+
+1. Initiating a Transfer
+- Identify the drug item(s) needing transfer
+- Verify item name, lot number, quantity, and expiration date
+- Obtain approval from management if required
+
+2. Preparing the Transfer
+- Package drugs securely according to temperature and handling requirements
+- Label package with:
+  - Drug name
+  - Quantity
+  - Lot number
+  - Expiration date
+  - Sending and receiving location
+
+3. Documentation
+- Complete the Drug Item Transfer form
+- Include:
+  - Date of transfer
+  - Sending clinic
+  - Receiving clinic
+  - Drug details
+  - Quantity transferred
+  - Staff signatures
+
+4. Transport
+- Use approved courier or internal transport method
+- Maintain temperature control if required
+
+5. Receiving Process
+- Inspect package upon arrival
+- Verify contents against transfer documentation
+- Report discrepancies immediately
+
+6. Inventory Update
+- Update inventory system at both sending and receiving locations
+- File completed transfer documentation
+
+--------------------------------------------------
+DISCREPANCIES OR DAMAGE
+
+- Report immediately to management
+- Do not use damaged or compromised drugs
+- Follow incident reporting procedures
+
+--------------------------------------------------
+COMPLIANCE
+
+All transfers must comply with:
+- Internal inventory policies
+- State and federal regulations
+- Manufacturer handling requirements
+
+Failure to follow this procedure may result in disciplinary action.
+
+--------------------------------------------------
+DOCUMENT CONTROL
+
+This procedure is reviewed periodically and updated as needed by management.

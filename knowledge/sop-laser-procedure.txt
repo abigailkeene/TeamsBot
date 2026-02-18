@@ -1,0 +1,104 @@
+Standard Operating Procedure (SOP)
+Title: Clinical Laser Procedure
+Document Number: DO-001
+Effective Date: 2024-10-29
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+At Retina Associates, laser treatments serve several purposes in managing retinal and other eye conditions. Some of the primary uses include treatment of diabetic retinopathy, managing retinal tears or detachments, treatment of AMD (age-related macular degeneration), reduction of macular edema, and secondary cataract (posterior capsular opacification). Laser treatments are generally quick, minimally invasive, and effective in managing various eye conditions, helping patients maintain or improve their vision over time.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including patient preparation, diagnostic testing, assistance during procedures, and equipment maintenance. It ensures standardized, high-quality support in clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+3. Definitions
+AMD: Age-Related Macular Degeneration  
+MDI: Electronic Health Record  
+OCT: Optical Coherence Tomography  
+HPI: History of Present Illness  
+VA: Visual Acuity  
+IOP: Intraocular Pressure  
+LBS: Low Blood Sugar  
+
+4. Responsibilities
+Clinical Technician: One should be able to consistently perform all assigned duties within the recommended time frame and in accordance with clinic protocols within 6 months of employment.
+
+5. Laser
+
+5.1 Tools and Materials Required for Procedure
+
+Laser  
+Purpose: Ophthalmic lasers are used for a variety of procedures, including correcting refractive errors, treating retinal tears or detachment, glaucoma management, and capsulotomy after cataract surgery.
+
+Occluder  
+Purpose: A handheld device used to cover one eye during an eye exam.
+
+Pinhole  
+Purpose: Used to determine if refractive error is the cause of decreased visual acuity.
+
+Tono-Pen  
+Purpose: Handheld tonometer used to measure intraocular pressure.
+
+Phenylephrine  
+Purpose: Mydriatic drug used to dilate pupils.
+
+Tropicamide  
+Purpose: Mydriatic drug used to dilate pupils.
+
+Tetracaine  
+Purpose: Local anesthetic drop used to numb the eye.
+
+5.2 Laser Treatment Preparation and Screening Protocol
+
+1. Review treatment notes in MDI and always prioritize treatment notes over standard protocols.
+
+2. Screening steps:
+Follow clinical screening protocol in MDI.
+Do not perform OCT for any doctor except Dr. Ruggiero unless specified.
+
+3. Update patient history:
+Update laser history and most recent treatment date.
+Document affected eye and type of laser.
+Document VA status and presence of floaters or flashes.
+
+4. Mental status check:
+Assess and document mental status.
+
+5. Diabetic patients:
+Document A1C and recent low blood sugar events.
+
+6. Specialty medications:
+Document any current eye drops or specialty medications.
+
+7. Consent:
+Ensure laser consent is signed in MDI and matches diagnosis.
+
+8. Vision and IOP testing:
+Check VA and IOP in both eyes using occluder, pinhole, and Tono-Pen.
+
+9. Pupil dilation:
+Dilate laser eye only using Phenylephrine and Tropicamide.
+
+10. Transfer patient to laser room.
+
+5.3 Rooming Patients for the Procedure
+
+1. Seat patient comfortably.
+
+2. Confirm treatment eye:
+Verify consent in MDI.
+Place white sticker over treatment eye.
+
+3. Prepare imaging if applicable.
+
+4. Administer Tetracaine drops every 10 minutes and document times on superbill.
+
+5. Notify doctor when patient is ready.
+
+6. Review
+This SOP will be reviewed annually and updated as necessary.
+
+Revision History
+1.0 2024-10-29 Initial Creation Theresa Hilliard

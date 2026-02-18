@@ -1,0 +1,94 @@
+Standard Operating Procedure (SOP)
+Title: Clinical OCT (Optical Coherence Tomography) Procedure
+Document Number: DO-001
+Effective Date: 2024-10-29
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+The purpose of the OCT (Optical Coherence Tomography) procedure is to provide detailed imaging of the retina’s layers, enabling doctors to detect, monitor, and manage various eye conditions, such as macular degeneration, diabetic retinopathy, and glaucoma. OCT allows for non-invasive, cross-sectional imaging, giving precise insights into retinal thickness and structural abnormalities. This helps in early diagnosis, tracking disease progression, and evaluating the effectiveness of treatments, ultimately supporting better patient outcomes and personalized care.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including patient preparation, diagnostic testing, assistance during procedures, and equipment maintenance. It ensures standardized, high-quality support in clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+3. Definitions
+• MDI: Electronic Health Record  
+• OCT: Optical Coherence Tomography  
+• FAF: Fundus Autofluorescence  
+• ABN: Advanced Beneficiary Notice  
+• VA: Visual Acuity  
+• IOP: Intraocular Pressure  
+
+4. Responsibilities
+• Clinical Technician: One should be able to consistently perform all assigned screening duties within the recommended time frame and in accordance with clinic protocols within 6 months of employment.
+
+5. OCT
+
+5.1 OCT Procedure
+
+1. Prepare the Patient’s Superbill  
+Retrieve the patient’s superbill and verify the imaging orders.
+
+2. Access Patient Information  
+Open the patient’s profile in MDI.  
+Launch Intellefile to view patient records.
+
+3. Set Up in Heyex  
+In Heyex, click Examination and select New Patient.  
+Enter the patient’s ID number. For new patients, select New Patient and enter all relevant details (ID number, last name, first name, gender, DOB), then click Save.
+
+4. Start Examination  
+Input your initials in the Operator field and select Save and Start Examination.  
+When the eye data box appears, click OK to load the patient’s information on the camera.
+
+5. Patient Verification and Setup  
+Call in the patient, verify their DOB, and position them with their chin and forehead on the rests.  
+Press the yellow power button for the headrest.
+
+6. Capture Images  
+If the patient has previous images, select Follow Up.  
+For new patients, create a 30x20 cube.  
+After capturing images, click Exit to allow images to load.
+
+7. Display and Review Images  
+Highlight all images and choose Display.  
+Open Thickness Map view, align target to the lowest point on the Foveal Pit, and save.
+
+8. Set Reference for Progression  
+Select both eyes and choose Progression.  
+Create a reference if one is not set.
+
+9. Print and Save Report  
+Click Print, verify Thickness Map Single Exam Report, select Preview, then Save As.
+
+10. Upload to Intellefile  
+Browse for patient file, save, select File Type as OCT, click Send to Chart, and confirm deletion.
+
+11. Update Patient Flow  
+Move patient to Waiting 2 or an exam room.
+
+5.2 Rooming Patients for OCT
+
+Ensure all OCTs are saved.
+
+Prepare room and equipment.  
+Escort patient to exam chair.
+
+Displaying OCTs in Heyex:
+Open Heyex  
+Search patient  
+Verify DOB
+
+Displaying Fundus Photos (OPTOS):
+Log into Optos  
+Find patient  
+Verify DOB  
+Display photos
+
+6. Review
+This will be reviewed annually and updated as necessary.
+
+Revision History  
+1.0 2024-10-29 Initial Creation Theresa Hilliard

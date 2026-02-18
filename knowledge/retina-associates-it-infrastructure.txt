@@ -1,0 +1,195 @@
+Retina Associates IT Infrastructure
+
+===============================
+Hardware Information
+===============================
+
+1. Total number of PCs across all locations: 73 (excluding servers)
+
+2. Location Breakdown:
+
+Winchester – Number of PCs: 55  
+Number of Servers: 7  
+
+Woodstock – Number of PCs: 9  
+
+Martinsburg – Number of PCs: 9  
+
+3. Office Locations:
+
+190 Campus Boulevard, Suite 320, Winchester, Virginia 22601  
+115 W Spring Street, Woodstock, Virginia 22664  
+1008 Tavern Road, Suite 203, Martinsburg, West Virginia 25401  
+
+4. Operating System Status:
+
+All PCs running Windows 11: No  
+Number still on Windows 10: 4  
+
+Winchester Windows 10 Devices:  
+- HE4 (Heidelberg Camera 2) – Can be upgraded / Compatible  
+- HE2 (Main Heidelberg Camera) – Can be upgraded / Compatible  
+- LSRRM – Not compatible with Windows 11  
+
+Woodstock Windows 10 Devices:  
+- None  
+
+Martinsburg Windows 10 Devices:  
+- HE (Heidelberg Camera) – Not capable of upgrading to Windows 11  
+
+5. PC Inventory:
+
+Inventory available: Yes  
+Inventory can be provided: Yes  
+
+6. Phone System:
+
+Phone system type: VoIP  
+VoIP provider: Go-To  
+Provider supplies phones: Yes  
+
+===============================
+Network Information
+===============================
+
+8. Number of physical servers: 3  
+
+9. Virtual Machines:
+
+Servers host VMs: Yes  
+Number of VMs: 4  
+
+10. Firewall / Router by Location:
+
+Martinsburg: Sonicwall TZ-400  
+Winchester: Sonicwall TZ-370 and TZ-470  
+Woodstock: Sonicwall TZ-270  
+
+11. VPN connections between locations: Yes  
+
+12. Staff work remotely: Yes  
+
+13. VPN / Remote access software: Yes  
+
+14. Network Switches:
+
+HP Aruba 24 PoE and 48 PoE (all locations)  
+Unifi Pro PoE 48 port (all locations)  
+
+15. Switch Management:
+
+Switches fully managed: Yes  
+
+16. VLAN Configuration:
+
+VLANs in use: Yes  
+VLANs include:
+- Voice VLAN  
+- Guest WiFi  
+- Data (primary network)  
+
+17. Wireless Access Points:
+
+Make / Model: Ubiquiti AC Pro  
+
+18. Number of Access Points:
+
+Winchester: 4  
+Woodstock: 2  
+Martinsburg: 2  
+
+19. Central AP Management:
+
+Centrally managed: Yes  
+Managed by: TTS and Ubiquiti Cloud  
+
+20. Internet Providers and Speeds:
+
+Winchester: Shentel – 1Gb  
+Woodstock: Shentel – Speed unknown  
+Martinsburg: Shentel – Speed unknown  
+
+===============================
+Software Information
+===============================
+
+21. Antivirus Software:
+
+SentinelOne  
+
+22. Microsoft 365 in Use: Yes  
+
+23. Exchange Online Email: Yes  
+
+24. Heidelberg Software (Heyex):
+
+Used for ophthalmic imaging workflow management, image storage, and review of diagnostic images from Heidelberg devices (OCT, fundus photography). Supports clinical review, comparison of historical images, and integration with MDI and Optos.
+
+Staff roles using Heyex:
+- Physicians  
+- Technicians  
+- Imaging staff  
+- Clinical support staff  
+
+Stores patient information: Yes  
+
+Type of patient information stored:
+- Patient identifiers (name, DOB, MRN)  
+- Ophthalmic diagnostic images (OCT, fundus images, angiography)  
+- Exam dates  
+- Image-associated clinical metadata  
+
+===============================
+Other Important Tools & Software
+===============================
+
+OptosAdvance (on-prem server) / OptosCloud  
+Used for retinal imaging and image storage from Optos devices. Provides access to widefield retinal images for providers and clinical staff. Integrated with Heyex.
+
+Nextech IntelleChart (MDI)  
+Electronic Health Record (EHR) system used for clinical documentation, charting, and patient encounter records. Integrated with Heyex and Optos.
+
+AthenaHealth (Practice Management)  
+Practice management system used for scheduling, billing, insurance workflows, claims management, and patient administrative data. Integrated with MDI and Go-To.
+
+PX Technology (Tablets)  
+Used for patient enrollment, prior authorization management, insurance coordination, and workflow tracking related to specialty medications and treatments.
+
+McKesson RetinaOS  
+Inventory and supply management system used to track medical supplies, medications, and usage within the practice.
+
+QGenda  
+Physician and staff scheduling platform used for call schedules, clinic coverage, and shift management.
+
+Paychex  
+Payroll and HR platform used for employee pay processing, tax filings, and HR functions.
+
+QuickBooks  
+Accounting software used for financial tracking, expenses, and bookkeeping.
+
+Rectangle  
+Point-of-sale payment system used for in-office payments and transactions.
+
+Epic  
+Electronic Health Record (EHR) system used for patient records, clinical documentation, and care coordination. Used by physicians.
+
+Citrix  
+Remote access and application virtualization platform used to securely access internal systems from off-site locations. Used by physicians.
+
+Waystar  
+Revenue cycle management and claim processing tool used for insurance eligibility checks, claim submission, and payment workflows. Integrates with McKesson.
+
+Envi  
+Inventory management system used to track supplies, equipment, or assets.
+
+iMonnit (Temperature Sensors)  
+Environmental monitoring system used to track temperature and alerts for medication refrigerators and critical storage areas.
+
+T-Mobile  
+Cellular hotspot devices providing backup or remote network access for temperature sensors.
+
+LorexCloud  
+Video surveillance system used for security monitoring and camera access across office locations.
+
+Squarespace, Canva, Meta Business Suite  
+Used for website hosting, marketing design, and social media management.

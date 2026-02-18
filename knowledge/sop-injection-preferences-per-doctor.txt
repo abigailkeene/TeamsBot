@@ -1,0 +1,229 @@
+STANDARD OPERATING PROCEDURE (SOP)
+Clinical Injection Procedure Preference Per Doctor
+
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+--------------------------------------------------
+1. PURPOSE
+
+Injections are administered to treat various retinal conditions that, if left unmanaged, could lead to vision loss. These injections deliver medication directly into the eye to effectively target retinal conditions.
+
+Injections are quick and minimally invasive and help preserve and, in some cases, improve vision over time. At Retina Associates, the goal of each injection is to support the health and function of patients' eyes and maintain their quality of life.
+
+This structured guide ensures effective assistance during the injection process while accommodating each doctor’s specific preferences.
+
+--------------------------------------------------
+2. SCOPE
+
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including:
+
+- Patient preparation
+- Diagnostic testing
+- Assistance during procedures
+- Equipment maintenance
+
+It ensures standardized, high-quality clinical operations and supports effective retina treatments.
+
+--------------------------------------------------
+3. DEFINITIONS
+
+MDI: Electronic Health Record  
+OCT: Optical Coherence Tomography  
+
+--------------------------------------------------
+4. RESPONSIBILITIES
+
+Clinical Technician:
+- Must consistently perform assigned injection duties according to clinic protocols
+- Expected to achieve competency within 6 months of employment
+
+--------------------------------------------------
+5. INJECTION PROCEDURE
+
+--------------------------------------------------
+5.1 SUPPLIES NEEDED FOR INJECTION
+
+1. Stickers:
+- For the patient’s forehead to mark the correct eye and drug
+
+2. Drops:
+- Tetracaine (anesthetic)
+- Betadine (antiseptic)
+- Ketorolac (anti-inflammatory)
+- Vigamox (keep available if chart specifies 1 gtt of Betadine)
+
+Note: Always check expiration dates and review treatment notes for any known drop allergies.
+
+3. Gloves:
+- Gloves in your size and the doctor’s preferred size
+
+4. Tissues:
+- For patient comfort and cleanup
+
+5. Addi Packs:
+- For post-procedure care
+
+6. Extra Needles:
+- As needed during the procedure
+
+7. Sterile Drapes:
+- To maintain a sterile field
+
+8. Speculums and Calipers:
+- For eye positioning and measurement
+
+9. Sanitizing Wipes:
+- For cleaning surfaces and maintaining a sterile environment
+
+--------------------------------------------------
+5.2 INJECTION PROCEDURE FOR CLINICAL TECHNICIANS
+
+1. Get Superbill:
+- Retrieve superbill for billing
+
+2. Overview Patient Chart:
+- Go to injection room
+- Review chart to confirm:
+  - Correct injection interval
+  - Correct eye
+  - Any special numbing instructions
+
+3. Call Patient In:
+- Verify DOB
+- Confirm drug
+- Confirm correct eye
+
+4. Administer Numbing Drops:
+- Administer Tetracaine
+- Start timer
+
+5. Retrieve Drug:
+- Obtain drug from refrigerator
+
+6. Open OCTs and Chart:
+- Open OCTs in chart
+- Go to procedure tab
+- Initial assistant section
+- Update central thickness OCT
+- Check green History box
+
+7. Administer Betadine Drop:
+- Provide Betadine for sterilization
+
+8. Set Up Tray:
+- Prepare all required supplies
+
+9. Draw Up Drug (if needed):
+- Draw medication per doctor preference
+
+10. Fill Out Logbook:
+- Record date and lot number
+
+11. Assist with Injection:
+- Assist doctor as needed
+
+12. Clean Up:
+- Clean tray and chair
+
+13. Get Next Superbill:
+- Prepare for next patient
+
+Notes:
+- Check expiration dates on all supplies
+- Maintain clear communication
+- Follow all safety and hygiene protocols
+
+--------------------------------------------------
+5.3 STEP-BY-STEP ASSISTING GUIDE PER DOCTOR
+
+--------------------------------------------------
+A. DR. ERIC STEUER
+
+- Turn on overhead light
+- Prepare drug and needle
+- Wait for speculum and caliper placement
+- Pass drug and needle
+- Apply Betadine on caliper mark
+- Prepare tissues and Addi pack
+- Provide visual target for patient
+- Place tissue under speculum
+- Rinse with Addi pack
+- Administer Ketorolac
+- Turn off light
+- Raise chair carefully
+- Uses large sterile gloves and foam hand sanitizer
+
+--------------------------------------------------
+B. DR. JASON RUGGIERO and DR. ANDREW MCFARLAND
+
+- Prepare Betadine and wait for caliper placement
+- Apply Betadine to caliper mark
+- Pass drug and needle
+- Prepare tissues and Addi pack
+- Provide patient target if needed
+- Place tissue under speculum
+- Doctor rinses with Addi pack
+- Administer Ketorolac
+- Raise chair carefully
+
+Dr. Ruggiero:
+- Uses light
+- Prefers medium sterile gloves
+- Likes cotton tip on tray near caliper/speculum
+
+Dr. McFarland:
+- Does not use light
+- Prefers large sterile gloves
+
+--------------------------------------------------
+C. DR. SHANIA RUBINO
+
+- Prepare drug and needle
+- Wait for speculum and caliper placement
+- Pass drug and needle
+- Apply Betadine on caliper mark
+- Prepare tissues and Addi pack
+- Provide visual target
+- Place tissue under speculum
+- Doctor rinses with Addi pack
+- Administer Ketorolac
+- Raise chair carefully
+- Uses small gloves
+- Does not use light
+
+--------------------------------------------------
+D. DR. NANCY KUNJUKUNJU
+
+- Prepare drug and needle
+- Pass drug and needle
+- Doctor places speculum
+- Apply Betadine
+- Doctor marks with caliper
+- Apply Betadine to caliper mark
+- Prepare tissues and 2 Addi packs
+- Provide visual target
+- Place tissue under speculum
+- Doctor rinses with Addi packs
+- Administer Ketorolac
+- Raise chair carefully
+- Uses large sterile gloves
+- Uses light
+- For left eye injections, doctor stands on patient’s left side
+
+--------------------------------------------------
+6. REVIEW
+
+This SOP will be reviewed annually and updated as necessary to ensure continued compliance and efficiency.
+
+--------------------------------------------------
+REVISION HISTORY
+
+Revision Number: 1.0  
+Date: 2024-10-25  
+Description: Initial Creation  
+Revised By: Theresa Hilliard

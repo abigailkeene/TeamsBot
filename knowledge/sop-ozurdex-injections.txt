@@ -1,0 +1,117 @@
+Standard Operating Procedure (SOP)
+Title: Clinical Ozurdex Injections
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+Injections are primarily administered to treat various retinal conditions that, if left unmanaged, could lead to vision loss. These injections typically deliver medication directly into the eye, where they can most effectively target issues within the retina. Injections are generally quick and minimally invasive, providing direct treatment to help preserve and, in some cases, improve vision over time. At Retina Associates, our goal with each injection is to support the health and function of patients' eyes and maintain their quality of life.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including patient preparation, diagnostic testing, assistance during procedures, and equipment maintenance. It ensures standardized, high-quality support in clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+3. Definitions
+• MDI: Electronic Health Record  
+• IOP: Intraocular Pressure  
+
+4. Responsibilities
+• Clinical Technician: One should be able to consistently perform the assigned injection duties in accordance with clinic protocols within 6 months of employment.
+
+5. Injection Procedure
+
+5.1 Supplies Needed for Injection
+• Ozurdex Stickers  
+• Eye Drops  
+  - Tetracaine  
+  - Betadine  
+  - Ketorolac  
+  - Vigamox (use if patient has Betadine allergy per chart notes)  
+• Sterile Gloves (doctor’s preferred size)  
+• Ozurdex medication  
+• Tissues and Addi Packs  
+• Sterile Drapes  
+• Cotton Tips  
+• Speculums and Calipers  
+• Sanitizing Wipes / Alcohol Spray  
+
+5.2 Injection Procedure for Clinical Technicians
+
+1. Prepare Superbill  
+Obtain the superbill.
+
+2. Review Patient Chart  
+Verify correct eye and treatment instructions.
+
+3. Patient Verification and Preparation  
+Verify DOB, drug, and eye.  
+Lean patient back and place Ozurdex sticker.
+
+4. Administer Initial Numbing Drop  
+Administer Tetracaine and start 5-minute timer.
+
+5. Prepare Patient Chart in OCT System  
+Open OCT images and chart.  
+Verify coding, follow-up, procedure tab, assistant initials.  
+Update center thickness and review history notes.
+
+6. Retrieve and Dispense Ozurdex  
+Obtain Ozurdex from cabinet.  
+Log into Lynx, enter patient ID, dispense via QR scan.
+
+7. Administer Additional Drops  
+At 5 minutes give another Tetracaine drop and Betadine.
+
+8. Notify Doctor  
+Inform doctor patient is ready.
+
+9. Set Up the Tray  
+Prepare tray with standard supplies and Ozurdex.
+
+10. Complete Logbook Entry  
+Record procedure.
+
+11. Assist with Injection  
+Assist doctor as needed.
+
+12. Clean Up  
+Sanitize tray and chair.
+
+5.3 Step-by-Step Injection Assistance
+
+1. Prepare Betadine  
+Wait for speculum/caliper placement, drop Betadine.
+
+2. Provide Medication  
+Pass medication or place on tray.
+
+3. Assist with Cotton Tips  
+
+4. Prepare Tissue and Addi Pack  
+
+5. Post-Injection  
+Place tissue under speculum.
+
+6. Administer Ketorolac  
+
+7. Adjust Chair  
+Sit patient up safely.
+
+8. Complete Visit  
+Provide encounter sheet and send to checkout.
+
+Doctor Preferences
+
+• Dr. Steuer: Size 8 gloves, uses light  
+• Dr. McFarland: Size 8 gloves, no light  
+• Dr. Kunjukunju: Size 6.5 gloves, uses light  
+• Dr. Ruggiero: Size 7.5 gloves, uses light  
+• Dr. Rubino: Size 6.5 gloves, no light  
+
+6. Review
+Reviewed annually and updated as necessary.
+
+Revision History  
+1.0 2024-10-25 Initial Creation Theresa Hilliard

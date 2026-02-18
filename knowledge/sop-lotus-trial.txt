@@ -1,0 +1,110 @@
+Standard Operating Procedure (SOP)
+LOTUS
+Leveraging Ocular Tissue in Uveitis Study
+Site: Retina Associates
+Title: Sample Collection Instructions
+Document Number: DO-001
+Effective Date: 2024-12-20
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Nancy Kunjukunju, MD.
+
+1. Purpose
+The purpose of this study is to conduct international surveillance of pathogens causing uveitis, characterize host gene expression profiles in infectious uveitis, and identify noninvasive diagnostic biomarkers in tear samples to differentiate between infectious and noninfectious uveitis in patients with ocular inflammation.
+
+2. Scope
+This Standard Operating Procedure (SOP) outlines the processes for sample collection, handling, preservation, transport, and documentation for the Leveraging Ocular Tissue in Uveitis Study. It applies to all clinical and laboratory staff involved in the study and ensures consistency and compliance with ethical and regulatory standards.
+
+3. Definitions
+OCULAR: Intraocular fluid
+
+4. Responsibilities
+
+Physician:
+- Ensure patient safety and obtain informed consent.
+- Perform or oversee sample collection following protocols.
+- Adhere to ethical and regulatory guidelines.
+
+Clinical Team:
+- Prepare patients and assist with procedures.
+- Record accurate data and manage equipment.
+- Handle, label, and transport samples securely.
+
+5. Sample Collection Process
+
+5.1 Supplies
+
+Intraocular sample:
+- 3 drops
+
+Additional supplies:
+- 2 face masks (patient and doctor)
+- 2 alcohol pads
+- Clinical baseline form
+- Photos based on disease subtype
+- 4-week follow-up form
+- 2 bleach wipes
+- 2 pre-labeled tubes "Ocular fluid samples"
+- 2 pairs of gloves
+
+AC Paracentesis supplies:
+- Eye pad or 4x4 gauze
+- Cue tip
+- Lidocaine drops
+- Betadine drops
+- Empty 1cc syringe with 30g needle
+- Lid speculum
+
+5.2 Preparation Instructions
+
+1. Participant followed by the doctor signs consent form.
+   - If under 18, patient signs assent form and guardian signs consent form.
+
+2. Clean work area:
+   - Use one bleach wipe to wipe work surface.
+   - Use second bleach wipe to clean scissors.
+
+3. Begin filling out baseline clinical form.
+   - Ensure study ID matches barcode on sample tubes.
+   - Place patient label on back of forms.
+
+4. Prepare tubes:
+   - Circle R or L for eye on tubes.
+   - Collect ocular fluid from LEFT eye only.
+
+5.3 Intraocular Collection Instructions
+
+IMPORTANT: The doctor and patient do not talk during sample collection. Both wear masks. Doctor wears gloves.
+
+1. Perform AC paracentesis at slit lamp.
+2. Remaining fluid after standard of care testing is used for deep sequencing.
+3. Open tube labeled "Ocular Fluid" with green cap.
+4. Place minimum of 3 drops into tube.
+   - Do not let syringe touch tube.
+5. Recap tube tightly.
+6. Send standard of care samples as usual.
+
+5.4 Close-Out
+
+1. Place tubes into freezer in LOTUS Study Box.
+2. Keep all vials grouped by participant.
+3. Leave one empty space between participant groups.
+4. Complete baseline form and open LOTUS Qualtrics via QR code.
+5. Select site ID.
+6. Enter 3-digit subject ID.
+7. Upload images to Qualtrics.
+8. Delete study photos from personal phones.
+9. Confirm submission screen.
+
+5.5 4-Week Close-Out
+
+1. Complete 4-week study form.
+2. Use QR link and mark as 4-week visit.
+3. Upload form and optional clinical photos.
+
+6. Review
+This SOP will be reviewed annually and updated as necessary.
+
+Revision History
+1.0 2024-12-26 Initial Creation Theresa Hilliard

@@ -1,0 +1,22 @@
+{
+  "name": "staff-ai",
+  "version": "1.0.0",
+  "description": "Internal staff AI for Retina Associates",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "botbuilder": "^4.23.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "faiss-node": "^0.5.1",
+    "node-fetch": "^3.3.2",
+    "pdfjs-dist": "^5.4.530"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

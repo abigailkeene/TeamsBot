@@ -1,0 +1,186 @@
+athenaOne Home Page
+athenaCollector + athenaClinicals
+
+Your athenaOne home page appears when you first log in to athenaOne. To return to your home page from anywhere in athenaOne, click the athenaOne logo at the upper left of your screen. You can click your username in the upper right corner of the screen to select your default home page. Your options depend on your user role and your practice configuration: clinician or non-clinician.
+
+Tip: To return to your home page, click the athenaOne logo in the upper left corner of your screen.
+
+SETTING YOUR DEFAULT HOME PAGE
+
+Click your username in the upper right corner of the screen.
+Under USER HOMEPAGE, select an option.
+You can change the default home page in the username menu at any time.
+
+CLINICIAN HOME PAGE
+
+This home page displays appointments and tasks that are central to the clinician's daily workflow.
+
+Note: This option requires athenaClinicals.
+
+RECORD ACCESS RESTRICTION AND PRIVACY PROTECTION
+
+When a patient has a Record Access Restriction privacy protection note applied, only users with the Privacy: Access Blocked Patients or the Emergency Access: Privacy: Access Blocked Patients permission can access charts that have this privacy protection, or the user must be a rendering, scheduling, or supervising provider for the patient.
+
+A rendering, scheduling, or supervising provider for an appointment can access a restricted patient’s record for 15 days before and after the appointment without specific permissions.
+
+Xs replace the patient's information such as their photo, name, age, date of birth, and phone number for unauthorized users.
+
+CLINICIAN INBOX (LEFT PANE)
+
+The Clinical Inbox (left panel) displays all clinical documents assigned to the users in your practice.
+
+You can use the View by menu at the top of the Inbox to sort the list by Type or Assigned to.
+
+Click a row in the Inbox to review the outstanding items in a worklist.
+Click the left arrow icon to return to the original view of your Inbox.
+
+The Urgent Tasks row appears at the top of the Inbox if any urgent tasks are assigned to you. A task is flagged as urgent under these circumstances:
+
+In a clinical document, result, or correspondence, the "This task is urgent" option was selected.
+
+An order was marked as STAT during the order workflow.
+
+An encounter contains an order that was marked as STAT, causing the encounter itself to be marked as Urgent.
+
+Note: The encounter remains "Urgent" until it is closed, even if the order marked as STAT has been submitted.
+
+If you click the Total row in the Inbox, a worklist appears with all tasks requiring your attention. Any urgent tasks are filtered to the top of the list and highlighted with an orange bar.
+
+INBOX CONFIGURATION — LIST VIEW
+
+You can configure the list view of your Clinical Inbox without affecting the grid view. This allows you to focus only on tasks assigned to you, or to monitor the tasks of other selected users.
+
+To add tasks or users, click the plus icon at the top of the Inbox.
+
+You can click:
+
+Users
+
+Provider/Department Staff
+
+Practice Roles
+
+Select or deselect users to follow or unfollow these users.
+
+Note: When you use the search bar and select from the list of search results, the selected item moves to the top of the list.
+
+CONFIGURING YOUR CLINICAL INBOX ACROSS MULTIPLE DEPARTMENTS
+
+By default, if you work in multiple departments, you can view tasks across departments for the users you configured to view in your Inbox, regardless of the department you selected when you logged in.
+
+If you have not previously configured any users, your Inbox shows only your tasks across departments.
+
+BASIC INBOX NAVIGATION
+
+The number of outstanding tasks for an Inbox item appears on the right side of each row.
+
+You can click an Inbox row to display a scrollable worklist in the left panel.
+Click a worklist item to display the item details in the center panel.
+Click the left arrow icon to return to the original view of your Inbox.
+You can click a badge in the status bar to display a worklist of those tasks.
+
+Note: Task badges are updated every two minutes; newly assigned tasks are not displayed immediately.
+
+SORTING
+
+Task sorting order:
+
+Urgent status
+
+Date (most recent first)
+
+Type
+
+Assigned to
+
+Result Category sorting applies for Lab/Imaging, Urgent Tasks, Patient in Office, and Total.
+
+ENCOUNTERS ROW
+
+If you click the Encounters row, the list of encounters assigned to you appears.
+
+Green bar indicators:
+
+Light green: checked in and ready for provider
+
+Dark green: checked in and with provider
+
+Click a patient name to open the encounter.
+
+ORDERS / RXs / AUTHS WORKLIST
+
+Contains orders, prescriptions, and authorizations requiring attention.
+
+Colors indicate appointment status and priority.
+
+LAB / IMAGING ROW
+
+A red boxed number indicates abnormal results.
+
+High priority items are marked as abnormal.
+
+CLINICIAN SCHEDULE (CENTER PANE)
+
+The Schedule appears in the center pane.
+
+Filter by:
+
+Provider
+
+Department
+
+Time
+
+Open slots appear with the label "OPEN".
+
+Patient status colors:
+
+Purple: Arrived
+
+Orange: Ready for staff
+
+Blue: With staff
+
+Green: Ready for provider
+
+Teal: With provider
+
+Gray: Checkout
+
+Gray text: Encounter closed
+
+ANNOUNCEMENTS OR TODAY'S SCHEDULE (RIGHT PANE)
+
+Displays today's schedule or athenaNetwork announcements.
+
+Includes:
+
+System alerts
+
+Release Center
+
+Learning Portal
+
+athenahealth blog
+
+NON-CLINICIAN HOME PAGE
+
+Provides an overview of waiting tasks.
+
+NON-CLINICIAN INBOX
+
+Workflow Dashboard tasks appear first, followed by tasks assigned to your username.
+
+NON-CLINICIAN SCHEDULE
+
+Shows all providers for the department.
+
+Patient status colors:
+
+Purple: Arrived
+
+Pink: Ready for checkout
+
+Yellow: Checked out
+
+Gray text: Charges entered

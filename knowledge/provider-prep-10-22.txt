@@ -1,0 +1,138 @@
+Provider Prep 10.22
+
+Purpose:
+The purpose of this document is to review the key elements for providers to complete prior to Go Live to eliminate disruption to charting.
+
+------------------------------------------------------------
+Reset Password (if user has not signed in previously)
+------------------------------------------------------------
+
+1. Navigate to:
+   https://app1.intellechart.net/eye  
+   (Google Chrome Recommended)
+
+2. Enter the Practice name  
+   (provided at beginning of implementation)
+
+3. Enter User Name.
+
+4. Enter the temporary Password provided to you.
+
+5. Select Login.
+
+6. Upon your first login, the system will prompt you to reset your password.
+   To complete this process, select Submit.
+
+7. To reset your password:
+   a. Enter your temporary password.  
+   b. Create a new password per the displayed password requirements.  
+   c. Confirm new password.  
+   d. Select Change Password.
+
+   This will return you to the login screen to enter your new credentials.
+
+------------------------------------------------------------
+Provider Signature
+------------------------------------------------------------
+
+1. Navigate to the Admin section on the Workflow.
+
+2. Select My Settings Tab.
+
+3. Select Signature.
+
+4. Enter Signature.
+
+5. Click Update Signature to save.
+
+Reminder:
+This signature is used for all printed materials from IntelleChartPRO
+(letters, chart notes, refractions, etc.)
+
+------------------------------------------------------------
+Encounter Password (optional)
+------------------------------------------------------------
+
+Setting an encounter password allows the provider to sign and unsign chart notes,
+refractions, and letters at any computer regardless of the user signed into
+IntelleChartPRO.
+
+This feature is often utilized when a scribe is logged in to the computer in the exam lane
+and the provider would like to sign the medical record upon exiting the room.
+
+1. Navigate to the Admin section from the Workflow.
+
+2. Select My Settings Tab.
+
+3. Select My Settings.
+
+4. Enter an Encounter Password.
+   (no requirements on characters)
+
+5. Click Update at the bottom of the screen.
+
+------------------------------------------------------------
+DrFirst Sign In / Signature
+------------------------------------------------------------
+
+1. To access DrFirst, select the eRx Notification on the Workflow page.
+
+2. Select Messages.
+
+Upon the first login, indicate that you have read and understood the eRx terms and
+conditions by checking the box and choosing Accept at the bottom of the page.
+
+You will then be prompted to enter a signature and write out “Dispense as Written”
+for instances where a prescription cannot be sent electronically and drops to
+traditional fax delivery to the pharmacy.
+
+This process is completed with a mouse and will not allow for touch screen entry.
+
+------------------------------------------------------------
+DrFirst Authorized Agents (if applicable)
+------------------------------------------------------------
+
+1. To authorize staff members to prescribe and renew medications on your behalf,
+   access the Menu in the upper left and click on Utilities.
+
+2. Select Manage Provider Agent Assignments.
+
+3. Specify which clinical staff will be able to send prescriptions to the pharmacy
+   by moving their names with the Authorize button from the right side to the left.
+
+4. Save these assignments by clicking Approve Changes.
+
+------------------------------------------------------------
+Additional Options in DrFirst
+------------------------------------------------------------
+
+Default Location
+
+If you have multiple practice locations, but primarily practice out of one specific location,
+you can choose to default that location for prescriptions created and sent from DrFirst.
+
+1. Access the Menu in the upper left and click on Settings.
+
+2. Select Preferences.
+
+3. Under the Application options, select your preferred default location from the drop-down
+   options in Default Login Location.
+
+4. Click Save to update your preference.
+
+------------------------------------------------------------
+Physician Reporting Default
+------------------------------------------------------------
+
+Physicians can choose to display only prescriptions requested or created with their name
+as the prescriber when viewing prescription reports/messages from pharmacies.
+(The default is to display all practice information.)
+
+1. Access the Menu in the upper left and click on Settings.
+
+2. Select Preferences.
+
+3. Under the Prescription Management options, select your preferred default display physician
+   from the drop-down options in Default Provider Selection.
+
+4. Click Save to update your preference.

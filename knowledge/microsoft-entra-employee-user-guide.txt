@@ -1,0 +1,248 @@
+Microsoft Entra Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates IT and operations staff with instructions for using Microsoft Entra (formerly Azure Active Directory) for identity management, authentication, access control, and security enforcement.
+
+Microsoft Entra is the core identity platform used to:
+- Manage user accounts
+- Control access to systems and applications
+- Enforce multi-factor authentication (MFA)
+- Manage device access
+- Protect patient data and internal systems
+
+Microsoft Entra is the foundation of Retina Associates security architecture.
+
+What Is Microsoft Entra
+
+Microsoft Entra is Microsoft’s cloud identity and access management system.
+
+It controls access to:
+- Microsoft 365 (Outlook, Teams, SharePoint)
+- Windows computers
+- VPN and remote access
+- Clinical and administrative systems
+- Third-party applications
+
+All staff accounts are managed through Entra.
+
+Accessing Microsoft Entra
+
+1. Open a web browser
+2. Go to the Microsoft Entra Admin Center
+3. Sign in using your IT administrator credentials
+4. Complete MFA
+
+Only authorized IT staff have admin access.
+
+User Accounts
+
+Each employee has an Entra user account.
+
+User accounts control:
+- Email access
+- Computer login
+- Application access
+- Remote access
+- Security policies
+
+User account properties include:
+- Name
+- Username
+- Email
+- Department
+- Role
+- Group membership
+- License assignments
+
+Creating a User Account
+
+1. Open Entra Admin Center
+2. Go to Users
+3. Click New User
+4. Enter user information
+5. Assign licenses
+6. Assign groups
+7. Save user
+
+Disabling a User Account
+
+Used for terminated or inactive staff.
+
+1. Open user account
+2. Click Disable account
+3. Remove licenses if needed
+4. Remove group access
+
+Multi-Factor Authentication (MFA)
+
+MFA is required for:
+- Remote access
+- Admin access
+- Cloud applications
+- Sensitive systems
+
+MFA methods include:
+- Microsoft Authenticator app
+- Text message
+- Phone call
+- Hardware token (if assigned)
+
+Resetting MFA
+
+1. Open user account
+2. Select Authentication methods
+3. Reset MFA
+4. Require re-registration
+
+Conditional Access
+
+Conditional Access controls:
+- Who can log in
+- From where
+- On which devices
+- Using which security methods
+
+Examples:
+- Block login from unknown countries
+- Require MFA for remote access
+- Require compliant device for access
+- Restrict admin access
+
+Conditional Access policies are managed by IT security.
+
+Devices
+
+All Windows PCs are joined to Entra.
+
+Devices can be:
+- Entra Joined
+- Entra Hybrid Joined
+
+Device records show:
+- Device name
+- User
+- Compliance status
+- Last sign-in
+- Operating system
+
+Blocking a Device
+
+Used for lost or stolen equipment.
+
+1. Open Devices
+2. Select device
+3. Disable device
+
+Groups
+
+Groups control access to:
+- Applications
+- SharePoint sites
+- Security policies
+- VPN access
+- File systems
+
+Types of groups:
+- Security groups
+- Microsoft 365 groups
+- Dynamic groups
+
+Assigning Users to Groups
+
+1. Open group
+2. Add member
+3. Select user
+4. Save
+
+Applications
+
+Entra manages access to:
+- Microsoft 365
+- VPN
+- Clinical systems
+- Vendor portals
+- Cloud platforms
+
+Applications use:
+- Single Sign-On (SSO)
+- MFA
+- Conditional Access
+
+Application access is controlled by group membership.
+
+Audit Logs & Sign-In Logs
+
+Entra tracks:
+- Login attempts
+- Device access
+- MFA challenges
+- Location data
+- Risk events
+
+Logs are used for:
+- Security investigations
+- Compliance
+- Incident response
+
+Security Defaults
+
+Security defaults enforce:
+- MFA
+- Password protection
+- Block legacy authentication
+- Protect admin accounts
+
+These policies must not be disabled.
+
+Password Resets
+
+IT can reset passwords through Entra.
+
+1. Open user account
+2. Click Reset password
+3. Generate temporary password
+4. Require password change at login
+
+Self-service password reset may be enabled.
+
+Common Issues & Troubleshooting
+
+User Cannot Log In
+- Verify account is enabled
+- Verify password
+- Verify MFA status
+- Check Conditional Access
+
+MFA Not Working
+- Reset MFA methods
+- Re-register authenticator app
+- Verify phone number
+
+Blocked Sign-In
+- Check sign-in logs
+- Review Conditional Access policy
+- Check device compliance
+
+Device Not Compliant
+- Verify Intune enrollment
+- Check device health
+- Update Windows
+
+Security & Compliance
+
+Microsoft Entra protects HIPAA-sensitive systems.
+
+Staff must:
+- Never share credentials
+- Never bypass MFA
+- Never disable security policies
+- Report suspicious login activity
+
+Support
+
+For Entra-related issues:
+- Document the issue
+- Capture error messages
+- Check sign-in logs
+- Escalate to IT security administration
