@@ -2,14 +2,19 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import { askAI } from "./ai/askAI.js";
-import { BotFrameworkAdapter } from "botbuilder";
 import { StaffAIBot } from "./bot.js";
+import {
+  CloudAdapter,
+  ConfigurationBotFrameworkAuthentication
+} from "botbuilder";
 
 dotenv.config();
 
 const app = express();
 
-// Enable CORS for GitHub Pages frontend
+/* =========================
+   CORS
+========================= */
 app.use(cors({
   origin: "https://abigailkeene.github.io"
 }));
@@ -47,18 +52,28 @@ app.post("/ask", async (req, res) => {
 
 /* =========================
    MICROSOFT TEAMS BOT
-   (NEW — DOES NOT AFFECT /ask)
 ========================= */
 
-const adapter = new BotFrameworkAdapter({
-  appId: process.env.MICROSOFT_APP_ID,
-  appPassword: process.env.MICROSOFT_APP_PASSWORD
+// Modern Entra-compatible authentication
+const botFrameworkAuthentication = new ConfigurationBotFrameworkAuthentication({
+  MicrosoftAppId: process.env.MICROSOFT_APP_ID,
+  MicrosoftAppPassword: process.env.MICROSOFT_APP_PASSWORD,
 });
+
+// Use CloudAdapter instead of legacy BotFrameworkAdapter
+const adapter = new CloudAdapter(botFrameworkAuthentication);
+
+// Proper global error handler
+adapter.onTurnError = async (context, error) => {
+  console.error("🔥 UNHANDLED BOT ERROR:", error);
+  await context.sendActivity("The bot encountered an internal error.");
+};
 
 const bot = new StaffAIBot();
 
+// Updated process method for CloudAdapter
 app.post("/api/messages", async (req, res) => {
-  await adapter.processActivity(req, res, async (context) => {
+  await adapter.process(req, res, async (context) => {
     await bot.run(context);
   });
 });
