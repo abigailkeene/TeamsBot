@@ -58,9 +58,10 @@ app.post("/ask", async (req, res) => {
 const botFrameworkAuthentication = new ConfigurationBotFrameworkAuthentication({
   MicrosoftAppId: process.env.MICROSOFT_APP_ID,
   MicrosoftAppPassword: process.env.MICROSOFT_APP_PASSWORD,
-  MicrosoftAppType: "MultiTenant",
+  MicrosoftAppType: "SingleTenant",
   MicrosoftAppTenantId: process.env.MICROSOFT_APP_TENANT_ID,
 });
+
 
 
 // Use CloudAdapter instead of legacy BotFrameworkAdapter
