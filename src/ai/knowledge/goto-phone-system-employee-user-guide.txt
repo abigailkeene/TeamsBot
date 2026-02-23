@@ -1,0 +1,179 @@
+GoTo Phone System Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates staff with instructions for using the GoTo phone system for patient communication, internal coordination, voicemail management, and call handling.
+
+The GoTo phone system is used for:
+- Patient phone calls
+- Appointment scheduling
+- Prescription coordination
+- Inter-office communication
+- Call routing and voicemail
+- After-hours coverage
+
+The phone system is a critical part of clinic operations and patient care.
+
+What Is GoTo
+
+GoTo is a cloud-based VoIP phone system that provides:
+- Desk phones
+- Softphones (computer and mobile apps)
+- Call queues
+- Voicemail
+- Call forwarding
+- Auto-attendants
+
+Calls are routed through the internet instead of traditional phone lines.
+
+Who Uses GoTo
+
+GoTo is used by:
+- Front desk staff
+- Scheduling teams
+- Billing departments
+- Clinical coordinators
+- Physicians
+- Management
+
+Accessing GoTo
+
+GoTo can be accessed through:
+- Desk phone
+- GoTo desktop application
+- GoTo mobile app
+- Web portal
+
+Users log in with their assigned credentials.
+
+Desk Phone Basics
+
+Answering a Call
+- Lift handset or press Answer
+
+Ending a Call
+- Hang up handset or press End
+
+Placing a Call
+- Dial number directly
+- Press Call
+
+Hold
+- Press Hold button
+
+Transfer
+- Press Transfer
+- Dial extension or number
+- Complete transfer
+
+Voicemail
+
+Checking Voicemail
+- Press Voicemail button
+- Enter PIN if prompted
+
+Voicemail may also be delivered to email.
+
+Leaving Voicemail
+- Call extension
+- Wait for greeting
+- Leave message
+
+Call Queues
+
+Call queues route incoming patient calls to available staff.
+
+Examples:
+- Front desk queue
+- Scheduling queue
+- Billing queue
+
+Calls are distributed automatically.
+
+Logging Into a Queue
+
+1. Log into GoTo app or desk phone
+2. Join assigned queue
+3. Set status to Available
+
+Call Forwarding
+
+Call forwarding is used for:
+- Remote work
+- After-hours coverage
+- Provider call coverage
+
+Forwarding can be set:
+- From desk phone
+- From GoTo app
+- From web portal
+
+Auto-Attendant
+
+The auto-attendant answers incoming calls and routes patients to:
+- Front desk
+- Scheduling
+- Billing
+- Clinical staff
+- On-call provider
+
+Call Recording
+
+Some lines may be recorded for:
+- Training
+- Quality assurance
+- Compliance
+
+Call recording follows internal policy.
+
+Common Issues & Troubleshooting
+
+No Dial Tone
+- Check network connection
+- Reboot phone
+- Verify ethernet cable
+
+Calls Dropping
+- Check internet connection
+- Restart phone
+- Contact IT
+
+Cannot Log In
+- Verify username and password
+- Reset password if needed
+- Contact IT
+
+Voicemail Not Working
+- Verify mailbox setup
+- Check email integration
+- Contact IT
+
+Phone Not Ringing
+- Check Do Not Disturb
+- Check queue login status
+- Verify volume settings
+
+Remote Access
+
+GoTo can be used remotely through:
+- GoTo desktop app
+- GoTo mobile app
+
+Staff must use approved devices only.
+
+Security & Patient Privacy
+
+GoTo may contain patient information.
+
+Staff must:
+- Never record PHI outside approved systems
+- Never share voicemail access codes
+- Never forward patient calls to personal numbers without approval
+
+Support
+
+For GoTo issues:
+- Document the issue
+- Capture error messages
+- Identify phone extension
+- Contact IT support

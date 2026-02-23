@@ -1,0 +1,163 @@
+AthenaOne Employee User Guide
+Retina Associates
+
+Purpose of This Guide
+
+This guide provides Retina Associates staff with step-by-step instructions for using AthenaOne for daily clinical and administrative workflows.
+
+It is designed to help staff:
+- Navigate AthenaOne confidently
+- Complete common tasks efficiently
+- Understand where information is located
+- Follow consistent documentation and workflow standards
+
+AthenaOne is the primary system used for scheduling, clinical documentation, billing, and patient management.
+
+
+What Is AthenaOne?
+
+AthenaOne (AthenaHealth) is Retina Associates’ practice management and clinical system used for:
+
+- Scheduling appointments
+- Managing patient demographics and insurance
+- Clinical documentation
+- Billing and claims
+- Check-in and check-out workflows
+- Provider charting
+
+
+Logging Into AthenaOne
+
+1. Open a supported web browser (Chrome or Edge recommended)
+2. Go to the AthenaOne login page provided by IT
+3. Enter your username and password
+4. Complete multi-factor authentication if prompted
+
+If you are unable to log in, contact IT support.
+
+
+Patient Search
+
+To locate a patient record:
+
+1. Use the search bar at the top of the screen
+2. Enter one of the following:
+   - Patient name
+   - Date of birth
+   - Medical record number (MRN)
+3. Select the correct patient from the results list
+
+Always verify patient identity before proceeding.
+
+
+Scheduling Appointments
+
+1. Search for the patient
+2. Open the patient chart
+3. Select the Appointments or Scheduling section
+4. Choose the provider, location, and visit type
+5. Select an available appointment time
+6. Confirm appointment details with the patient
+7. Save the appointment
+
+Ensure the correct visit type is selected to support proper billing and clinic flow.
+
+
+Patient Check-In
+
+1. Open the patient’s appointment
+2. Verify patient demographics
+3. Confirm insurance information
+4. Collect copay if required
+5. Mark the patient as checked in
+
+
+Patient Check-Out
+
+1. Open the patient encounter
+2. Confirm provider documentation is complete
+3. Schedule follow-up appointments if needed
+4. Collect any remaining balances
+5. Provide patient instructions
+6. Complete checkout
+
+
+Clinical Documentation (Providers & Technicians)
+
+1. Open the patient chart
+2. Navigate to the current encounter
+3. Enter exam findings, imaging results, and notes
+4. Review imported imaging and diagnostics
+5. Sign and close the encounter
+
+Documentation must be completed same day whenever possible.
+
+
+Insurance & Eligibility
+
+1. Open the patient chart
+2. Navigate to Insurance section
+3. Verify active coverage
+4. Confirm eligibility status
+5. Resolve any coverage issues before the visit
+
+
+Billing & Claims
+
+1. Ensure encounter documentation is complete
+2. Confirm diagnosis and procedure codes
+3. Submit charges
+4. Monitor claim status
+5. Follow up on denials
+
+
+Messaging & Tasks
+
+AthenaOne may be used for:
+- Internal staff messaging
+- Task routing
+- Clinical follow-ups
+
+Always follow internal communication policies.
+
+
+Common Issues & Troubleshooting
+
+If AthenaOne is slow or not loading:
+- Check your internet connection
+- Restart your browser
+- Clear browser cache if instructed by IT
+
+If you experience:
+- Login issues
+- Missing data
+- System errors
+
+Contact IT immediately.
+
+
+Best Practices
+
+- Never share your login credentials
+- Always log out when leaving your workstation
+- Verify patient identity before documenting
+- Document encounters promptly
+- Follow clinic workflow standards
+
+
+When to Contact IT
+
+Contact IT if:
+- You cannot log in
+- The system is not loading
+- Data appears incorrect or missing
+- You receive system errors
+- You need access changes
+
+
+Final Notes
+
+AthenaOne is a mission-critical system for Retina Associates.
+Accurate use supports patient safety, clinic efficiency, billing accuracy, and regulatory compliance.
+
+Always follow documented workflows and escalate issues when unsure.

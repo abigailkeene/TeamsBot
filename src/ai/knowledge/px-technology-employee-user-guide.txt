@@ -1,0 +1,190 @@
+PX Technology Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates staff with instructions for using PX Technology for patient enrollment, prior authorization management, insurance coordination, and specialty medication workflow tracking.
+
+PX Technology is used to:
+- Enroll patients into specialty medication programs
+- Manage prior authorizations
+- Track insurance approvals and denials
+- Monitor treatment status
+- Maintain compliance documentation
+
+PX Technology supports clinical operations, billing workflows, and patient access to treatment.
+
+What Is PX Technology
+
+PX Technology is a specialty medication workflow platform used to manage:
+- Patient enrollment
+- Prior authorizations
+- Insurance benefit verification
+- Treatment approvals
+- Renewal tracking
+- Expiration monitoring
+- Clinical documentation
+
+It is primarily used for injectable and specialty retina medications.
+
+Who Uses PX Technology
+
+PX Technology is used by:
+- Prior authorization team
+- Billing staff
+- Clinical coordinators
+- Specialty pharmacy coordinators
+- Clinical leadership
+
+Accessing PX Technology
+
+1. Open a web browser
+2. Navigate to the PX Technology portal
+3. Sign in with your assigned credentials
+4. Complete MFA if prompted
+
+If login fails, contact IT support.
+
+Patient Enrollment
+
+PX Technology is used to enroll patients into specialty medication programs.
+
+Enrollment includes:
+- Patient demographics
+- Insurance information
+- Prescribing provider
+- Diagnosis codes
+- Medication details
+
+Creating a New Patient Enrollment
+
+1. Log into PX Technology
+2. Select New Enrollment
+3. Enter patient information
+4. Enter insurance information
+5. Select medication
+6. Attach required documentation
+7. Submit enrollment
+
+Insurance Verification
+
+PX Technology verifies:
+- Insurance eligibility
+- Pharmacy benefits
+- Medical benefits
+- Coverage requirements
+
+Verification results show:
+- Covered medications
+- Prior authorization requirements
+- Step therapy requirements
+- Quantity limits
+
+Prior Authorization Management
+
+PX Technology tracks:
+- Prior authorization submissions
+- Approval status
+- Denials
+- Appeals
+- Expiration dates
+
+Submitting a Prior Authorization
+
+1. Open patient record
+2. Select Prior Authorization
+3. Complete required fields
+4. Attach clinical documentation
+5. Submit to payer
+
+Tracking Authorization Status
+
+Authorization statuses include:
+- Submitted
+- Pending
+- Approved
+- Denied
+- Expired
+- Appeal in progress
+
+Medication Tracking
+
+PX Technology tracks:
+- Medication start dates
+- Renewal deadlines
+- Authorization expiration
+- Treatment schedules
+
+This ensures patients do not miss doses.
+
+Renewals
+
+PX Technology sends alerts for:
+- Expiring authorizations
+- Pending renewals
+- Missing documentation
+
+Renewals must be submitted before expiration.
+
+Documentation
+
+PX Technology stores:
+- Clinical notes
+- Insurance forms
+- Approval letters
+- Denial letters
+- Appeal documents
+
+Documents must be complete and accurate.
+
+Compliance
+
+PX Technology maintains:
+- Audit trails
+- Submission history
+- User activity logs
+
+This supports payer audits and compliance requirements.
+
+Common Issues & Troubleshooting
+
+Cannot Log In
+- Verify username and password
+- Check MFA
+- Contact IT if locked out
+
+Missing Patient Record
+- Verify enrollment was submitted
+- Check search filters
+- Confirm spelling and DOB
+
+Authorization Pending Too Long
+- Verify submission date
+- Check payer requirements
+- Follow up with insurance
+
+Denied Authorization
+- Review denial reason
+- Gather required documentation
+- Submit appeal
+
+Expired Authorization
+- Submit renewal immediately
+- Notify clinical team
+
+Security & Patient Privacy
+
+PX Technology contains protected health information (PHI).
+
+Staff must:
+- Never share login credentials
+- Never download patient data to personal devices
+- Never email PHI outside approved systems
+- Log out when leaving workstation
+
+Support
+
+For PX Technology issues:
+- Document the issue
+- Capture error messages
+- Check patient record status
+- Escalate to IT or billing leadership

@@ -1,0 +1,79 @@
+DrFirst - Managing Prescriber Agents
+
+------------------------------------------------------------
+What is a Provider Agent?
+------------------------------------------------------------
+
+A Provider Agent is an employee authorized to write and send prescriptions on behalf of a licensed prescriber (for example, a technician or scribe).
+
+This allows the technician or scribe to write a prescription on behalf of a licensed prescriber. The pharmacy will fill the prescription and the patient can pick up the prescription without the doctor signing the prescription at that moment.
+
+At a later time, the licensed prescriber MUST sign off on the prescription. This can happen after the prescription has already been filled and picked up by the patient.
+
+------------------------------------------------------------
+Exceptions
+------------------------------------------------------------
+
+Provider agents:
+- Cannot write prescriptions for controlled substances
+- Cannot be authorized to send ANY prescriptions in New York
+- Cannot be authorized to send ANY prescriptions in Georgia
+
+------------------------------------------------------------
+Authorizing and Revoking Provider Agent Privileges
+------------------------------------------------------------
+
+To access DrFirst to authorize or revoke provider agent privileges:
+
+1. Open a DOE patient summary page
+2. Click the Rx tab at the top
+3. Click the eRx button
+
+------------------------------------------------------------
+Managing Provider Agent Assignments
+------------------------------------------------------------
+
+1. Click the 3 horizontal lines in the top left corner of the DrFirst screen
+2. Select Utilities
+3. Select Manage Provider Agent Assignments
+
+------------------------------------------------------------
+Granting Provider Agent Privileges
+------------------------------------------------------------
+
+Providers can search for clinical staff and authorize or revoke provider agent privileges using their signature password.
+
+Granting provider agent privileges establishes an association between the provider and the staff member.
+
+To grant privileges:
+
+1. Locate the staff member
+2. Click Authorize next to their name
+3. The staff member will move to the Authorized Agent side
+4. Check the box affirming the addition
+5. Click Approve Changes
+
+The staff member is now authorized to prepare and send prescriptions on behalf of the provider in Rcopia.
+
+------------------------------------------------------------
+Provider Notifications
+------------------------------------------------------------
+
+Whenever an agent sends a prescription on behalf of a provider in DrFirst, the provider will receive a pending message in their prescription report.
+
+Providers should regularly check these messages and sign off on pending prescriptions.
+
+------------------------------------------------------------
+Revoking Provider Agent Privileges
+------------------------------------------------------------
+
+To revoke privileges:
+
+1. Follow the same process as authorization
+2. Click Revoke Agent instead of Authorize
+
+------------------------------------------------------------
+Important Notes
+------------------------------------------------------------
+
+Agents can only send prescriptions on behalf of providers who have granted authorization.

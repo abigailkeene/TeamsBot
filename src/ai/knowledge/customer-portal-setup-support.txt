@@ -1,0 +1,142 @@
+Customer Portal Setup Support Document
+
+------------------------------------------------------------
+Signing Up for CustomerCentral
+------------------------------------------------------------
+
+1. Navigate to:
+   www.optos.com
+
+2. Click on “Customers”.
+
+------------------------------------------------------------
+Create an Account
+------------------------------------------------------------
+
+1. Select “Register Now”.
+
+2. Complete the registration form.
+
+3. Your account will be auto-activated if:
+   - Your Site Number matches
+   - Your Zip Code matches
+
+4. If there is a discrepancy, activation will occur within 24–48 hours.
+
+------------------------------------------------------------
+Password Setup
+------------------------------------------------------------
+
+After registration, you will receive an email prompting you to reset your password.
+
+Password requirements:
+- 8–20 characters
+- Upper and lower case letters
+- At least one special character (example: * or #)
+
+Follow the instructions in the email to create your password.
+
+------------------------------------------------------------
+Resetting Your Password
+------------------------------------------------------------
+
+1. Click “Forgot Password?” on the login page.
+
+2. You will receive an email with reset instructions.
+
+3. Follow the instructions to reset your password.
+
+Password requirements:
+- 8–20 characters
+- Upper and lower case letters
+- At least one special character (example: * or #)
+
+------------------------------------------------------------
+Sign In
+------------------------------------------------------------
+
+1. Enter your email address.
+2. Enter your password.
+3. Select Sign In.
+
+------------------------------------------------------------
+CustomerCentral Home Page
+------------------------------------------------------------
+
+After signing in, you will be directed to the CustomerCentral home page.
+
+------------------------------------------------------------
+Ordering Marketing Materials
+------------------------------------------------------------
+
+1. Click on:
+   - “Patient Marketing”
+   - “Order Your Marketing Materials”
+
+2. Customers under support or warranty receive materials free of charge.
+
+3. Customers without a service contract may order materials for a minimal charge at:
+   www.curryprinting.com/optos
+
+4. Custom marketing materials are available at:
+   www.curryprinting.com/optospartner
+
+------------------------------------------------------------
+Placing an Order
+------------------------------------------------------------
+
+1. Select items and add them to your cart.
+
+2. Go to the cart and select “Proceed to Checkout”.
+
+3. Select your shipping address or add multiple shipping addresses.
+
+4. Scroll down and select “Place Order”.
+
+------------------------------------------------------------
+Order Confirmation
+------------------------------------------------------------
+
+After placing an order:
+- You will see a confirmation screen
+- You will receive a confirmation email
+
+------------------------------------------------------------
+Manuals and Technical Support
+------------------------------------------------------------
+
+CustomerCentral provides access to:
+- Product manuals
+- Technical support documentation
+
+------------------------------------------------------------
+Training Materials
+------------------------------------------------------------
+
+Training materials are available for providers and staff to:
+- Learn optomap imaging
+- Train new staff
+- Access up-to-date imaging education
+
+------------------------------------------------------------
+Diagnostic Tools
+------------------------------------------------------------
+
+Diagnostic tools include:
+- Retinal pathology identification
+- Recognizing Pathology tool with:
+  - Over 400 optomap images
+  - All imaging modalities
+  - 30+ pathology types
+
+------------------------------------------------------------
+Extended Service Program
+------------------------------------------------------------
+
+Request information about protecting your Optos devices through the Extended Service Program.
+
+------------------------------------------------------------
+Document Reference
+------------------------------------------------------------
+
+Document ID: GA-00293/2

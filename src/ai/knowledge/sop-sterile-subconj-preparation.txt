@@ -1,0 +1,134 @@
+Standard Operating Procedure (SOP)
+Title: Clinical Sterile Subconjunctival Injection Preparation
+Document Number: DO-001
+Effective Date: 2024-10-29
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+The purpose of technicians preparing subconj (subconjunctival) products in a sterile
+environment before procedures is to ensure that all materials are free from contaminants,
+minimizing infection risk and facilitating a smooth, efficient process for the doctor. By
+preparing the product in advance under sterile conditions, technicians help create a safe
+and ready-to-use setup, allowing the doctor to focus on precise administration, improving
+patient outcomes, and maintaining high standards of procedural care.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including
+patient preparation, diagnostic testing, assistance during procedures, and equipment
+maintenance. It ensures standardized, high-quality support in clinical operations to
+enhance patient care and support the medical team in providing effective retina
+treatments.
+
+3. Definitions
+• Subconj: Subconjunctival
+
+4. Responsibilities
+• Clinical Technician: One should be able to consistently perform all assigned
+screening duties within the recommended time frame and in accordance with clinic
+protocols within 6 months of employment.
+
+5. Subconj
+
+5.1 Tools Needed for Subconj Injection Preparation
+1. Sterile Gloves – To maintain a sterile environment and prevent contamination.
+2. Mask – For additional infection control to prevent contamination from breath or
+droplets.
+3. Drapes – Used to cover and isolate the area around the injection site, maintaining a
+sterile field.
+4. Lidocaine – A local anesthetic to numb the injection site for patient comfort.
+5. 30-Gauge ½-Inch Needles (Yellow Box) – For precise administration of the
+medication.
+6. 1cc Syringe – For drawing and administering the required dosage.
+7. Stickers or 2% Stickers – For labeling and tracking purposes, ensuring proper
+identification of medication or patient.
+8. Door Sign – To indicate that a sterile procedure is in progress, limiting interruptions
+and maintaining a sterile environment.
+
+This setup ensures that all necessary tools are on hand for a safe and effective
+subconjunctival injection procedure.
+
+5.2 Step by Step Subconj Preparation Procedure
+
+Team Roles:
+• Sterile Personnel (2 people) – Responsible for drawing up medication and
+attaching needles.
+• Non-Sterile Personnel (1-2 people) – Responsible for opening packages and
+handling unsterile items.
+
+Preparation:
+
+1. Gather Supplies:
+   a. Collect all the necessary materials: sterile gloves, masks, drape, Lidocaine,
+      30-gauge needles, 1cc syringes, alcohol wipes, door sign, and stickers.
+
+2. Move to Preparation Room:
+   a. All team members go to the designated room to prepare the Lidocaine.
+
+3. Initial Setup:
+   a. Place the Door Sign: Attach the sign to the door to indicate a sterile
+      preparation is in progress.
+   b. Masks: Each team member puts on a mask.
+   c. Hand Sanitizer: All team members apply hand sanitizer.
+
+4. Set Up Sterile Field:
+   a. Open Drape: Non-sterile personnel open the drape package and place it on
+      the desk to create a sterile field.
+
+5. Prepare Non-Sterile Items:
+   a. Non-sterile personnel open the syringe plunger package and let the plunger
+      fall onto the drape without touching it.
+   b. Use an alcohol wipe to disinfect the Lidocaine bottle, then place it onto the
+      drape.
+
+6. Non-Sterile Needle and Syringe Opening:
+   a. Non-sterile personnel carefully open the needle and syringe packages
+      without touching any sterile parts. Let each item fall onto the sterile drape.
+
+7. Sterile Personnel Preparation:
+   a. Sterile personnel put on sterile gloves.
+
+Drawing Up the Lidocaine:
+
+8. Handling the Lidocaine Bottle:
+   a. The sterile person designated to draw up the Lidocaine should pick up the
+      bottle with their non-dominant hand only.
+
+9. Drawing Up Medication:
+   a. The same person uses their dominant hand to hold the syringe plunger and
+      insert it into the Lidocaine bottle.
+   b. With the dominant hand, draw up the required amount of Lidocaine using
+      the syringe.
+
+10. Handing Off the Syringe:
+    a. Carefully hand the filled syringe to the sterile person responsible for
+       attaching needles.
+
+Attaching the Needle and Storing:
+
+11. Needle Attachment:
+    a. The person designated for needle attachment takes the syringe and
+       secures a needle onto it, then places the assembled syringe with the
+       needle into the designated "boat" (container).
+
+12. Labeling:
+    a. Write the date and your initials on a sticker, then apply it to the Lidocaine
+       bottle before placing it in the boat.
+
+13. Final Step – Storage:
+    a. Place the boat containing the prepared syringe(s) into the fridge for
+       storage until use.
+
+Following these steps ensures sterile preparation of the Lidocaine for subconjunctival
+injections, maintaining safety and minimizing infection risk.
+
+6. Review
+• This will be reviewed annually and updated as necessary to ensure continued
+compliance and efficiency.
+
+Revision History
+
+Revision Number | Date       | Description of Changes | Revised By
+1.0             | 2024-10-29 | Initial Creation       | Theresa Hilliard
