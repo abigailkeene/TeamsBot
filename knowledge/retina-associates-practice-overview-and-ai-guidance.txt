@@ -1,0 +1,259 @@
+Purpose of This Document
+
+This document is designed to be fed into an internal AI chatbot for all Retina Associates staff, including clinical, administrative, and support teams.
+
+Its purpose is to help staff:
+- Understand how Retina Associates operates
+- Know which systems are used for which tasks
+- Get guidance on common questions and workflows
+- Know where to go for help and documentation
+
+The AI trained on this document should act like a knowledgeable internal guide that understands the full practice, not just IT.
+
+
+===============================
+About Retina Associates
+===============================
+
+Retina Associates is a multi-location ophthalmology and retina specialty medical practice.
+
+The practice focuses on diagnosing and treating retinal diseases and conditions using advanced imaging, in-office procedures, and coordinated care.
+
+Everything the practice does centers on:
+- Patient safety and outcomes
+- Efficient clinic flow
+- Accurate documentation and billing
+- Secure handling of patient information
+
+
+===============================
+Departments at Retina Associates
+===============================
+
+Physicians
+
+Physicians diagnose and treat retinal conditions, interpret imaging, perform procedures, and guide patient care plans.
+
+They rely on accurate imaging, complete documentation, and smooth clinic operations.
+
+
+Clinical Technicians and Imaging Staff
+
+Technicians and imaging staff:
+- Prepare patients
+- Capture retinal images and diagnostics
+- Support physicians during clinic
+- Enter clinical data into systems
+
+They depend on:
+- Imaging devices and software
+- Exam room computers
+- Reliable logins and system performance
+
+
+Front Desk and Scheduling
+
+Front desk teams handle:
+- Patient check-in and check-out
+- Scheduling appointments
+- Verifying demographics and insurance
+- Managing patient flow
+
+They rely heavily on:
+- EHR and scheduling systems
+- Phone systems
+- Accurate patient records
+
+
+Billing, Coding, and Prior Authorization
+
+Administrative and billing teams manage:
+- Insurance eligibility
+- Prior authorizations
+- Coding and claims submission
+- Payment posting and follow-up
+
+Their work depends on:
+- EHR and Practice Management systems
+- Payer portals
+- Accurate clinical documentation
+
+
+IT and Operations Support
+
+IT supports all departments by:
+- Troubleshooting issues
+- Maintaining systems and devices
+- Coordinating with vendors
+- Building internal tools
+- Improving workflows
+
+IT decisions are made with clinic impact and patient care in mind.
+
+
+===============================
+Core Systems Used at Retina Associates
+===============================
+
+EHR and Practice Management Systems
+
+AdvancedMD (legacy system)
+
+AthenaHealth / AthenaOne (current or transitioning system)
+
+Used for:
+- Scheduling
+- Clinical documentation
+- Billing and claims
+- Insurance workflows
+
+
+Imaging and Diagnostic Systems
+
+Heidelberg Heyex
+
+Optos / Optos Advance
+
+Other ophthalmic imaging platforms
+
+These systems are:
+- Essential to patient care
+- Expensive and specialized
+- Sensitive to upgrades or configuration changes
+
+
+Communication Systems
+
+GoTo phone system
+
+Microsoft Teams
+
+Used for:
+- Patient calls
+- Inter-office communication
+- Department coordination
+
+
+Productivity and Access
+
+Microsoft 365 (Outlook, Teams, SharePoint)
+
+Windows 10 and Windows 11 computers
+
+Used for:
+- Email and calendars
+- File storage
+- Authentication and access
+- Internal collaboration
+
+
+Internal Tools and Resources
+
+Custom tools built specifically for Retina Associates include:
+- EyeHub, an internal knowledge base and documentation system
+- EyeHubPA, a prior authorization tracking system
+- Credentialing database
+- Insurance and eligibility tools
+
+These tools exist to reduce manual work and improve accuracy.
+
+
+===============================
+How Work Is Prioritized
+===============================
+
+Clinic-First Operations
+
+Patient care always comes first.
+
+System stability during clinic hours is critical.
+
+Non-urgent updates are scheduled outside of patient-facing times.
+
+
+System Changes and Downtime
+
+Not all systems can be updated immediately.
+
+Many devices require vendor coordination.
+
+Testing is required before changes are made.
+
+
+Documentation Culture
+
+Processes are documented whenever possible.
+
+EyeHub is the primary location for internal documentation.
+
+Staff are encouraged to check documentation before escalating issues.
+
+
+===============================
+Data Security and Patient Privacy
+===============================
+
+Patient data is confidential.
+
+Access is role-based.
+
+Systems follow HIPAA-related requirements.
+
+Staff should never:
+- Share passwords
+- Store patient data outside approved systems
+- Install unauthorized software
+- Change system settings without approval
+
+
+===============================
+New Staff and Intern Context
+===============================
+
+New staff and interns are expected to:
+- Ask questions early
+- Follow established procedures
+- Use documentation
+- Escalate issues when unsure
+
+
+===============================
+How the AI Assistant Should Help Staff
+===============================
+
+The AI assistant trained on this document should:
+- Answer questions in clear, non-technical language
+- Help staff identify the correct system or team
+- Explain why certain rules or limitations exist
+- Encourage safe, clinic-friendly behavior
+- Recommend contacting IT or leadership when appropriate
+
+The AI should support staff, not replace judgment, policy, or clinical decision-making.
+
+
+===============================
+Common Questions the AI Should Handle
+===============================
+
+Which system should I use for this task?
+
+Who should I contact for this issue?
+
+Why can’t this device or software be updated?
+
+Where can I find instructions or documentation?
+
+What should I do if a system is down during clinic?
+
+
+===============================
+Final Note
+===============================
+
+This document represents Retina Associates as a collaborative, clinic-first medical practice.
+
+The AI trained on this information should reflect the same priorities:
+- Patient care
+- Reliability
+- Security
+- Clear communication

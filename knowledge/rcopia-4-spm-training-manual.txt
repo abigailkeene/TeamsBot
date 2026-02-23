@@ -1,0 +1,2519 @@
+Single Patient Mode 
+Training Manual 
+
+Updated: 03/02/2021 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+Definitions ............................................................................................................................................. 4 
+
+Overview ............................................................................................................................................... 5 
+
+Logging In ............................................................................................................................................. 6 
+
+Patient Info Screen .............................................................................................................................. 6 
+
+Practice Information ....................................................................................................................... 7 
+
+Patient Demographic Information ................................................................................................. 7 
+
+Encounter Information .................................................................................................................... 8 
+
+Pharmacy Information .................................................................................................................... 8 
+
+Prescription Benefit ......................................................................................................................... 8 
+
+Pharmacy Messages ........................................................................................................................ 9 
+
+Create New Prescription ................................................................................................................. 9 
+
+Medications ...................................................................................................................................... 9 
+
+Allergies............................................................................................................................................. 9 
+
+Diagnoses/Problems ..................................................................................................................... 10 
+
+Prescription Management ............................................................................................................ 10 
+
+Allergy Management .......................................................................................................................... 10 
+
+Pharmacy Management .................................................................................................................... 13 
+
+Adding a Pharmacy ........................................................................................................................ 13 
+
+Send to a Mail Order Pharmacy.................................................................................................... 15 
+
+Diagnoses/Problems Management .................................................................................................. 16 
+
+Medication Management .................................................................................................................. 18 
+
+Obtaining Medication History ...................................................................................................... 18 
+
+Add an Active Medication.............................................................................................................. 20 
+
+Quick Add an Active Medication ................................................................................................... 22 
+
+Stop/Start a Medication ................................................................................................................ 23 
+
+Stopping Multiple Medications .................................................................................................... 24 
+
+View Inactive Medications ............................................................................................................ 25 
+
+Prescription/Medication Reconciliation ..................................................................................... 26 
+
+PDMP (Prescription Drug Monitoring Program) ............................................................................. 26 
+
+Rcopia 4 SPM Training Manual 
+
+1 
+
+ 
+ 
+ 
+Account Setup for PDMP Checking .............................................................................................. 27 
+
+Accessing and Viewing PDMP Data .............................................................................................. 27 
+
+Create a New Prescription ................................................................................................................ 28 
+
+Manual Prescription ...................................................................................................................... 29 
+
+Split a Prescription ........................................................................................................................ 31 
+
+Review Prescription ....................................................................................................................... 32 
+
+Prescribing Favorite Prescriptions............................................................................................... 34 
+
+Creating Favorites .............................................................................................................................. 35 
+
+Prescribing Active Medications .................................................................................................... 39 
+
+Compound Drug Prescriptions ..................................................................................................... 39 
+
+Titrations and Tapered Prescriptions.......................................................................................... 40 
+
+Sending a Prescription ...................................................................................................................... 40 
+
+Sending a Controlled Substance Prescription................................................................................ 41 
+
+From the Review Screen ............................................................................................................... 42 
+
+From Prescription Management/Prescription Report ............................................................... 42 
+
+Prescription Report............................................................................................................................ 43 
+
+Provider Options ............................................................................................................................ 44 
+
+Provider Agent Options ................................................................................................................. 45 
+
+Staff Options................................................................................................................................... 45 
+
+Pharmacy Messages .......................................................................................................................... 45 
+
+Medication Reports ............................................................................................................................ 47 
+
+Provider Clinical Report ................................................................................................................ 48 
+
+Patient Clinical Report .................................................................................................................. 48 
+
+Clinical Alerts ...................................................................................................................................... 50 
+
+Formulary Alerts ................................................................................................................................. 52 
+
+Utilities ................................................................................................................................................ 53 
+
+How to Manage Provider Agents .................................................................................................. 53 
+
+Accessing Rcopia User and Location Preferences .......................................................................... 55 
+
+How to Set Preferences ................................................................................................................. 55 
+
+User Preferences Defined .................................................................................................................. 57 
+
+Rcopia 4 SPM Training Manual 
+
+2 
+
+ 
+ 
+ 
+Application ..................................................................................................................................... 57 
+
+Medication ...................................................................................................................................... 57 
+
+Prescription .................................................................................................................................... 57 
+
+Prescription Management ............................................................................................................ 58 
+
+Rcopia Location Preferences Defined ............................................................................................. 59 
+
+Alerts ............................................................................................................................................... 59 
+
+Allergy ............................................................................................................................................. 60 
+
+Application ..................................................................................................................................... 60 
+
+Diagnosis......................................................................................................................................... 60 
+
+Medication ...................................................................................................................................... 60 
+
+Patient ............................................................................................................................................. 61 
+
+Patient Advisor ............................................................................................................................... 61 
+
+Prescription .................................................................................................................................... 62 
+
+Prescription Management ............................................................................................................ 64 
+
+Report a Problem / Help.................................................................................................................... 64 
+
+Rcopia 4 SPM Training Manual 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definitions 
+
+o  Category Search: Using therapeutic categories to find the drug you wish to prescribe 
+o  Co-pay: The flat rate or dollar amount the patient will pay for his or her prescription  
+o  Coinsurance: The percentage the patient will pay for his or her prescription 
+o  Electronic prescription: A prescription sent directly from the provider to a pharmacy 
+
+through SureScripts 
+
+o  Prescription Benefit: This determines whether the patient has a prescription drug 
+
+benefit 
+
+o  Enter details screen: The screen where components of the prescription are entered, 
+
+including the sig 
+
+o  Favorite Prescription: A medication that you routinely prescribe for your patients 
+o  Fax prescription: A prescription sent directly to the pharmacy fax machine 
+o  Formulary: A list of drugs that provide information on coverage and copays from the 
+
+patient’s insurance or health plan 
+
+o  Formulary coverage codes: Codes which determine prescription drug benefit 
+
+coverage for a particular medication, such as step therapy (ST), or prior authorization 
+(PA) 
+
+o  Formulary status: The coverage status determined by a patient’s health plan. A drug 
+can have formulary or non-formulary status, or preferred status, such as P1, P2, etc. 
+
+o  Medication: A drug that the patient is already taking 
+o  Medical History: A list of medications that the patient has taken in the past; this 
+
+information may be obtained from the health plan or PBM or pharmacy 
+
+o  Prescription: An oral, written, faxed or electronic order of medication 
+o  Prescription status: This status provides transmission information on the 
+prescription you sent and whether it has been received by the pharmacy 
+
+o  Provider: A health care professional such as a MD, DO, NP, PA 
+o  Refills: The number of times a prescription can be refilled at the pharmacy without 
+
+requiring a new prescription 
+
+o  Pharmacy Message: A request from the pharmacy to obtain additional refills on a 
+
+prescription or receive an updated prescription  
+
+o  Sig: Instructions for the patient on how to use or take his or her prescription, including 
+
+amount and frequency 
+
+Rcopia 4 SPM Training Manual 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview 
+
+The DrFirst Portal API allows partners to launch an Rcopia Web session from an 
+external system, such as a web portal or an EMR system. This is a single sign-on 
+solution; logins are authenticated between the partner and Rcopia, so users only 
+need to log on to the partner system and then navigate to Rcopia. DrFirst also offers a 
+private label option that allows the partner to have their logo displayed in Rcopia. 
+Portal API access is frequently implemented with one-way or two-way data interface 
+calls. The partner can upload data to Rcopia, such as patient demographics, and then 
+download records generated by Rcopia, such as medications and prescription orders. 
+
+By default, all features of Rcopia Web are fully available to partner users. Some 
+partners, however, wish to strictly control access to patient records in Rcopia. This is 
+often needed to support business rules within the partner system, such as a 
+requirement that prescriptions be created within the context of an office encounter. 
+The partner may also want to retain control over data that need not be changed in 
+Rcopia, such as patient demographics, allergies, and problems. 
+
+In order to meet these needs, the partner may elect to use Single Patient Mode 
+(SPM). In this mode, certain controls are disabled in Rcopia to restrict the user’s 
+ability to change patient data and to prevent the user from navigating to a different 
+patient within Rcopia. In Single Patient Mode, patient selection is done entirely in the 
+partner system, and then Rcopia is launched with that patient selected. To select a 
+different patient, the Rcopia session is closed, and another patient is selected from 
+the partner system. 
+
+Feature 
+
+Standard Rcopia 
+
+Single Patient Mode 
+
+Patient Selection 
+
+Any patient; may select 
+within Rcopia 
+
+Edit Patient Demographics 
+
+Edit Medications 
+Edit Allergies 
+
+Edit Problems 
+View Renewals 
+
+Yes 
+
+Yes 
+Yes 
+
+Yes 
+All pending 
+
+View Pending Prescriptions 
+
+All pending 
+
+One patient per session; 
+selected in partner 
+system 
+No 
+
+Yes 
+Optional 
+
+Optional 
+Pending for one 
+patient only 
+
+Pending for one 
+patient only 
+
+Rcopia 4 SPM Training Manual 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Logging In 
+
+In a Single Sign On (SSO) mode, you will launch into Rcopia onto the Patient Info screen 
+shown below when you select a patient in your partner system. 
+
+You can quickly enter a patient’s pharmacy by clicking on the Please set the default 
+pharmacy link at the top of the screen or by clicking on the search icon in the patient info 
+section. 
+
+Depending on your integration, if users manage allergies on the DrFirst side, the user will 
+need to add in the allergies for their patient. This can be accomplished through the Please 
+set the default pharmacy link at the top of the screen or by clicking the magnifying glass 
+icon below the Pharmacy section. 
+
+Patient Info Screen 
+
+The Patient Info Screen is an individual patient’s “homepage,” where an Rcopia 4 user can 
+access the patient’s basic information through Rcopia’s widgets: demographics, medications, 
+allergies, problems, and pending prescriptions.  
+
+The information and actions available for your users will depend on your integration.  
+
+Rcopia 4 SPM Training Manual 
+
+6 
+
+ 
+ 
+ 
+ 
+Please Note: On any page in Rcopia 4, clicking the patient name within the context bar will 
+bring you back to the Patient Info Screen.  
+
+Practice Information 
+
+In the top right-hand corner, you will see the name of location you are prescribing from.  
+
+If you are connected to more than one location, you will have the option to click on the location 
+name. In doing so, you will see a drop down of all locations you are connected to.  
+
+Be sure to always review this prior to prescribing for your patient to ensure the correct practice 
+information displays on the prescription heading. 
+
+Patient Demographic Information 
+
+Within the patient section, you will see various demographic fields for the patient including First 
+Name, Last Name, Sex, DOB, Home Phone, and Address. You will note other fields such as 
+Height, Weight, and Preferred Language will display in this section.  
+
+Rcopia 4 SPM Training Manual 
+
+7 
+
+ 
+ 
+ 
+                  
+ 
+ 
+ 
+ 
+ 
+Encounter Information 
+
+Within Rcopia 4, you can manage a patient’s encounter, which marks in the system when you 
+saw the patient. To accomplish this, simply click on the check box icon within the Encounter 
+section of the context bar.  
+
+If you wish to input previous encounters or document a transition of care, simply click on the 
+calendar icon. This will open the Patient Encounter Management widget.  
+
+You can select the Rendering Provider, document a Transition of Care, add encounters, and 
+edit previous encounters. 
+
+Pharmacy Information 
+
+The Pharmacy drop-down box holds information for up to five pharmacies for the patient. 
+Here you can easily search for new pharmacies and remove pharmacies that are no longer 
+needed. You can also obtain pharmacy information such as NCPDP, address, phone, and fax. 
+
+Prescription Benefit 
+
+Prescription Benefit information is obtained from SureScripts and payer claims data. If a 
+patient has multiple plans, select the correct benefit plan by clicking on the drop-down arrow 
+within Prescription Benefit. A patient’s prescription benefit information allows Rcopia 4 to 
+
+Rcopia 4 SPM Training Manual 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+alert users on medications that are on or off formulary and offer on-formulary alternatives 
+when applicable. 
+
+Pharmacy Messages 
+
+The practice’s renewal requests from pharmacies can be accessed on any screen in Rcopia 4 
+by clicking the Pharmacy Message Icon on the top right of the screen or accessing the 
+Pharmacy Message section within the patient record.  
+
+Create New Prescription 
+
+You can quickly search for a medication to write a prescription manually, or you can utilize 
+your favorites list to select a previously favored medication. 
+
+Medications 
+
+Within the Medications section, any active medications for a patient will be displayed. You 
+can quickly manage medications by adding in a new medication, starting or stopping a 
+medication, or even renewing or prescribing a medication. 
+
+Allergies 
+
+Within the allergies section, you can document a patient’s allergies or adverse reactions to 
+medications.  
+
+Please reference the Allergy Management portion of this manual for more information. 
+
+Rcopia 4 SPM Training Manual 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagnoses/Problems 
+
+This section allows you to record a patient’s list of conditions, diagnoses, and symptoms by 
+conducting a search using name of the condition or ICD-9, ICD-10, or SNOMED CT code. 
+Recording this information is particularly important for drug-diagnosis interaction checking.  
+
+In addition, by populating this information, you will be able select a diagnosis within the 
+Prescribe Medication widget and the diagnosis will be placed on the prescription.  
+
+Please reference the Diagnosis/Problem Management portion of this manual for more 
+information. 
+
+Prescription Management 
+
+The Prescription Management widget will display any pending prescriptions for a patient. 
+This is where a provider or provider agent will send prescriptions.  
+
+Please reference the Create Prescriptions portion of this manual for more information. 
+
+Allergy Management 
+
+There are a few ways to add an allergy into a patient’s record within Rcopia 4. If you have yet 
+to add allergies for a patient, a notification will display at the top of the screen.   
+
+1. 
+
+If the patient has no known allergies click on the Mark patient NKDA button.  
+
+2.  To search for and record an allergy click on the + button. This will open an Allergy Search 
+
+screen. 
+
+Rcopia 4 SPM Training Manual 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a.  On the Allergy Search screen, use the search field to search for the patient’s allergies 
+
+and select allergies from the results in the matched allergy results 
+
+b.  After selecting the patient’s allergens, use the Reaction(s) search box to define the 
+
+reactions and use the Onset Date field to input an onset date 
+
+c.  Non-Drug-Related Allergy: For any non-medication allergies, search for the allergy, 
+
+and click the Enter free text link to add the allergy 
+
+d.  Once complete, click the Save button 
+e.  Repeat the previous steps for each allergy 
+
+Please Note: If a yellow exclamation mark icon displays next to an allergy, this 
+indicates that Rcopia 4 does not conduct a drug-allergy check because the allergy was 
+entered as free text 
+
+Rcopia 4 SPM Training Manual 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+3.  Once you have entered all allergies for the patient, you can mark the allergies as reviewed by 
+
+clicking the check box in the lower right-hand corner of the Allergy widget 
+
+4.  By clicking anywhere within an allergy cell or by hovering over the vertical ellipses, the 
+
+options to Make Inactive, Modify, or Delete an allergy will be made available 
+
+5. 
+
+If you make an allergy Inactive, it will be placed in the inactive allergies list, which can be 
+accessed by hovering over filters and selecting All or Inactive. 
+
+6.  To re-activate an inactive allergy, either hover over the three vertical ellipses or click on the 
+
+allergy cell for the respective inactive allergy, and click the Make Active icon 
+
+Rcopia 4 SPM Training Manual 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+Pharmacy Management 
+
+Adding a Pharmacy 
+
+Once you add a patient into Rcopia 4, you will be prompted to add a default pharmacy for the 
+patient before you can begin prescribing. This can be achieved by clicking on the notification 
+at the top of the patient record on the Patient Info Screen, or by clicking the Change icon 
+within the Patient Info widget.  
+
+Once you launch the Select Pharmacy widget, follow the steps below to add in a pharmacy 
+for a patient. 
+
+1.  Select the pharmacy list from which you would like to search. There are three list 
+
+options that you can search within (as seen below). 
+
+a.  Practice List: contains only those pharmacies located within the first three 
+
+digits of the practice’s ZIP code. 
+
+b.  Favorites List: contains only the pharmacies that the individual user has 
+
+previously selected to be in his or her favorites list. 
+
+Rcopia 4 SPM Training Manual 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c.  All Lists: contains all available pharmacies in the Rcopia 4 database (default 
+
+option). 
+
+2.  Enter the search criteria for the pharmacy and click Search. 
+
+3.  You will then be presented with a listing of pharmacies within your search criteria (as 
+
+seen below).  
+
+4.  Click within the row to add the pharmacy to the patient’s record. Please ensure the 
+
+pharmacy type before making your selection. If you hover over the type, Rcopia 4 will 
+display what it is. 
+
+o 
+
+o 
+o 
+
+(C) – Indicates the pharmacy accepts controlled substance prescriptions 
+electronically. 
+(E) – Indicates the pharmacy accepts electronic prescriptions. 
+(R) – Indicates the pharmacy is a retail pharmacy. 
+
+Rcopia 4 SPM Training Manual 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  After adding the desired pharmacy, you will be routed back to the Patient Info 
+
+Screen. You can store up to five pharmacies for a patient, which will be saved in the 
+Pharmacy drop-down box within the Patient Info section. 
+
+Send to a Mail Order Pharmacy 
+
+1. 
+
+If you would like to choose a mail order pharmacy for a patient, make sure to select 
+the Mail Order box on the pharmacy search screen.  
+
+2.  To select a pharmacy, click on the row to add the pharmacy to the patient’s record.  
+
+3.  The mail order pharmacy will then display within the pharmacy drop-down list in the 
+
+Patient Info widget. 
+
+Rcopia 4 SPM Training Manual 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagnoses/Problems Management 
+
+Within Rcopia 4, users have the ability to enter diagnoses/problems for a patient. This can be 
+beneficial for a number of reasons including drug-diagnoses interaction checking and the 
+ability to easily add a diagnosis to a prescription.  
+
+The Diagnoses/Problems widget can be found next to the Allergies widget on the Patient 
+Info screen. 
+
+1.  Click on the Add Diagnosis button to begin, or click the NKD button if your patient has 
+
+no known diagnoses. 
+
+2. 
+
+Input the specific diagnosis code or description of the diagnosis you are looking for. As 
+you begin typing, results will start to display. Either select a diagnosis from the drop-
+down or click the Search icon to display all results. 
+
+Rcopia 4 SPM Training Manual 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  To select the diagnosis, click anywhere within the row. You can favor a diagnosis to 
+
+add it to your favorites list by clicking on the star icon. 
+
+4.  You will then be able to enter the onset date for the diagnosis if applicable, and click 
+
+the OK button to add the diagnosis to the patient record. 
+
+5.  Once added to the patient’s record, any diagnoses will display within the 
+
+Diagnoses/Problems widget. Users can manage diagnoses by clicking on one of the 
+three action icons. These include making a diagnosis inactive, marking a diagnosis as 
+resolved, and deleting a diagnosis. 
+
+Rcopia 4 SPM Training Manual 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Medication Management 
+
+The Medications widget on the Patient Info screen lists the patient’s current active 
+medications, whether they are prescribed by you or another provider within the practice. 
+Medications can be added to a patient’s Medication list in one of two ways: 
+
+Obtaining Medication History 
+
+Rcopia 4 has the ability to obtain medication history for up to one year for patients from 
+SureScripts. SureScripts receives medication information from two sources, Pharmacy Fill 
+data and Payer Claims information.  
+
+To pull a patient’s medication history, complete the following steps: 
+
+1. 
+
+In order to use this feature, you must indicate that the patient has given consent to 
+view his/her medication history by toggling the Yes option, shown below. 
+
+2.  Click on Show Medication History from within the Medications widget. 
+
+3.  Patient medication information is displayed according to his or her primary insurance 
+
+company’s records. If the patient has more than one insurance company, this 
+information will be listed for selection in the Pharmacy Benefit drop-down list. 
+
+Rcopia 4 SPM Training Manual 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  Use the drop-down list to select the appropriate time period. 
+
+5.  The results will display (as seen below). By clicking on the + signs, you can see a more 
+detailed record of the patient’s medication history, including sig, prescribing provider, 
+pharmacy where it was filled, quantity, and refills (a clue to compliance). 
+
+6.  Medications can be added by checking the box to the left of the medication’s listing 
+and clicking on the Add to Active Medications button. This will copy all of the 
+medication’s information to the patient’s active medication list.  
+
+Rcopia 4 SPM Training Manual 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+
+If a medication on the patient’s medication history is already added as an Active 
+Medication, it will display as gray in color and with an italicized font (as seen below). 
+Hovering over the medication will indicate to users that it is already marked as active. 
+
+Add an Active Medication 
+
+1.  Click the Add Medication button from the Medications widget. 
+
+2.  There are a few ways to add a new medication to the patient’s active medication list: 
+
+a.  Choose from the Favorites list by using the drop-down menu. 
+b.  Type in part of and/or the drug’s entire name in the Search box. Choose the 
+
+appropriate medication from the resulting list.  
+
+Rcopia 4 SPM Training Manual 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  After selecting the medication, click on the desired strength to launch the Add 
+
+Medication widget. 
+
+4.  From here you can input a number of fields including Patient Directions, Duration, 
+Quantity, Refills, Start Date, Last Written Date, Stop Date, Med Hx Source, and 
+Internal Comments pertaining to the medication.  
+
+These fields are not required when adding a medication, so if you wish to quickly add 
+in the medication, click the Add button at the bottom of the screen. 
+
+Rcopia 4 SPM Training Manual 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+Quick Add an Active Medication 
+
+1.  Once the Quick Add feature is enabled within the Location settings by an 
+
+administrator, users will be able to add medications to the active medication list 
+without entering medication details.  
+
+2.   To Quick Add a medication to the Active Medication list, click on the Add Medication 
+
+Button and search for the desired medication.  
+
+3.  Once the results display, click on the + icon on the right hand side of the desired 
+
+medication. 
+
+Rcopia 4 SPM Training Manual 
+
+22 
+
+ 
+ 
+ 
+ 
+4.  This will quickly add the medication to the Active Medications list without any details 
+
+and bypass the sig screen. 
+
+Stop/Start a Medication 
+
+Users can take a number of different actions on a medication by choosing the appropriate 
+action from within the Active Medications list. These include Renew, Prescribe, Stop, and 
+Delete. 
+
+1.  To stop a medication, click the red Stop icon. 
+
+2.  The Date Stopped will be defaulted to the current date and Common Reasons to 
+
+‘Completion of Therapy’. If you wish to change these, select a new date by clicking on 
+the calendar icon or selecting a new reason from the drop-down box.  
+
+3.  Once complete, click the Stop button. This will stop the medication, taking it off the 
+
+Active Medications list and making it inactive. 
+
+Rcopia 4 SPM Training Manual 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Stopping Multiple Medications 
+
+1.  To stop multiple active medications, select the medications to be stopped using the 
+
+checkboxes. 
+
+2.  Click on the Stop Medication(s) button 
+3.  Rcopia will display a list of the medications to be stopped. Users can take a number of 
+actions including: Change the Date Stopped, select a common reason, and add 
+custom notes. Additionally, any active medications that have previously been 
+prescribed can be cancelled by clicking Cancel Last Prescription for All. Click the 
+Submit button to confirm changes. 
+
+Rcopia 4 SPM Training Manual 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+View Inactive Medications 
+
+Any medications that have been prescribed or added within Rcopia, and stopped for 
+whatever reason, can be seen within the Medications widget.  
+
+1.  Click on the Show Inactive Medications button. 
+
+2.  Rcopia will display a list of all Inactive Medications within the patient’s record. You 
+can take a number of actions which include Renew, Prescribe, Restart, and Delete. 
+
+Rcopia 4 SPM Training Manual 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prescription/Medication Reconciliation 
+
+When prescribing in Rcopia, a prescription will be added to the Medications list of the patient 
+profile as a prescription is sent to the pharmacy.  
+
+However, if the same medication is already listed in the active list, users will encounter the 
+Prescription/Medication Reconciliation screen. This allows users to decide what should 
+happen to the already listed version of the medication as well as the newer medication that 
+was prescribed. 
+
+The available action options are: 
+
+o  Add: Apply the new dosing to the medication list. 
+o  Stop: Remove existing dosing from medication list, but keep in medication history. 
+o  Keep: Retain the existing dosing on the medication list. 
+
+PDMP (Prescription Drug Monitoring Program) 
+
+Rcopia 4 SPM Training Manual 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rcopia 4 allows for PDMP checking to ensure that providers are able to prevent prescription 
+drug abuse and adhere to any state requirements for PDMP checking. 
+
+Please Note: Some states do not allow for third party PDMP checking and require providers 
+to check through their designated platforms. To check if we are able to support PDMP in your 
+state and to see if your state currently mandates PDMP checking, please visit our website at 
+www.drfirst.com/resources/pdmp-query-mandate-map.  
+
+Account Setup for PDMP Checking 
+
+To find out more information about PDMP checking and to have your account set up, please 
+contact your Account Manager for further information.  
+
+You will need to already be set up with your state to check PDMP and may need to provide 
+additional information for setup. 
+
+Accessing and Viewing PDMP Data 
+
+The option to view the PDMP report will only display within the Medications widget if a 
+practice is enabled for PDMP. In order to view the PDMP Summary, follow the steps below.  
+
+1.  Click the View PDMP Data button.  
+
+2.  The PDMP Summary Report will display as shown below. 
+
+Rcopia 4 SPM Training Manual 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  When the report is opened, the event is logged on the backend. This accounts for the 
+
+provider checking the PDMP based on state regulations. Once closed, the button color 
+will change to green and a last viewed date will display.  
+
+Create a New Prescription 
+
+Rcopia 4 SPM Training Manual 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There are a number of ways to create a prescription within Rcopia 4. Make sure you have the 
+appropriate patient selected before creating a new prescription.  
+
+Manual Prescription 
+
+In order to manually create a prescription, follow the steps outlined below. 
+
+1.  To begin, click on the Create New Prescription button within the context bar. 
+
+2.  Enter the first several letters of the drug you wish to prescribe in the search field. The 
+
+results will begin to auto-populate within a drop-down box. Less is more when 
+searching for a medication.  
+
+3.  Either select from the list or run the search to display full results.  
+4.  Next, click on the desired strength to launch the Prescribe Medication widget.  
+
+5.  Within the Prescribe Medication widget, fill in the required fields as noted by the red 
+
+asterisks.  
+
+Rcopia 4 SPM Training Manual 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  Below is a description of all fields within the widget. 
+
+a. Patient Observation (Height and Weight) shows the patient’s height and 
+
+weight if they were recently observed.  These values may be entered or edited 
+on the screen. 
+
+b. Verify that the Provider and Pharmacy fields are correct or use the 
+
+corresponding drop-down menus to edit.  
+
+c.  Verify that the Drug you have chosen is correct. Use the drop-down menu to 
+
+change the drug strength. 
+
+d. Select the appropriate values from the drop-down menus for the Sig details. 
+
+The last field (Other) is optional. 
+
+e. Choose a Duration, if desired. This will automatically populate the quantity 
+field. If a duration is chosen, the medication will be automatically removed 
+from the patient’s Active Medications list once the duration has passed. 
+
+f.  Enter the Patient Weight and select a desired dosage and frequency to use the 
+
+Dose Calculator, if desired.  
+
+g. Choose a numerical Quantity and number of prescription Refills. Refills are 
+
+defaulted to ‘none’. 
+
+h. Enter a Primary Dx (Diagnosis) and/or Secondary Dx, if desired. These fields 
+will only appear if the patient has Problem(s) listed in their Problem History. 
+
+Rcopia 4 SPM Training Manual 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+i.  Enter Directions to Pharmacist, if desired. Directions are defaulted to 
+
+‘Substitution permitted.’ 
+
+j.  Enter Directions to Patient, if desired. There is no character limit so you can 
+type in as much text as needed to complete the tapered sig. (Note: If you 
+exceed 140 characters, the prescription will be automatically sent by fax and 
+will not be transmitted electronically.)  
+
+k. Enter Comments (for office use only), if desired. 
+
+7.  Click the Review button to proceed. 
+
+Split a Prescription 
+
+When prescribing, you have the ability to split a prescription between two pharmacies. This 
+will send a prescription for the same medication, with the same sig, to two different 
+pharmacies.  
+
+1.  To split, click the + Split button to the right of the default pharmacy. 
+
+2.  An additional section will appear to the right, allowing you to choose a secondary 
+
+pharmacy. 
+
+Rcopia 4 SPM Training Manual 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+
+In order to send two prescriptions, you must fill out all at least Quantity for both 
+Pharmacy #1 and Pharmacy #2. You may also set a specific Duration and number of 
+Refills. 
+
+Review Prescription 
+
+Rcopia 4 SPM Training Manual 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After entering prescription details, you will be brought the Review Prescription screen. It is 
+very important to review the prescription to ensure you have created the highest quality 
+prescription for your patient. 
+
+1.  Click one of the action buttons immediately below the prescription. 
+
+o  Save Pending Rx: adds the prescription to the Prescription Management section 
+
+on the Patient Info Screen for review and signoff. 
+
+o  Save and Add Rx: creates a pending prescription and navigates the user back to 
+
+medication search widget. 
+
+o  Back: allows you to edit the Sig details in the Prescribe Medication widget. 
+o  Cancel: cancels the prescription. 
+
+2.  To take immediate action on the prescription, type in your signature password (if 
+you are a provider), and click one of the four buttons on the bottom of the screen. 
+
+Rcopia 4 SPM Training Manual 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+
+If you would like your patient to receive a copy of the prescription, make sure their 
+mobile phone number is entered at the very bottom of the Review screen. 
+
+4.  They will receive a text message providing access to their personal medication record 
+where they can see any recent prescriptions, updates their active medications, view 
+coupons and drug pricing information, as well as securely store health data. 
+
+Prescribing Favorite Prescriptions 
+
+Users will be able to choose from their Practice list (Org Favorites), Location list (if 
+applicable), Individual Favorite list (My Favorites) or Recent. Favorites are now searchable by 
+typing into the search box.  
+
+Recently used favorites will be displayed in the right column. This list will display the 10 most 
+recent prescriptions from the last 10 days. The display of these lists will depend on the 
+practice location’s settings. 
+
+1.  Click the Favorites drop-down located within the context bar. 
+
+2.  Next, select the desired favorite prescription to use from the drop-down list. This will 
+
+create a pending prescription. 
+
+Rcopia 4 SPM Training Manual 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Once a favorite is selected, a pending prescription will be created and can be signed 
+
+within the Prescription Management widget. 
+
+Creating Favorites 
+
+There are multiple ways to add a new favorite prescription. 
+
+1.  Within the Prescription Management widget, click the star icon. 
+
+Rcopia 4 SPM Training Manual 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  On the review prescription screen, click the star icon. 
+3.  Click on the menu icon at the top left of the screen and choose Utilities. Then, select 
+
+Favorites. 
+
+To create a favorite within the Prescription Management section, follow the steps below. 
+
+1.  Click the star icon on the far right-hand side. A star icon that is already yellow, 
+
+indicates that a prescription is already a favorite. 
+
+2.  You will then be taken to the View Favorite Prescription Details widget, and you will 
+see an overview of the favorite prescription. You can edit the details or save the favorite as is.  
+
+3.  Use the Modify Details button to make modifications before saving if needed. 
+4.  When ready to save, click on the Save button. This will add the favorite to your 
+
+personal favorite list. 
+
+To create a favorite from the Review Prescription pop-up, follow the steps below. 
+
+1.  Click the star icon, and follow the same steps outlined above for adding favorites 
+
+within the Prescription Management section. 
+
+Rcopia 4 SPM Training Manual 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+To create a favorite from the Utilities section, follow the steps below. 
+
+1.  Click on Manage My Favorite Prescriptions link within the left menu. 
+
+2.  After clicking on Favorites, you will see a list of currently favored medications. You are 
+able to add new favorites by clicking on the duplicate icon to create a slightly different 
+favorite from an already existing one or by clicking on the Add Favorite button.  
+
+a.  Depending on location settings and account permissions, you will be able to 
+manage the Practice Favorites and Location Favorites lists. All users can 
+manage their own favorites through the My Favorites list. 
+
+Rcopia 4 SPM Training Manual 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+3. 
+
+If you click on Add Favorite button, you can search for the medication you wish to 
+favor and select it by clicking on the appropriate strength. 
+
+4.  When finished entering in or modifying the details for the new favorite, click the Save 
+
+button. 
+
+5.  Once a favorite is created, administrators can take a few different actions. These 
+
+include: 
+
+a.  Duplicate: Used to quickly duplicate the same medication favorite. Users can 
+
+change the strength or details.  
+
+b.  Edit: Used to edit the medication favorite. 
+
+Rcopia 4 SPM Training Manual 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+c.  Delete: Used to delete the medication favorite. 
+
+Prescribing Active Medications 
+
+This method can only be used if a patient has an active medication. Within the Medications 
+widget, find the appropriate active medication and refer to the action icons on the far right-
+hand side. 
+
+1.  Renew from Medication: will allow you to create a prescription that has been 
+
+previously inputted into the Rcopia 4 system. Once you click renew, the prescription 
+will appear in your Prescription Management section. You will NOT be taken to the 
+Prescribe Medication widget. 
+
+2.  Prescribe from Medication: will allow you to change the details for the prescription 
+
+(sig, duration, quantity, refills, pharmacy, etc) and then prescribe. 
+
+3.  Stop: will allow you to stop a medication. You will be prompted to enter a reason for 
+
+stopping this medication (optional, will be displayed in the patient’s inactive 
+medications). 
+
+4.  Delete: will allow you to delete a medication. You will be prompted to confirm 
+
+deleting the medication before the medication is deleted. You would only want to use 
+this option if the medication was added in error onto the patient’s medication list. 
+
+Compound Drug Prescriptions 
+
+To create a compound prescription, begin by selecting one of the drugs within the compound 
+as the base.  Then, within the “Directions to Pharmacist” field, fill in details for any of the 
+additional drugs that are being compounded. 
+
+Rcopia 4 SPM Training Manual 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titrations and Tapered Prescriptions 
+
+For tapered prescriptions or titrations, you will begin by selecting the drug you intend to 
+prescribe. To complete the directions to patient, first utilize the patient directions drop down 
+boxes if at all possible, then use the “Additional Directions to Patient” field to fill in any 
+details for tapers or titrations. 
+
+Sending a Prescription 
+
+1.  Scroll down to the Prescription Management section on the Patient Info screen. 
+2.  Select the desired prescription(s) you want to process by checking or unchecking the 
+
+check boxes on the far left. 
+
+Rcopia 4 SPM Training Manual 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you are a provider, enter your Signature Password. 
+
+3. 
+4.  To complete your prescription, select one of the options provided: 
+
+o  Send: transmits the prescription to the pharmacy electronically. 
+o  Send & Print: transmits the prescription to the pharmacy electronically and prints 
+
+out a watermarked (non-legal) copy of the prescription for your records. 
+
+o  Print don’t Send: prints the prescription without sending it to the pharmacy. This 
+option may be used if the patient is unsure which pharmacy he or she would like to 
+use. This is required for controlled substance prescriptions in some states. 
+o  Sign don’t Send:  signs the medication and adds the medication to the patient’s 
+active medication list, but does not send a prescription to the pharmacy. This is 
+useful if the patient was given a sample. 
+
+Sending a Controlled Substance Prescription 
+
+In order to prescribe controlled substances electronically, a provider must have successfully 
+completed the EPCS onboarding process and be activated by an administrator through 
+Logical Access Control (LAC). If you are an active EPCS prescriber, you will be able to sign and 
+send controlled substance prescriptions electronically within Rcopia 4. 
+
+Rcopia 4 SPM Training Manual 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From the Review Screen 
+
+1.  When creating a prescription manually, users have the ability to sign off on controlled 
+
+substances within the Review Screen. 
+
+o  Once you enter your signature password, the Two Factor Authentication (TFA) 
+
+section will display. 
+
+o  Check any controlled substances you wish to process. Then, enter your signing 
+
+passphrase, choose your EPCS token, and enter the OTP/security code.  
+
+o  When ready, click the Sign and Send button. 
+
+From Prescription Management/Prescription Report 
+
+Users have the ability to sign off on controlled substance prescriptions from with Prescription 
+Report and Prescription Management.  
+
+Rcopia 4 SPM Training Manual 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Once you have identified which prescriptions you wish to send, enter your signature 
+password and click the Send button. There will be a badge notification with the 
+number of prescriptions you are transmitting. 
+
+2.  At the top of the screen, you will see how many legend prescriptions were sent and 
+
+you can see how many pending controlled substance prescriptions are to be 
+completed. You will need to check the box next to the medication name and enter 
+your two-factor authentication to complete the prescription.  
+
+a.  You can also choose Skip Patient or Skip All to move forward and process 
+
+these at a later time. 
+
+Prescription Report 
+
+The Prescription Report allows users to manage all prescription activity within one 
+convenient location. While in Single Patient mode, the Prescription Report will be accessed 
+
+Rcopia 4 SPM Training Manual 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+via a launch button in your EHR. Upon launching the Prescription Report, use the steps below 
+to create your report:  
+
+1.  Select the appropriate provider or select All Providers from the drop-down list. 
+2.  Select either All Patients or the Current (patient). 
+3.  Select the appropriate Status: 
+
+a.  All: displays pending and completed prescriptions. 
+b.  Pending: displays only those prescriptions that have not had any action taken 
+
+on them. 
+
+c.  Completed: displays all completed prescriptions (signed and sent or signed and 
+
+printed). 
+
+i.  When Completed is selected, a date filter is displayed. Select the 
+
+appropriate date range. 
+
+d.  Undeliverable: displays prescriptions that have not been delivered to the 
+
+pharmacy. 
+
+4.  Click on the Display Report icon to show the report on screen. All prescriptions that 
+
+match the criteria will be displayed below. 
+
+5.  The report contains multiple columns and will show you the Status of the prescription 
+
+and sig details, allowing you also to take Action on each prescription. 
+
+a.  Status: shows whether or not a prescription was successfully sent to the 
+
+prescription’s final destination. Hover your mouse over the icon to display the 
+meaning for each icon. 
+
+b.  Action: depending on the status of the prescription, different Actions will 
+display. Hover your mouse over an icon to display an explanation for each 
+Action. 
+
+i.  Favor: adds the prescription to your Favorites List. 
+ii.  Modify: allows you to modify the prescription before completing it. 
+iii.  Delete: allows you to delete any instance of the prescription. 
+iv.  Cancel: cancels the prescription and sends a notice to the pharmacy. 
+v.  Print: reprints a completed prescription. 
+vi.  Resend: resends a completed prescription. 
+vii.  Renew: renews a completed prescription. 
+
+6.  Select the prescriptions to complete by checking the box to the left of the desired 
+
+prescription. Pending prescriptions can be completed from the Prescription Report. 
+
+7.  Enter your Signature Password at the bottom.  
+8.  Click one of the action buttons, listed below, depending on healthcare provider. 
+
+Provider Options 
+
+Rcopia 4 SPM Training Manual 
+
+44 
+
+ 
+ 
+ 
+o  Send: transmits prescription(s) to the pharmacy. 
+o  Send & Print: transmits prescription(s) to the pharmacy and prints the prescriptions 
+
+to the local office printer. 
+
+o  Print don’t Send: sends the prescriptions to the local office printer, but does not send 
+
+it to pharmacy. 
+
+o  Sign don’t Send: adds medication(s) to the patient’s active medication list but does 
+
+not send to pharmacy (often used when giving samples). 
+
+Provider Agent Options 
+
+Provider Agent options are identical to the Provider options above with the exception of:  
+
+o  Send, signature to follow: button will display for provider agents. This sends the 
+prescription to the pharmacy electronically and also to the Prescriber’s pending 
+prescription queue to be acknowledged. 
+
+o  Send & Print: transmits prescriptions to the pharmacy and prints the prescriptions to 
+
+the local office printer. 
+
+o  Print don’t Send: sends the prescriptions to the local office printer, but does not send 
+
+it to pharmacy. 
+
+Staff Options 
+
+o  Print don’t send: prints the prescription(s) to the local office printer, but does not 
+
+send to the prescriber’s queue. 
+
+o  Archive: adds medication(s) to the patient’s active medication list, and does not send 
+
+to a prescriber 
+
+Pharmacy Messages 
+
+Rcopia 4 SPM Training Manual 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+Pharmacy Messages are electronic requests generated by a pharmacy. These could be refill 
+requests for the patient once his or her medication refills have been completed, change 
+requests, or cancellation acknowledgments.  
+
+When your practice group has any pharmacy messages, a badge notification will display 
+within the top toolbar. 
+
+1.  Click the Pharmacy Message icon within the top toolbar. 
+
+2.  You have the ability to filter by provider or message type by using drop-down menus. 
+
+3.  Select the desired action from the drop-down menu for each renewal request. 
+
+a.  Deny: will deny the request and send a denial message to the pharmacy. 
+b.  Change: allows you to change the prescription and/or pharmacy information. 
+
+When the prescription is changed, the prescription becomes a pending 
+prescription in the appropriate provider’s prescription report. This will alert the 
+pharmacy that the requested renewal has been denied, but a new prescription 
+
+Rcopia 4 SPM Training Manual 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+will follow. 
+
+c.  Renew: renews the prescription with the desired number of additional refills. 
+When you choose the appropriate refills, you are authorizing this fill plus X 
+refills of the medication. 
+
+d.  Forward: allows a staff member to forward the prescription request to another 
+
+qualified prescriber in his or her practice. 
+
+e.  Remove: should only be used if you have previously handled this request and it is 
+
+a duplicate. 
+
+4.  If desired, type any Pharmacy Notes in the Response Notes To Pharmacist field. 
+5.  If desired, enter any office notes in the Office Comments in the box. These comments 
+
+are visible only to you and your office staff. 
+
+6.  After you have selected an action enter your signature password, and click the Send 
+
+button.  
+
+Please Note: You can take action on up to 20 renewal requests at a time.  
+
+7.  All requests that have an action selected will be executed and delivered to the respective 
+
+pharmacy. 
+
+Medication Reports 
+
+Rcopia 4 SPM Training Manual 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+The medication reports consist of two reports that display within the Patient Information 
+widget after you have selected a patient. 
+
+These two reports are the Provider Clinical Report and the Patient Clinical Report, which 
+are available through two buttons in the Patient widget. 
+
+Provider Clinical Report 
+
+The Provider Clinical Report lists the patient’s active and inactive medications. It also 
+contains the patient’s allergy, diagnoses, and pharmacy information, as well as the provider 
+information. It is a very useful tool when transferring patient care to another provider.   
+
+1.  After selecting a patient, click Provider Clinical Report within the Patient 
+
+Information Section. 
+
+2.  The Provider Clinical Report will then display. 
+
+3.  In order to print this report, click on the Print icon on the top right of the report. 
+
+Patient Clinical Report 
+
+Rcopia 4 SPM Training Manual 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  The Patient Clinical Report is a wallet-sized version of a patient’s current 
+
+medication, allergy and problem list. This is an ideal way for patients to keep track of 
+the medications they are currently taking. 
+
+2.  Click Patient Clinical Report within the Patient Information Section. 
+3.  The Patient Clinical Report will then display. 
+
+4.  In order to print this report, click on the Print icon on the top right of the report. 
+
+Please Note: If you have pop-up blockers enabled, the print window will not display for 
+either of these reports. You will have to turn this feature off to view and print the browser. 
+
+Rcopia 4 SPM Training Manual 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clinical Alerts 
+
+Rcopia 4 has a variety of clinical alerts within the system to ensure that you have information 
+that may be pertinent in the prescribing process. All clinical alerts appear in red. Below is the 
+list of all the clinical alerts within Rcopia 4: 
+
+o  Drug-Drug Interactions 
+o  Drug-Allergy Interactions 
+o  Drug-Diagnoses Interactions 
+o  Pregnancy 
+o  Lactation 
+o  Dose Check 
+o  Duplicate Therapy 
+o  Geriatric Precautions 
+o  Pediatric Precautions 
+
+When a drug is chosen that prompts a clinical alert, Rcopia 4 will display the alert on the 
+screen. Providers may choose Prescribe Anyway to continue prescribing or Cancel to cancel 
+the prescription. If you choose Prescribe Anyway, you can provide a justification for 
+prescribing the medication despite the warning (optional). 
+
+Drug interaction alert 
+
+Rcopia 4 SPM Training Manual 
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+When prescribing medications, Rcopia 4 will check against the active medication list for drug-
+drug interactions. Alerts appear after you have chosen a drug and corresponding strength. 
+These alerts will have a reference section that can be accessed by clicking the arrows to the 
+right of the message. 
+
+Allergy interaction alert 
+When prescribing medications, Rcopia 4 will alert you if you are prescribing a medication 
+that is associated with a drug on the list of allergies and adverse reactions. The alerts will 
+appear after you have searched for the drug and chosen the strength.  
+
+Drug-Diagnosis interaction alert  
+When prescribing medications, Rcopia 4 will alert you if you are prescribing a medication that 
+may interact with a diagnosis or Problem documented for your patient. The alerts will appear 
+after you have searched for the drug and chosen the strength.  
+
+Pregnancy and Lactation interaction alert  
+You can input a patient’s pregnancy or lactation status in the Patient Info widget. Once 
+selected, you will receive any precautions associated with pregnancy or lactation. 
+Clicking on the arrows to the right of the message will provide you with more information 
+pertaining to the alert. 
+
+Duplicate check 
+A duplicate check alerts the user if he or she has prescribed two drugs in the same therapeutic 
+class. 
+
+Dose check 
+A dose check alerts the user if he or she has prescribed a medication amount that is 
+above or below the maximum or daily dose for that medication.  
+
+Geriatric Precautions 
+Geriatric precautions are based on the Beers list, which indicates that certain medications 
+may not be appropriate in the elderly. 
+
+Pediatric Precautions 
+Pediatric precaution alerts pertain to medications prescribed for the pediatric population. In 
+some cases, certain drugs are not recommended for this population. 
+
+Rcopia 4 SPM Training Manual 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formulary Alerts 
+
+All Rcopia 4 users have formulary checking enabled. Formulary information in Rcopia 4 is 
+obtained from SureScripts.   
+
+1.  When you select a patient, Rcopia 4 will automatically search for his or her eligibility 
+
+using the patient’s first and last name, ZIP code, and DOB. 
+
+Please Note: SureScripts provides formulary information from health plans, Pharmacy 
+Benefit Managers and Payers such as Blue Cross, Anthem, MAMSI, etc. SureScripts may not 
+provide eligibility for all government-funded formularies such as Medicaid or some small 
+regional payers. 
+
+2.  If you try to prescribe a medication that is not covered, or has higher co-pay, you will 
+
+receive a formulary alert in the system. 
+
+3.  The user can override the alert, or select from the list of alternatives and prescribe a 
+
+medication that may have lower co-pay. 
+
+Rcopia 4 SPM Training Manual 
+
+52 
+
+ 
+ 
+ 
+ 
+Utilities 
+
+There are many additional options available in the Rcopia 4 application. To access them, 
+click on the Utilities link within the list icon in the top left hand corner of the page. Several of 
+these utility features are for reference, or have already been configured and performed for 
+your practice upon purchasing the software. Briefly, these Utilities include: 
+
+o  Token Management: allows EPCS enabled providers to manage their EPCS tokens 
+o  Favorites: allows users to add prescriptions to their Favorites list without being used 
+in a patient’s record previously. A current list of your favorite prescriptions is provided 
+in the Favorites drop-down list. 
+
+o  Manage Provider Agent Assignments: Allows practice administrators to make 
+
+provider agent assignments on behalf of prescribers  
+
+o  Pharmacy List Maintenance: allows users the ability to add or modify the practice 
+
+pharmacy list. 
+
+o  Signature Capture: Allows a provider to add their signature to the system incase a 
+
+prescription is faxed. 
+
+How to Manage Provider Agents 
+
+1.  If logged in as a provider Select the Manage My Agents tab. 
+2.  Next, click on the Authorize or Revoke option, depending on the desired action. 
+3.  Enter signature password and click Approve Changes. 
+4.  Click on Approve Changes to save any changes made.  
+
+Rcopia 4 SPM Training Manual 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+5.  If logged in as a practice administrator Select the Manage Provider Agent 
+
+Assignments tab 
+
+6.  In the User to Manage field you can search for a Provider  to select their agents or 
+
+search for a Clinical Staff member to assign them as a provider agent. 
+
+7.  Next, click on Authorize or Revoke  
+8.  Click on Approve Changes to save any changes made.  
+
+Rcopia 4 SPM Training Manual 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accessing Rcopia User and Location Preferences 
+
+User preferences will only apply to the account on which the preferences are set. Location 
+preferences can only be set by an administrator and will apply to all users within a practice 
+location. 
+
+How to Set Preferences 
+
+1.  To access either user or location preferences, you will first need navigate to the 
+
+Settings menu. This can be accessed by clicking on your name in the top right corner, 
+or by hovering over the menu icon in the top left and clicking Settings. 
+
+2.  Then, click the Preferences option. 
+
+Rcopia 4 SPM Training Manual 
+
+55 
+
+ 
+ 
+ 
+ 
+ 
+3.  Use the screens to set preferences as desired. Each user preference is explained in the 
+User Preferences Defined section of this manual, and each location preference is 
+explained in the Location Preferences Defined section of this manual.  
+
+4.  Click the Save button on either screen to ensure changes are applied. 
+
+Rcopia 4 SPM Training Manual 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User Preferences Defined 
+
+Application 
+
+o  Default Login Location: Allows users who are connected to more than one location 
+
+to set their default location when starting Rcopia. 
+
+o  Default Login View:   Preference allows a user to determine what screen they will 
+
+begin on when entering e-prescribing. 
+
+o  Patient Search (default) 
+o  Pharmacy Messages 
+o  Prescriptions Management 
+
+o  Default pharmacy list to search:  Allows users to determine which list will be 
+
+defaulted when searching for a pharmacy. 
+
+o  Favorite List 
+o  Practice List 
+o  All Lists (default) 
+
+Medication 
+
+o  Ask to reconcile prescription vs. medication when only quantity has changed: 
+Allows users to control whether the reconciliation screen should appear when 
+prescribing an already active medication and changing just the quantity. 
+
+o  No (default) 
+o  Yes 
+
+o  Hide inactive medications older than:  Allows users to set limitations for medication 
+
+history results. 
+
+o  No Limit (default) 
+o  3 Months 
+o  6 Months 
+o  1 Year 
+o  2 Years 
+
+Prescription 
+
+o  Populate sig fields from previous prescriptions ("sticky" feature): Allows the 
+
+system to populate the sig fields with how the most recent providers at the practice 
+prescribed the selected medication. This will work with prescriptions written within 
+the past 14 days.  
+
+Rcopia 4 SPM Training Manual 
+
+57 
+
+ 
+ 
+ 
+o 
+
+Include patient allergies on printed/faxed prescription:   Allows users to determine 
+whether or not they would like patient allergies to display on printed/faxed 
+prescriptions. 
+
+o  Custom additional directions to patient (one per line): A custom prescription note 
+may be no more than 210 characters in length. If a prescription exceeds the limit, it 
+will be sent via fax to the pharmacy. Users can find and use these notes through the  + 
+icon on the sig page next to the Additional Directions to Patient text field.   
+
+o  Custom pharmacist notes (one per line): Users can find and use these notes through 
+
+the + icon on the sig page next to the Directions to Pharmacist text field.   
+
+o  Custom prescription comments (one per line): Users can find and use these notes 
+through the + icon on the sig page next to the Comments for Office Use Only text 
+field.   
+
+Prescription Management 
+
+o 
+
+Include cancelled prescriptions:  Allows user to determine whether they wish to view 
+cancelled prescriptions when reporting. 
+
+o  At this location, show your pending and undeliverable prescriptions from all 
+locations:  When the user enables the preference at a location, the user can view 
+pending prescriptions from all other locations in the practice even if the preference is 
+not enabled at these locations. 
+
+o  Default Display Range:   Allows user to set default time range for reporting. 
+
+o  Today (default) 
+o  Past 3 Days 
+o  Past 7 Days 
+o  Past 14 Days 
+o  Past 30 Days 
+
+o  Default provider selection: Allows users to select a provider that the system will 
+
+default to when creating prescriptions. 
+
+o  Default status view:  Allows a user to determine which prescription status they wish 
+
+to set when reporting. 
+
+o  Pending Prescriptions (default) 
+o  Completed Prescriptions 
+o  All Prescriptions 
+
+Rcopia 4 SPM Training Manual 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+Rcopia Location Preferences Defined 
+
+Alerts 
+
+o  Allow providers to suppress duplicate clinical alerts for 1 year:  If Yes, clinical 
+
+alerts can be suppressed for one year after they are initially received by a provider. 
+This allows providers to avoid receiving the same alert continually. 
+
+o  Duplicate therapy check against External Medication History (past 120 days): If 
+Yes, Rcopia utilizes a patient’s PBM/Pharmacy history (if available) for duplicate 
+therapy checks. Providers will want to confirm that the patient is taking the 
+medication on the history before making a clinical decision. 
+
+o  Drug-drug interaction against External Medication History (past 120 days):  If Yes, 
+
+Rcopia utilizes a patient’s PBM/Pharmacy history (if available) for drug-drug 
+interactions.  (default) 
+
+o  When a user overrides prescription warnings: 
+o  Require Users to Enter a Reason 
+o  Allow Users to Enter a Reason, But do not Require It (default) 
+o  Do not Permit Users to Enter a Reason 
+
+o  Drug-allergy interactions:  
+
+o  All warnings (default) 
+o 
+
+Ingredient and Specific Group Allergies Only 
+
+o  Drug-diagnosis interactions:  
+
+o  Contraindicated for Exact Diagnoses Only (default) 
+o  Contraindicated for Exact and Related Diagnoses 
+o  Contraindicated or Evaluation Needed for Exact Diagnoses Only 
+o  Contraindicated or Evaluation Needed for Exact diagnosis and Related 
+
+Diagnosis 
+
+o  All Warnings for Exact Diagnoses Only 
+o  All Warnings for Exact and Related Diagnoses 
+
+o  Drug-drug interactions: 
+
+o  All interactions (default) 
+o  Severe and Contraindicated Only 
+o  Contraindicated Only 
+
+Rcopia 4 SPM Training Manual 
+
+59 
+
+ 
+ 
+ 
+ 
+o  Geriatric warnings: The system will alert the user for any geriatric alerts within the 
+
+system. All Warnings is the recommended setting for this setting. 
+
+o  Pediatric warnings: The system will alert the user for any pediatric alerts within the 
+
+system. All Warnings is the recommended setting for this setting. 
+
+Allergy 
+
+o  Enable “Allergy Severity”: Allows an optional allergy severity dropdown to appear 
+
+when recording allergies. 
+
+Application 
+
+o  Allow partial date for medication and allergy onset: If Yes, users will be able to add 
+use partial start dates when adding medications and allergies. For example, a user will 
+be able to add a start date by indicating the year only, not a month or day. If No, a 
+user will have to input the month, day, and year for a given start date. 
+
+o  Allow providers to manage their provider agents: If Yes, providers can manage 
+
+agents by clicking the left top menu icon, clicking Utilities, and clicking into Manage 
+My Agents. 
+
+o 
+
+Include enterprise name with location name:  If Yes, the enterprise name will be 
+displayed across the top of the screen. 
+
+Diagnosis 
+
+o  Supported diagnosis codes: Allows diagnosis codes as options in the diagnosis 
+widget. Options are ICD-10 (Complete), ICD-10 (Billable), SNOMED CT, ICD-9. 
+
+Medication 
+
+o  Allow incomplete drug definition: If Yes, users will be able to add medications onto 
+
+the active medication list without selecting a strength of the given medication. 
+
+o  Enable “Quick Add” without medication details: If Yes, users will be able to quickly 
+add medications onto active medication list with only the medication and strength. 
+
+o  Allow specifying medication history source: If Yes, users will be able to view where 
+
+a medication history result came from.  
+
+Rcopia 4 SPM Training Manual 
+
+60 
+
+ 
+ 
+ 
+o  Retain office comments and directions to Pharmacist when renewing/prescribing 
+a medication:  Allows previous notes to the pharmacist and staff to be retained on 
+renewals. 
+
+o  Show prescriber name on medication reports:  If Yes, automatically displays 
+
+prescriber name on medication report.   
+
+o  Default external medication: 
+
+o  No Automatic Search 
+o  Last 30 Days (default) 
+o  Last 90 Days 
+o  Last 180 Days 
+o  Last 365 Days 
+
+Patient 
+
+o  Enable Transition of Care logging: If Yes, the link will appear within the patient 
+
+chart, allowing the user to document the TOC date. If No, the transition of care link 
+will not appear within the patient chart. 
+
+o 
+
+Include Transition of Care and encounter data in EMR/PMS interface data: If Yes, 
+transition of care and end encounter information will be sent back to the PMS or EMT. 
+If No, the date will be retained in Rcopia only. 
+
+o  Label prefix for patient External ID: Text box provided to provide an External ID 
+
+label for aforementioned External ID name. 
+
+o  System name required to enter patient External ID:  This is the identifier used to 
+link Rcopia to a Practice Management or EMR.  This would be a required entry for all 
+new patients added to Rcopia. 
+
+o  System name of patient External ID to display on prescriptions and reports: Text 
+box provided to automatically display patient/external ID on all prescriptions and 
+reports.  Not used by smaller practices 
+
+Patient Advisor 
+
+o  Enable adherence plans: If Yes, users will be prompted of adherence plans (if 
+
+available) while prescribing. 
+
+o  Enable patient education material and/or support programs: If Yes, users will be 
+
+able to access educational material that can be provided for patients. 
+
+Rcopia 4 SPM Training Manual 
+
+61 
+
+ 
+ 
+ 
+o  Enable electronic Prior Authorization (ePA): If Yes, the ability to process prior 
+
+authorizations will appear. 
+
+Prescription 
+
+o  Allows prescriptions to be saved as pending without sig and quantity: If Yes, this 
+
+allows prescriptions to be generated and saved without including sig or quantity data.  
+This is good for the staff who do not know the sig but can still create and send to the 
+physician’s queue for completing. (default) 
+
+o  Allow a provider to approve a prescription without entering a signature 
+
+password (Certain states require signature passwords to be used as part of the 
+electronic prescribing process; please refer to your state rules prior to disabling 
+this feature.): If Yes, providers will be able to send prescriptions to the pharmacy for 
+filling without having to enter a signature password. 
+
+o  Require Providers to retroactively sign prescriptions sent by an agent under the 
+provider’s name: If NO providers will not be required to sign prescriptions sent by 
+provider agents on their behalf.  
+
+o  Enable Patient Notification via SMS text: If Yes, this checkbox that appears in the 
+
+Pending Prescription for the Patient section of the patient summary screen and the 
+prescription review screen will be checked by default. This will allow an SMS text 
+message to be sent to the patient upon signing a prescription. Patients will be able to 
+see the pharmacy to which the prescription was sent along with coupons and drug 
+pricing. 
+
+o  Medication stop date auto-set based on prescription duration:  If Yes, 
+
+automatically discontinues an active medication when the duration expires.  
+Medication automatically moves to inactive medication list.   
+
+o  Populate sig fields from previous prescriptions (‘sticky’ feature): Allows the 
+
+system to populate the sig fields with how the most recent providers at the practice 
+prescribed the selected medication. This will work with prescriptions written within 
+the past 14 days. 
+
+o  Enable prescription controls on the Review Prescription screen: If Yes, this allows 
+
+practice to add the “Action” buttons to the Review Prescription screen.   
+
+o  Require provider to sign prescriptions printed by staff: If Yes, provider signatures 
+
+are needed on printed prescriptions. 
+
+Rcopia 4 SPM Training Manual 
+
+62 
+
+ 
+ 
+ 
+o 
+
+Include link to drug information reference site on prescribe screen (not affiliated 
+with DrFirst): If Yes, Rcopia will automatically provide a link on the ‘Enter Details’ 
+screen to access a drug reference website (RxList). 
+
+o  Show practice name on reports:  If Yes, automatically displays practice name on 
+
+prescription and medication reports. 
+
+o  Remember signature password for: Allows system to remember signature password 
+
+for selected amount of time. 
+o  Never (default)  
+o  5 Minutes 
+o  15 Minutes 
+o  30 Minutes 
+o  45 Minutes 
+o  60 Minutes 
+
+o  Enable Practices Favorites List: If checked, the permitted users (determined by 
+options below) will be able to use and modify favorites created at a practice level. 
+
+o  Admin (cannot be unchecked) 
+o  Only Prescribers with Signing Permission 
+o  All Users 
+
+o  Enable Location Favorites List: If checked, permitted users (determined by options 
+below) will be able to use and modify favorites created at a practice location level. 
+
+o  Admin (cannot be unchecked) 
+o  Only Prescribers with Signing Permission 
+o  All Users 
+
+o  Enable User Personal Favorites: If checked, users will be able to save and access 
+
+their own favorite list. 
+
+o  Enable Recently Prescribed Display: If checked, users will be able to access a list of 
+
+recently prescribe favorites. 
+
+o  Prescription security features note to include on printed prescriptions (max 100 
+chars): Allows a printed message to appear on all prescriptions practice wide.   
+
+o  Custom additional directions to patient (one per line): A custom prescription note 
+may be no more than 210 characters in length. If a prescription exceeds the limit, it 
+
+Rcopia 4 SPM Training Manual 
+
+63 
+
+ 
+ 
+ 
+will be sent via fax to the pharmacy. Users can find and use these notes through the  + 
+icon on the sig page next to the Additional Directions to Patient field.  
+
+o  Custom pharmacist notes (one per line): Users can find and use these notes through 
+
+the + icon on the sig page next to the Directions to Pharmacist field.   
+
+o  Custom prescription comments (one per line): Users can find and use these notes 
+through the + icon on the sig page next to the Comments for Office Use Only field.  
+
+Prescription Management 
+
+o  Default pending prescription box to checked: If Yes, ensures that all pending 
+
+prescriptions on the pending prescription report are checked. No is recommended so 
+that physicians have to choose the prescriptions they desire to approve and do not 
+accidentally approve another physician’s prescriptions. 
+
+o  Show complete comments on reports: If Yes, office comments are in reports.   
+
+o  Show patient’s responsible provider on reports: If Yes, the patient’s primary care 
+
+provider (PCP) is displayed in the status bar. 
+
+o  Show pharmacy name on reports:  If Yes, pharmacy name will display on reports 
+
+Report a Problem / Help 
+
+If you have any questions or require assistance with any usage or account issues, you can 
+contact your support resource or DrFirst’s 24/7 Support Team. 
+
+Please Note: If you are a partner user, please contact your EMR’s support team instead. 
+
+If contacting DrFirst Support, please have your username / login name to help us expedite 
+your service request. You can reach us through the below channels. 
+
+o  Call us 24/7 at (866) 263-6512. 
+o  Log in to your JIRA Service Desk account to submit an online support request. 
+
+If you do not yet have a JIRA Service Desk account, please work with your Account Manager, 
+Implementation Specialist, or our Support Team. 
+
+Rcopia 4 SPM Training Manual 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,183 @@
+Nextech IntelleChart (MDI) Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates clinical and administrative staff with instructions for using Nextech IntelleChart (MDI) as the primary Electronic Health Record (EHR) system for clinical documentation, patient charting, and encounter management.
+
+MDI is used to:
+- Document patient visits
+- Manage clinical workflows
+- Store medical records
+- Track diagnoses and treatments
+- Support billing and coding
+- Integrate with imaging and diagnostic systems
+
+MDI is a core clinical system and must be used accurately and consistently.
+
+What Is Nextech IntelleChart (MDI)
+
+Nextech IntelleChart is a specialty ophthalmology EHR system designed for retina practices.
+
+It supports:
+- Patient charting
+- Exam documentation
+- Imaging integration
+- Treatment documentation
+- Orders and prescriptions
+- Clinical history
+- Encounter tracking
+
+MDI integrates with:
+- Heidelberg Heyex
+- Optos Advance
+- AthenaHealth
+- PX Technology
+- RetinaOS
+
+Who Uses MDI
+
+MDI is used by:
+- Physicians
+- Clinical technicians
+- Imaging staff
+- Scribes
+- Billing and coding teams
+- Clinical coordinators
+
+Accessing MDI
+
+1. Open MDI from desktop shortcut or web portal
+2. Log in using assigned credentials
+3. Complete MFA if prompted
+
+Access is role-based and permission controlled.
+
+Patient Search
+
+1. Enter patient name, DOB, or MRN
+2. Select patient from results
+3. Open patient chart
+
+Patient Demographics
+
+Patient demographics include:
+- Name
+- DOB
+- Address
+- Phone number
+- Insurance
+- Emergency contact
+
+Verify demographics at every visit.
+
+Encounter Workflow
+
+1. Open patient chart
+2. Select today’s appointment
+3. Begin encounter
+4. Document exam
+5. Attach imaging
+6. Enter diagnosis
+7. Enter treatment plan
+8. Sign encounter
+
+Clinical Documentation
+
+MDI supports:
+- Structured templates
+- Free-text notes
+- Imaging attachments
+- Historical comparisons
+
+Documentation must be:
+- Accurate
+- Complete
+- Signed by provider
+
+Imaging Integration
+
+MDI integrates with:
+- Heidelberg Heyex
+- Optos Advance
+- Other imaging platforms
+
+Images are linked directly to the patient chart.
+
+Orders and Prescriptions
+
+Providers can:
+- Enter medication orders
+- Submit prescriptions
+- Document injections and procedures
+
+Billing & Coding
+
+MDI provides:
+- Diagnosis codes
+- Procedure codes
+- Billing workflows
+- Charge capture
+
+Billing accuracy depends on proper documentation.
+
+Chart Review
+
+Staff can:
+- Review prior visits
+- Compare imaging
+- Review treatment history
+- Review diagnoses
+
+Audit Trail
+
+MDI tracks:
+- Chart access
+- Documentation edits
+- Signature timestamps
+- User activity
+
+This supports compliance and auditing.
+
+Common Issues & Troubleshooting
+
+Cannot Log In
+- Verify username and password
+- Check MFA
+- Contact IT if locked out
+
+Slow Performance
+- Check internet connection
+- Restart workstation
+- Contact IT
+
+Missing Images
+- Verify Heyex or Optos connection
+- Confirm image transfer
+- Contact imaging support
+
+Encounter Won’t Close
+- Check required fields
+- Verify provider signature
+- Complete documentation
+
+Wrong Patient Chart
+- Exit immediately
+- Notify supervisor
+- Document correction
+
+Security & Patient Privacy
+
+MDI contains protected health information (PHI).
+
+Staff must:
+- Never share login credentials
+- Never leave charts open unattended
+- Never download patient records
+- Log out when leaving workstation
+
+Support
+
+For MDI issues:
+- Document the issue
+- Capture error messages
+- Contact IT or clinical systems support

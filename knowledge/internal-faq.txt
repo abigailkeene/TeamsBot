@@ -1,0 +1,65 @@
+RETINA ASSOCIATES INTERNAL FAQ
+
+--------------------------------------------------
+TIME OFF REQUESTS (PAYCHEX FLEX)
+
+Q: How do I request time off?
+
+A: To request time off through Paychex Flex:
+
+1. Log in to Paychex Flex at https://www.paychexflex.com
+2. On the dashboard, go to "Time Off" or "Time & Attendance"
+3. Click "Request Time Off"
+4. Choose the date range
+5. Select the type of leave (PTO, sick, etc.)
+6. Add notes if needed
+7. Submit the request
+
+You will receive a confirmation once the request is approved.
+
+If you experience login issues or need help, contact an administrator or your manager.
+
+--------------------------------------------------
+IT SUPPORT REQUESTS
+
+Q: Where can I submit an IT support request?
+
+A: You have three options:
+
+1. Click the Tech Team Solutions icon in your system tray (bottom-right corner of your screen).  
+   This is the red triangle icon.
+
+2. Use the “Create Ticket” button in the Knowledge Base portal.
+
+3. Contact an administrator directly via Microsoft Teams or email if the issue is urgent or you cannot access the above tools.
+
+--------------------------------------------------
+REQUESTING ACCESS TO PLATFORMS
+
+Q: How do I request access to an online platform or service required for my job?
+
+A: If you need access to a platform such as Lynx, MDI, Optos, or AdvancedMD:
+
+1. Contact an administrator via Microsoft Teams or email
+2. Include the name of the platform
+3. Specify your role and access level (view-only, full access, admin)
+4. Mention any deadlines or urgency
+
+This ensures your request is processed efficiently.
+
+--------------------------------------------------
+PHISHING AND SECURITY REPORTING
+
+Q: How do I report a phishing email or suspicious activity?
+
+A: If you receive a phishing email or notice suspicious activity:
+
+1. Do not click any links or download attachments
+2. Report the email immediately by:
+   - Forwarding it to ehumphries@retinava.com
+   - Forwarding it to support@techteamsolutions.com
+   - Using the “Report Phishing” button in Outlook (if available)
+
+If you clicked a link or entered information, contact IT immediately via Teams or phone.
+
+Your quick response helps protect the entire organization.

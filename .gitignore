@@ -18,3 +18,5 @@ node_modules/
 
 # Dev tool directories
 /devTools/
+node_modules
+

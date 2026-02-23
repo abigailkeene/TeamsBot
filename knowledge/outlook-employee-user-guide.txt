@@ -1,0 +1,216 @@
+Microsoft Outlook Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates staff with instructions for using Microsoft Outlook for email, calendar, and internal communication.
+
+Outlook is the primary communication platform for Retina Associates and is used for:
+- Internal communication between staff and departments
+- Provider and clinic coordination
+- Scheduling meetings and appointments
+- Receiving system notifications and alerts
+
+Logging Into Outlook
+
+1. Open Outlook
+   - On your PC, click the Outlook icon on your desktop or taskbar
+   - Or go to https://outlook.office.com in your web browser
+
+2. Sign in using your work email and password
+   - Use your Retina Associates email address
+   - Enter your Microsoft 365 password
+   - Complete MFA if prompted
+
+If you cannot log in:
+- Make sure Caps Lock is off
+- Verify you are using your full work email
+- Try logging in from the web version
+- Restart your computer
+- Contact IT if login fails
+
+Email Basics
+
+Sending an Email
+1. Click New Email
+2. Enter the recipient in the To field
+3. Add a subject line
+4. Type your message
+5. Click Send
+
+Replying to an Email
+- Click Reply to respond only to the sender
+- Click Reply All to respond to everyone on the email
+- Click Forward to send the email to another person
+
+Attachments
+1. Click Attach File
+2. Select the file from your computer or OneDrive
+3. Attach the file before sending
+
+Inbox Management
+
+Folders
+- Inbox: All incoming emails
+- Sent Items: Emails you have sent
+- Deleted Items: Deleted emails
+
+Creating Folders
+1. Right-click Inbox
+2. Select Create new folder
+3. Name the folder
+
+Using Search
+- Use the search bar at the top of Outlook to find emails by sender, subject, or keyword
+
+Common Outlook Problems & Solutions
+
+Emails Not Sending
+
+Possible causes:
+- No internet connection
+- Outlook is offline
+- Mailbox is full
+- Attachment is too large
+
+Steps to fix:
+1. Check your internet connection
+2. Look at the bottom of Outlook — make sure it does not say “Working Offline”
+3. Try sending the email again
+4. Remove large attachments and resend
+5. Restart Outlook
+6. Restart your computer
+
+Emails Not Receiving
+
+Possible causes:
+- Outlook is offline
+- Connection issues
+- Mailbox sync problem
+
+Steps to fix:
+1. Close and reopen Outlook
+2. Check internet connection
+3. Click Send/Receive
+4. Restart your computer
+5. Log into Outlook Web and verify if emails appear there
+
+If emails appear in web but not desktop, contact IT.
+
+Outlook Keeps Freezing or Crashing
+
+Possible causes:
+- Large mailbox
+- Corrupt profile
+- Add-in issues
+
+Steps to fix:
+1. Close Outlook
+2. Restart your computer
+3. Open Outlook again
+4. If freezing continues, contact IT for profile repair
+
+Search Not Working
+
+Steps to fix:
+1. Click inside the search bar
+2. Press Enter after typing your search
+3. Restart Outlook
+4. Restart your computer
+
+If search still does not work, contact IT.
+
+Missing Emails
+
+Possible causes:
+- Accidentally deleted
+- Moved to another folder
+- Sent to Junk folder
+- Archived automatically
+
+Steps to locate:
+1. Check Deleted Items
+2. Check Junk Email folder
+3. Use search bar
+4. Check other folders
+
+If still missing, contact IT.
+
+Mailbox Full
+
+Signs:
+- Warning messages
+- Unable to send emails
+
+Steps to fix:
+1. Delete unnecessary emails
+2. Empty Deleted Items folder
+3. Remove large attachments from Sent Items
+4. Move old emails to folders
+
+If mailbox is still full, contact IT.
+
+Calendar
+
+Viewing Your Calendar
+1. Click the Calendar icon on the left side of Outlook
+2. View your schedule by day, week, or month
+
+Creating a Meeting
+1. Click New Event
+2. Add a title
+3. Select date and time
+4. Add attendees
+5. Click Save
+
+Accepting a Meeting Invite
+- Click Accept to add it to your calendar
+- Click Decline if you cannot attend
+
+Meeting Not Showing on Calendar
+
+Steps to fix:
+1. Refresh Outlook
+2. Restart Outlook
+3. Check if you accepted the meeting
+4. Check your calendar filters
+
+Shared Mailboxes
+
+Some departments use shared mailboxes.
+
+To access a shared mailbox:
+1. Click your profile icon
+2. Select Open another mailbox
+3. Enter the shared mailbox name
+
+If you cannot access a shared mailbox:
+- Contact IT to request access
+
+Junk & Phishing Emails
+
+Junk Email
+- Junk emails are automatically filtered
+- Check Junk folder regularly
+
+Phishing Emails
+- Do not click links
+- Do not open attachments
+- Do not reply
+
+Report phishing to IT immediately.
+
+Security & Best Practices
+
+- Do not share your password
+- Do not open suspicious links or attachments
+- Report phishing emails
+- Lock your computer when away from your desk
+- Log out of shared computers
+
+Support
+
+If Outlook is not working:
+- Restart your computer
+- Try Outlook Web
+- Check your internet connection
+- Contact IT Support if the issue continues

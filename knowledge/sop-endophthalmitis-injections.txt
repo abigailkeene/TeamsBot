@@ -1,0 +1,198 @@
+STANDARD OPERATING PROCEDURE (SOP)
+Clinical Endophthalmitis Injections
+
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+--------------------------------------------------
+1. PURPOSE
+
+Injections are administered to treat various retinal conditions that, if left unmanaged, could lead to vision loss. These injections deliver medication directly into the eye to target issues within the retina.
+
+Injections are quick and minimally invasive and help preserve and, in some cases, improve vision over time. At Retina Associates, the goal of each injection is to support the health and function of patients' eyes and maintain their quality of life.
+
+--------------------------------------------------
+2. SCOPE
+
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including:
+
+- Patient preparation
+- Diagnostic testing
+- Assistance during procedures
+- Equipment maintenance
+
+This ensures standardized, high-quality clinical operations and supports effective retina treatments.
+
+--------------------------------------------------
+3. DEFINITIONS
+
+MDI: Electronic Health Record  
+IOP: Intraocular Pressure  
+
+--------------------------------------------------
+4. RESPONSIBILITIES
+
+Clinical Technician:
+- Must consistently perform assigned injection duties according to clinic protocols
+- Expected to achieve competency within 6 months of employment
+
+--------------------------------------------------
+5. INJECTION PROCEDURE
+
+--------------------------------------------------
+5.1 SUPPLIES NEEDED FOR INJECTION
+
+1. Eye and Drug Verification:
+- Forehead stickers indicating correct eye and drug
+
+2. Drops (check expiration dates):
+- Tetracaine
+- Betadine
+- Vigamox
+- Ketorolac
+- Pressure drops (if requested by doctor)
+
+3. Prepared Syringes:
+- Vancomycin (1cc syringe with 18g needle)
+- Ceftazidime (1cc syringe with 18g needle)
+
+4. Additional Syringes and Needles:
+- Empty 3cc syringe with 25g or 27g needle (doctor preference, for tap)
+- Empty 1cc syringe with 30g needle x2 (for possible AC tap)
+- Sterile caps for syringes
+- 30g needles x2 for antibiotic
+
+5. Sterile Field and Procedure Tools:
+- Sterile gloves (for doctor)
+- Sterile drapes
+- Speculums and calipers
+- Cotton tips
+- Lab order
+
+6. Patient Comfort and Additional Items:
+- Tissues
+- Sanitizing wipes
+- Addi packs
+- Tonopen and cover for IOP check
+
+--------------------------------------------------
+5.2 INJECTION PROCEDURE FOR CLINICAL TECHNICIANS
+
+1. Retrieve Superbill and Prepare:
+- Obtain the superbill
+- Go to the injection room
+- Review patient chart in MDI to confirm correct eye and treatment
+
+2. Patient Check-In:
+- Call patient in
+- Confirm date of birth
+- Confirm drug(s)
+- Confirm correct eye
+
+3. Pre-Injection Preparation:
+- Administer Tetracaine drop and start timer
+- Retrieve Vancomycin and Ceftazidime from freezer to thaw
+
+4. Administer Betadine and Additional Numbing:
+- At 5 minutes, administer additional numbing drop
+- Administer Betadine drop
+- Doctor will administer subconjunctival injection
+
+5. Prepare Injection Materials:
+- Draw up drug per doctor’s specifications (typically half vial or 2 mL in 1cc syringe)
+- Label and save remaining vials in fridge with:
+  - Patient name
+  - Date of birth
+  - Injection date
+
+6. Set Up Injection Tray:
+- Speculum and caliper
+- Empty 3cc syringe with 25g or 27g needle
+- Antibiotics on 30g needles
+- Unopened cotton tip applicator
+- 1cc syringe with 30g needle if needed
+- Lab sheet ready for doctor
+
+7. Documentation:
+- Complete injection logbook
+- Enter date and lot numbers for both medications under procedure tab in MDI
+
+8. Assist During Injection:
+- Assist doctor as needed
+- Maintain sterile technique
+- Ensure patient comfort
+
+9. Final Steps:
+- Review lab sheet with doctor to confirm completion
+
+--------------------------------------------------
+5.3 STEP-BY-STEP ASSISTING GUIDE
+
+1. Prepare Betadine:
+- Ready Betadine drops
+- Wait until doctor positions speculum and caliper
+- Apply Betadine directly to marked area
+
+2. Support the Tap Procedure:
+- Doctor uses 3cc syringe with 25g or 27g needle
+- If no fluid obtained, doctor may switch to 1cc syringe with 30g needle
+
+3. Administer Betadine and Pass Medications:
+- Apply Betadine after tap
+- Pass Vancomycin syringe
+- Apply additional Betadine if requested
+- Pass Ceftazidime syringe
+
+4. Prepare Additional Supplies:
+- Have tissues and Addi packs ready
+
+5. Post-Injection Care:
+- Double-rinse eye with sterile solution
+- Administer Ketorolac drop
+
+6. Reposition Patient:
+- Slowly raise chair
+- Be mindful of headrest
+
+7. Check IOP if Required:
+- Measure IOP if requested
+- If elevated, assist doctor with 1cc syringe and 30g needle
+
+8. Doctor Preferences:
+
+Dr. Steuer:
+- Size 8 sterile gloves
+- Uses light
+
+Dr. McFarland:
+- Size 8 sterile gloves
+- Does not use light
+
+Dr. Kunjukunju:
+- Size 6.5 sterile gloves
+- Uses light
+
+Dr. Ruggiero:
+- Size 7.5 sterile gloves
+- Uses light
+
+Dr. Rubino:
+- Size 6.5 sterile gloves
+- Does not use light
+
+--------------------------------------------------
+6. REVIEW
+
+This SOP will be reviewed annually and updated as necessary to ensure continued compliance and efficiency.
+
+--------------------------------------------------
+REVISION HISTORY
+
+Revision Number: 1.0  
+Date: 2024-10-25  
+Description: Initial Creation  
+Revised By: Theresa Hilliard

@@ -1,0 +1,85 @@
+Standard Operating Procedure (SOP)
+Title: Clinical Injection Screening
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+1. Purpose
+The purpose of screening patients before being seen by the doctor is to ensure that all necessary preliminary information is gathered to facilitate a smooth and efficient examination process. Screening helps with collecting vital information, performing baseline tests, identifying urgent issues, improving clinic efficiency, and enhancing patient care.
+
+2. Scope
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including patient preparation, diagnostic testing, assistance during procedures, and equipment maintenance. It ensures standardized, high-quality support in clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+3. Definitions
+MDI: Electronic Health Record  
+ABN: Advanced Beneficiary Notice  
+VA: Visual Acuity  
+IOP: Intraocular Pressure  
+
+4. Responsibilities
+Clinical Technician: One should be able to consistently perform all assigned screening duties within the recommended time frame and in accordance with clinic protocols within 6 months of employment.
+
+5. Screening
+
+5.1 Injections
+
+1. Grab Superbill  
+Retrieve the patient's superbill for the visit.
+
+2. Select Patient Name  
+In MDI, select the patient and move them into the screening room.  
+Create a new encounter for today’s visit.
+
+3. Prep Chart  
+Prepare the patient’s chart with today’s diagnostic order or procedure details.
+
+4. Call Patient  
+Call the patient into the room.
+
+5. Confirm Patient Information  
+Verify patient’s name and date of birth.
+
+6. Confirm Eye and Drug  
+Confirm with the patient which eye will be treated and which drug will be used.
+
+7. Review Changes  
+Ask, “Any changes in your condition?”  
+If no, proceed with obtaining consent.  
+If yes, ask for details:  
+“What changes?”  
+“How long?”  
+“Is this new or different from what you’ve experienced before?”
+
+8. Consent  
+Have the patient sign consent for the correct eye and drug.  
+Obtain the ABN (Advanced Beneficiary Notice) if applicable.
+
+9. Medical Evaluation  
+Confirm at least one clinical element needed for evaluation.  
+Check Visual Acuity (VA).
+
+10. If VA Worsened  
+If VA has worsened by more than two lines and does not improve with pinhole, dilate the affected eye.
+
+11. Check Intraocular Pressure (IOP)  
+Administer numbing drops.  
+Measure and record the IOP in the chart.
+
+12. Complete Charting  
+Save and close the patient chart in the system.
+
+Ideal Time Frame  
+5–7 minutes is the target time to complete the screening process.  
+Red Flag: If the process consistently takes more than 10 minutes, it should be addressed.
+
+6. Review  
+This will be reviewed annually and updated as necessary to ensure continued compliance and efficiency.
+
+Revision History  
+Revision Number: 1.0  
+Date: 2024-10-25  
+Description: Initial Creation  
+Revised By: Theresa Hilliard

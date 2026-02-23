@@ -1,0 +1,265 @@
+Commonly Used Abbreviations and Terms for Retina Screening
+
+OD - Right Eye (Oculus Dexter)
+OS - Left Eye (OCUIUS Sinister)
+OU - Both Eye (Oculus Uterque)
+PH — Pin Hole
+CC - With Correction (Con) {Also stands for Chief Complaint}
+SC - Without Correction (Sans)
+DM - Diabetes Mellitus
+DE - Dilated Exam
+DME - Dilated Medical Exam
+SDE - Scleral Depressed Exam
+IOL - IntraOcular Lens (Cataract Replacement Implant)
+CE - Cataract Extraction
+IOP - IntraOcular Pressure
+sx - Surgery
+FAF — Fundus Autofluorescence
+FA — Fluorescein Angiography
+OCT — Ocular Coherence Topography
+H/o - History of
+PO - Post Operative (also used for By Mouth)
+Flu - Follow up
+FBS - Fasting Blood Sugar (also Foreign Body Sensation)
+AT - Artificial Tears
+LBS - Last Blood Sugar
+Rx - Prescription
+AIC - Average Hemoglobin Blood Sugar Levels
+(tested by blood drawing and lab test every 3-6 months)
+will range on average between 5-9
+CL — Contact Lens
+SCL — Soft Contact Lens
+RGP - Hard Contact Lens
+Gtt/Gtts - Drop(s)
+PRN - As Needed
+NKDA - No Known Drug Allergies
+RAPD - Relative Afferent Pupillary Defect
+
+qlh - Every 1 hour
+qd or qday - Every day
+q2h - Every 2 hours
+qam - Every morning
+q4h - Every 4 hours
+qpm - Every afternoon or evening
+q5h - Every 5 hours
+qhs - Every night at bedtime
+qeh - Every 6 hours
+qod - Every other day
+SIG - Directions
+BID - Twice a day (Bi)
+5x daily - Five times a day
+TID - Three times a day (Tri)
+6x daily - Six times a day
+QID - Four times a day (Quad)
+qWEEK - Every week
+UD - As Directed
+qMONTH - Every month
+
+
+INJECTION DRUG LIST
+
+Name | Pronunciation | Variants and Specifics
+
+Avastin | Uh-vast-in
+
+Cimerli 0.3 and 0.5 | Simmer-lee | Specify if 0.3 or 0.5
+
+Eylea | Eye-lee-uh | Eylea 2mg
+
+Eylea HD | Eye-lee-uh HD | High Dose 8mg
+
+Iluvien | Ill-oo-vee-inn
+
+Izervay | Eye-zer-vay | For Dry AMD treatment only
+
+Kenalog | Ken-uh-log | Sub-Tenon's, Triamcinolone in consents
+
+Lucentis 0.3 and 0.5 | Loo-sent-iss | Specify if 0.3 or 0.5
+
+Ozurdex | Oz-yer-dex | Implant, minimum 90 days between injections
+
+Pavblu | Pav-blue | Generic Eylea, easier to get insurance approval
+
+Syfovre | Sigh-foe-v-ree | For Dry AMD treatment only
+
+Vabysmo | Vuh-bye-z-moe
+
+
+Drops Administered in Office
+
+Proparicaine | Proe-pair-ih-cane | White Top | Numbing Drop
+Phenylephrine | Fenn-ill-eff-rinn | Red Top | Mydriatic Dilator
+Tropicamide | Troe-pick-uh-mide | Red Top | Cycloplegic Dilator
+Betadine | Bay-tuh-dine | Labeled in Office | Anti-Septic
+Tetracaine | Tett-ruh-cane | White Top | Numbing Drop
+Vigamox | Vig-uh-mox | Tan Top | Anti-Biotic
+Ryzumvi | Rye-zoom-vee | Tube | Dilation Reversal
+
+
+Eye Drop Pronunciation
+
+Steroids (Anti-Inflammatory)
+
+Prednisolone | Pred-niss-alone | Brand Name: Pred Forte
+Pred Forte | Pred Fore-tay
+
+NSAIDs
+
+Ketorolac | Kett-or-uh-lack
+
+Antibiotic
+
+Tobramycin | Toe-bruh-my-a-sin
+
+Cycloplegic (Dilator)
+
+Atropine | At-roe-peen
+
+Ointments
+
+Erythromycin | Ee-rith-roe-my-a-sin
+
+
+Glaucoma / Pressure Drops
+
+Latanaprost | Luh-tan-uh-proe-st | Brand Name: Xalatan
+Xalatan | Zal-uh-tan
+Combigan | Com-big-an | Brimonidine/Timolol Combination Drop
+Lumigan | Lume-ih-gan
+Dorzolamide | Dorz-ole-oh-mide
+Timolol | Tim-oh-lol
+Brimonidine | Brim-on-uh-deen | Brand Name: Alphagan
+Alphagan | Al-fuh-gan
+Cosopt | Coe-sopt | Dorzolamide/Timolol Combination Drop
+
+Bottle Top Colors
+
+Pink Top
+Gray Top
+White or Tan Top
+Red Top
+Tube
+Teal Top
+Orange Top
+Navy Top
+Yellow Top
+Purple Top
+White with Dark Blue Strip
+
+
+Doctor Last Name Pronunciation
+
+Dr. Eric Steuer | Stoyer
+Dr. Jason Ruggiero | Ruh-jh-air-oh
+Dr. Andrew McFarland | Mick-far-land
+Dr. Shaina Rubino | Shay-na Rue-bean-oh
+Dr. Nancy Kunjukunju | Koon-joo-koon-joo
+Dr. Sneha Konda | Snay-HA Con-duh
+
+
+Established Comprehensive Steps Checklist
+
+Open summary - Note OCT/any other order and VA on encounter form
+Open Chart, create Follow Up visit under "New"
+If anyone has pre-populated, change tech initials to yours
+Click HPI:
+- Mark Covid
+- Mental Status
+- Prefill CC
+- Note if Diabetic
+- Check 2 boxes in Review of Systems
+Order Images
+Call Patient
+Verify DOB
+Ask about vision changes, flashes or floaters
+Review AIC and last Fasting Blood Sugar if Diabetic
+Review Medical History
+Check Systematic Medications Reviewed and PSFH/ROS
+Proceed to screening:
+- Visual Acuity
+- Confrontation Visual Fields
+- Motility
+- Pupils
+- Check Pressures (IOP)
+- Dilate
+- Note Drops
+- Click V&P Box
+Take to Imaging
+
+
+New Patient Comprehensive Steps Checklist
+
+Open summary and locate referral
+Open Chart
+Create New Referral visit
+Pre-document referral information
+Click HPI:
+- Covid
+- Mental Status
+- Prefill CC
+- Note if Diabetic
+- Review Systems
+Order Images
+Call Patient
+Verify DOB
+Review reason for visit
+Review AIC and FBS if Diabetic
+Collect Medical History
+Review medications, surgeries, allergies
+Review family and social history
+Proceed to screening:
+- Visual Acuity
+- Confrontation Visual Fields
+- Motility
+- Pupils
+- Check Pressures (IOP)
+- Dilate
+- Note Drops
+- Click V&P Box
+Take to Imaging
+
+
+Post-Op Appointments
+
+1 Day Post-Op:
+- Bring pouch from tech station
+- Chart: Tech initials, Covid, Mental Status, CC, 2 green boxes
+- Ask about sleep and pain
+- Remove bandage
+- Check VA and IOP in surgical eye
+- Confrontation, Motility, Pupils
+- Administer first PO drops
+- Review take-home bag
+- No imaging
+
+Every Other Post-Op Visit:
+- Chart: Tech initials, Covid, Mental Status, CC, 2 green boxes
+- Review sleeping and drops
+- Check VA and IOP both eyes
+- Dilate surgical eye only
+- Order imaging
+
+
+Laser Screening Steps
+
+Open summary
+Note laser type, location, and OCT
+Open Chart, create Clinical Procedure Only visit
+Add laser type, location, date, and count
+Click HPI:
+- Covid
+- Mental Status
+- Prefill CC
+- Order images if needed
+Create Consent
+Verify DOB
+Verify laser and location
+Sign Consent
+Proceed to screening:
+- Visual Acuity OU
+- Pressures OU
+- Dilate laser eye
+- Mark Drops
+- Tetracaine first drop
+- V&P check
+Send to Imaging or Laser Room

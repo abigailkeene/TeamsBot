@@ -1,0 +1,181 @@
+iMonnit Temperature Sensors Employee User Guide
+
+Purpose
+
+This guide provides Retina Associates staff with instructions for using the iMonnit temperature monitoring system to track and document temperature conditions for medication refrigerators and other critical storage areas.
+
+iMonnit is used to:
+- Monitor medication refrigerator temperatures
+- Send alerts for temperature excursions
+- Maintain compliance documentation
+- Support inspections and audits
+- Protect temperature-sensitive medications
+
+Temperature monitoring is required for medication safety and regulatory compliance.
+
+What Is iMonnit
+
+iMonnit is an environmental monitoring platform that uses wireless temperature sensors to track temperature conditions in real time.
+
+It is used to monitor:
+- Medication refrigerators
+- Freezers
+- Sample storage
+- Vaccine storage
+- Equipment rooms
+
+Sensors transmit data continuously to a centralized dashboard.
+
+Who Uses iMonnit
+
+iMonnit is used by:
+- Clinical staff
+- Pharmacy coordinators
+- Medication management staff
+- Compliance teams
+- IT and operations
+
+Accessing iMonnit
+
+1. Open a web browser
+2. Navigate to the iMonnit portal
+3. Sign in with your assigned credentials
+
+Access is role-based.
+
+Temperature Dashboard
+
+The dashboard displays:
+- Current temperature readings
+- Historical temperature logs
+- Sensor status
+- Alert history
+
+Each sensor is labeled by location.
+
+Sensor Locations
+
+Sensors are assigned to:
+- Medication refrigerators
+- Vaccine storage units
+- Backup refrigerators
+- Equipment rooms
+
+Each sensor name identifies the location.
+
+Temperature Thresholds
+
+Temperature thresholds are configured for each sensor.
+
+Typical thresholds include:
+- Minimum safe temperature
+- Maximum safe temperature
+- Alert delay
+
+Thresholds are configured by IT or compliance.
+
+Alerts
+
+Alerts are sent when:
+- Temperature exceeds limits
+- Sensor battery is low
+- Sensor loses connection
+- Gateway loses power
+
+Alerts may be sent via:
+- Email
+- SMS
+- App notifications
+
+Responding to Temperature Alerts
+
+1. Open alert notification
+2. Go to affected refrigerator
+3. Verify temperature manually
+4. Document findings
+5. Notify supervisor if out of range
+
+Temperature Logs
+
+iMonnit stores:
+- Continuous temperature history
+- Alert history
+- Sensor activity logs
+
+Logs are used for:
+- Compliance audits
+- Medication safety documentation
+- Regulatory inspections
+
+Sensor Maintenance
+
+Sensors require:
+- Battery replacement
+- Periodic testing
+- Calibration checks
+
+Battery alerts must be addressed immediately.
+
+Replacing a Sensor Battery
+
+1. Remove sensor from unit
+2. Replace battery
+3. Confirm sensor reconnects
+4. Verify readings
+
+Sensor Connectivity
+
+Sensors communicate through gateways.
+
+If a sensor goes offline:
+- Check gateway power
+- Check internet connection
+- Reboot gateway if needed
+
+Compliance
+
+Temperature logs must be:
+- Reviewed daily
+- Documented
+- Retained per policy
+
+Temperature excursions must be:
+- Investigated
+- Documented
+- Reported
+
+Common Issues & Troubleshooting
+
+No Temperature Reading
+- Check sensor battery
+- Check gateway power
+- Verify internet connection
+
+False Alerts
+- Verify actual temperature
+- Check sensor placement
+- Check door seal
+
+Offline Sensor
+- Replace battery
+- Reboot gateway
+- Contact IT
+
+Security & Patient Safety
+
+Temperature monitoring protects:
+- Medication integrity
+- Patient safety
+- Regulatory compliance
+
+Do not:
+- Disable sensors
+- Ignore alerts
+- Change thresholds without approval
+
+Support
+
+For iMonnit issues:
+- Document the issue
+- Capture screenshots
+- Notify IT or compliance team

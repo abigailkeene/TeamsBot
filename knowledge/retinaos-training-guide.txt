@@ -1,0 +1,184 @@
+RetinaOS Training Guide
+Updated Dec 2025
+
+© 2024 McKesson Corporation. All rights reserved. McKESSON and the McKESSON logo are registered trademarks of McKesson Corporation in the U.S. and other countries. All other trademarks shown are the property of their respective owners. You may not copy, reproduce, transmit, distribute, download, or transfer in any form or by any means any part of this presentation without the prior written permission of McKesson Corporation.
+
+------------------------------------------------------------
+
+TABLE OF CONTENTS
+
+1. Receiving
+2. Receive Miscellaneous
+3. SmartScan Mobile
+4. Treatment
+5. Edit Treatment
+6. Add Walk-In Appointment
+7. Reconciliation
+8. Item Search
+9. Item Transfer
+10. Waste & Replace
+11. Support Requests
+
+------------------------------------------------------------
+
+RECEIVING OVERVIEW
+
+RetinaOS utilizes DSCSA-compliant manufacturer barcodes that come on every unit of drug from the Distribution Center.
+
+Drugs Excluded from Manufacturer Barcodes:
+- Compounded products (including Avastin)
+- Samples
+- Specialty Rx
+- Patient Assistance Program Drug
+
+McKesson will provide separate RetinaOS Barcode Tag stickers for all products that do not have manufacturer barcodes.
+
+Receiving Steps:
+1. Navigate to "Receive Orders"
+2. Select appropriate Purchase Order
+3. Receive entire order at once OR scan each box OR receive one lot at a time
+4. Verify order info
+5. Select "Receive All"
+6. Choose storage location
+7. Verify order is correct
+8. Accept & Receive
+
+If missing drugs:
+- Select "Order Incorrect – Review"
+- Receive lots individually if pending shipment
+
+------------------------------------------------------------
+
+RECEIVE MISCELLANEOUS
+(Compounded Drugs, PAP, Specialty Rx, Samples)
+
+Steps:
+1. Navigate to "Receive Misc"
+2. Select reason (Supplied for Patient)
+3. Enter location, supplier, storage
+4. Enter Patient ID
+5. Enter asset name, lot number, expiration date
+6. Scan RetinaOS inventory tag
+
+------------------------------------------------------------
+
+SMARTSCAN MOBILE RECEIVING
+
+1. Navigate to retinaos.usretina.com on mobile
+2. Choose Receive Misc
+3. Fill required information
+4. Scan RetinaOS tag
+5. Specify asset, lot, expiration date
+6. Scan tags (green = valid, red = invalid)
+7. Confirm count and submit
+
+------------------------------------------------------------
+
+TREATMENT OVERVIEW
+
+1. Navigate to "Appointment Book"
+2. Filter by date, location, physician
+3. Select patient
+4. Select eye
+5. Scan inventory tag
+6. Verify and save treatment plan
+
+------------------------------------------------------------
+
+EDIT TREATMENT
+
+1. Navigate to "Appointment Book"
+2. Search patient
+3. Select Edit Patient
+4. Remove incorrect treatment
+5. Save updated treatment plan
+
+------------------------------------------------------------
+
+ALERTS
+
+- Appointment / Drug Mismatch
+- 28 Day Rule
+- 49 Day EyleaHD Frequency
+- PAP / SpecialtyRx Drug Rules
+- Bilateral / Lot Conflicts
+- Non-Billable Samples
+
+------------------------------------------------------------
+
+ADD WALK-IN APPOINTMENT
+
+1. Navigate to Walk-In Appointment
+2. Enter patient info
+3. Scan inventory tag
+4. Verify and save
+
+------------------------------------------------------------
+
+RECONCILIATION
+
+1. Navigate to Drug Reconciliation
+2. Select date
+3. Filter by exception or doctor
+4. Manage exceptions
+5. Mark as match and save
+
+Common Exceptions:
+- Vial missing in RetinaOS
+- Vial missing in EMR
+- Eye mismatch
+- Drug mismatch
+
+------------------------------------------------------------
+
+ITEM SEARCH
+
+1. Navigate to Item Search
+2. Scan or enter barcode
+3. View unit information
+
+------------------------------------------------------------
+
+ITEM TRANSFER
+
+1. Navigate to Item Transfer
+2. Select source location
+3. Select destination location
+4. Scan drug
+5. Transfer items
+
+------------------------------------------------------------
+
+WASTE & REPLACE
+
+1. Navigate to Waste / Replace
+2. Scan inventory barcode
+3. Select Waste
+4. Enter reason
+5. Submit
+
+Replacement:
+1. Receive Misc
+2. Select Wasted Replacement
+3. Enter details
+4. Enter lot, expiration, cost
+5. Paste original barcode
+6. Scan replacement drug
+
+------------------------------------------------------------
+
+SUPPORT REQUESTS
+
+Customer Support:
+support@retinaos.mckesson.com
+
+McKesson Order Issues:
+855-477-9800
+CustomerSuccessManagers@McKesson.com
+
+HIPAA Warning:
+Do not email PHI. Use secure channels only.
+
+------------------------------------------------------------
+
+END OF TRAINING GUIDE

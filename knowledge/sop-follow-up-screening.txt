@@ -1,0 +1,132 @@
+STANDARD OPERATING PROCEDURE (SOP)
+Clinical Follow-Up Screening
+
+Document Number: DO-001
+Effective Date: 2024-10-25
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+--------------------------------------------------
+1. PURPOSE
+
+The purpose of screening patients before being seen by the doctor is to ensure that all necessary preliminary information is gathered to facilitate a smooth and efficient examination process.
+
+Screening helps with:
+- Collecting vital information
+- Performing baseline tests
+- Identifying urgent issues
+- Improving clinic efficiency
+- Enhancing patient care
+
+--------------------------------------------------
+2. SCOPE
+
+This SOP outlines the responsibilities and procedures for Clinical Technicians, including:
+
+- Patient preparation
+- Diagnostic testing
+- Assistance during procedures
+- Equipment maintenance
+
+It ensures standardized, high-quality clinical operations to enhance patient care and support the medical team in providing effective retina treatments.
+
+--------------------------------------------------
+3. DEFINITIONS
+
+MDI: Electronic Health Record  
+ABN: Advanced Beneficiary Notice  
+VA: Visual Acuity  
+IOP: Intraocular Pressure  
+
+--------------------------------------------------
+4. RESPONSIBILITIES
+
+Clinical Technician:
+- Must consistently perform all assigned screening duties within the recommended time frame
+- Must follow clinic protocols
+- Expected to achieve competency within 6 months of employment
+
+--------------------------------------------------
+5. SCREENING PROCEDURE
+
+--------------------------------------------------
+5.1 FOLLOW-UP SCREENING WORKFLOW
+
+1. Grab Superbill:
+- Retrieve the patient’s superbill for today’s visit
+
+2. Select Patient:
+- Select the patient's name in MDI
+- Move the patient into the screening room
+- Create a new encounter for today’s appointment
+
+3. Prep Chart:
+- Review the chart
+- Add any diagnostic orders or procedures for today’s visit
+- This step should take no more than 1–2 minutes
+
+4. Call Patient:
+- Bring the patient into the room
+
+5. Confirm Patient Information:
+- Verify the patient’s name
+- Verify the patient’s date of birth
+
+6. Vision Check:
+- Ask: “How’s your vision?”
+
+7. Chief Complaint Documentation:
+- Document: “Patient states [summary of issue].”
+- Ask:
+  - Any flashes or floaters?
+  - Duration of the problem?
+- Chief complaint must include at least 4 elements for completeness
+
+8. Review Medical History:
+- Ask: “Any changes to medications or medical history since your last visit?”
+- If yes:
+  - Update medication list
+  - Update medical history as needed
+
+9. Review of Systems:
+- Under Review of Symptoms, check at least 2 bubbles
+
+10. Visual Assessment:
+- Check Visual Acuity (VA)
+- Examine fields
+- Examine pupils
+- Examine motility
+
+11. Intraocular Pressure (IOP):
+- Confirm no allergies or intolerance to eye drops
+- Administer numbing drops
+- Measure IOP
+- Record result in chart
+- If IOP is above 23, ask the doctor if dilation is allowed
+
+12. Dilation:
+- Dilate both eyes unless otherwise specified in follow-up note
+
+13. Complete Charting:
+- Save and close the patient chart
+
+--------------------------------------------------
+IDEAL TIME FRAME
+
+- Target completion time: 10–12 minutes
+- Red Flag: If consistently taking more than 20 minutes, review workflow for improvement
+
+--------------------------------------------------
+6. REVIEW
+
+This SOP will be reviewed annually and updated as necessary to ensure continued compliance and efficiency.
+
+--------------------------------------------------
+REVISION HISTORY
+
+Revision Number: 1.0  
+Date: 2024-10-25  
+Description: Initial Creation  
+Revised By: Theresa Hilliard

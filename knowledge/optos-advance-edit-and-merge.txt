@@ -1,0 +1,59 @@
+Standard Operating Procedure (SOP)
+Title: Optos Advance – Edit and Merge Patients
+Document Number: OA-001
+Effective Date: 2024-10-29
+Revision Number: 1.0
+Supersedes: N/A
+Prepared by: Theresa Hilliard, Practice Administrator
+Approved by: Ryan McCuskey, CEO
+
+
+Patient Imaged Under the Wrong Name
+
+If the wrong patient name is selected on the tablet and the imaging session needs to be moved to the correct patient, follow the steps below.
+
+
+SECTION 1: Edit Patient Study
+
+Login to OptosAdvance  
+(User must be granted privilege to Edit Patient Studies)
+
+1. In the Patient Directory, search for the correct patient name.
+2. Copy the correct patient ID number.
+3. Locate the study that was done today under the wrong patient name.
+4. Right-click on that patient and select:
+   Edit Patient/Study
+5. Delete the ID number currently shown.
+6. Paste the correct patient ID number.
+7. Make sure ALL options at the bottom are UNCHECKED.
+8. Click Save.
+9. When the warning screen appears, click Continue.
+
+
+SECTION 2: Merge Patients
+
+10. From the Patient Study Directory, search by Patient ID.
+11. You will now see:
+    - The correct patient record
+    - The edited record with the wrong name
+
+12. Check both boxes to the left of the two patient names.
+13. Right-click on one of the names and select:
+    Merge Patients
+
+14. On the Merge Patients screen:
+    - Uncheck the box that says:
+      "Apply changes to all studies for the same patient"
+
+15. If the patient on the LEFT is the correct record, select:
+    Merge to Left
+
+16. If the patient on the RIGHT is the correct record, select:
+    Merge to Right
+
+17. Click Continue at the warning screen.
+
+18. The patient information in the study will now be updated and merged correctly.
+
+
+End of Procedure
