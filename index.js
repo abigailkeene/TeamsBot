@@ -5,6 +5,7 @@ import { askAI } from "./ai/askAI.js";
 import { StaffAIBot } from "./bot.js";
 import {
   CloudAdapter,
+  ConfigurationServiceClientCredentialFactory,
   ConfigurationBotFrameworkAuthentication
 } from "botbuilder";
 
@@ -30,7 +31,6 @@ app.get("/health", (req, res) => {
 
 /* =========================
    EXISTING WEBSITE ENDPOINT
-   (UNCHANGED)
 ========================= */
 app.post("/ask", async (req, res) => {
   const { question } = req.body;
@@ -52,16 +52,6 @@ app.post("/ask", async (req, res) => {
 
 /* =========================
    MICROSOFT TEAMS BOT
-========================= */
-
-import {
-  CloudAdapter,
-  ConfigurationServiceClientCredentialFactory,
-  ConfigurationBotFrameworkAuthentication
-} from "botbuilder";
-
-/* =========================
-   EXPLICIT BOT AUTH CONFIG
 ========================= */
 
 const credentialsFactory =
