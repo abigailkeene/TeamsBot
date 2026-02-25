@@ -54,9 +54,25 @@ app.post("/ask", async (req, res) => {
    MICROSOFT TEAMS BOT
 ========================= */
 
-// Let SDK read ALL bot settings from process.env
+import {
+  CloudAdapter,
+  ConfigurationServiceClientCredentialFactory,
+  ConfigurationBotFrameworkAuthentication
+} from "botbuilder";
+
+/* =========================
+   EXPLICIT BOT AUTH CONFIG
+========================= */
+
+const credentialsFactory =
+  new ConfigurationServiceClientCredentialFactory({
+    MicrosoftAppId: process.env.MICROSOFT_APP_ID,
+    MicrosoftAppPassword: process.env.MICROSOFT_APP_PASSWORD,
+    MicrosoftAppType: "MultiTenant"
+  });
+
 const botFrameworkAuthentication =
-  new ConfigurationBotFrameworkAuthentication(process.env);
+  new ConfigurationBotFrameworkAuthentication({}, credentialsFactory);
 
 const adapter = new CloudAdapter(botFrameworkAuthentication);
 
