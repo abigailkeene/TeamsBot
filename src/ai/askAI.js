@@ -327,15 +327,21 @@ export async function askAI(question) {
     aiOutput = "I’m sorry, that information is not available in the current internal documentation.";
   }
 
-  // 🔹 DATABASE LOGGING (ADDED — NOTHING REMOVED)
+  /* ============================
+     DATABASE LOGGING
+  ============================ */
 
   try {
+    const tokensUsed = data?.usage?.total_tokens || 0;
+
     await logInteraction({
-      userId: "unknown",
+      user_id: "unknown",     // replace later with Teams user id
+      user_email: "unknown",  // replace later with Teams email
       question: question,
-      topDocs: topDocs.map(d => d.name),
-      answer: aiOutput
+      response: aiOutput,
+      tokens_used: tokensUsed
     });
+
   } catch (err) {
     console.error("Logging failed:", err.message);
   }
