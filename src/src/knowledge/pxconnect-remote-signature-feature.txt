@@ -1,0 +1,140 @@
+PX Connect – Remote Signature Feature Guide
+
+Instructions shown may use a demo account that looks slightly different from your practice environment.
+
+REMOTE SIGNATURE FEATURE OVERVIEW
+
+The Remote Signature feature allows clinic staff to send a patient a request to complete missing signatures remotely after a form has already been generated in PX Connect.
+
+This feature is accessed through the PX Connect Client Portal.
+
+ACCESSING THE REMOTE SIGNATURE FEATURE
+
+1. Log into the PX Connect Client Portal.
+2. Navigate to:
+   PX Connect → Submit Forms
+3. Change the Form Filter from:
+   Signed Forms → All Forms.
+
+The All Forms view will show all enrollments generated since the PX Connect integration went live.
+
+You can search for the patient whose signature was missed by using the following filters:
+
+* Patient First Name
+* Patient Last Name
+
+INITIATING A REMOTE SIGNATURE REQUEST
+
+Once the feature is enabled, a chat bubble icon will appear in the Controls column for eligible forms.
+
+Steps:
+
+1. Locate the correct patient enrollment.
+2. Select the chat bubble icon.
+3. A “Send Patient Data Request” pop-up will appear.
+
+SENDING THE PATIENT REQUEST
+
+Inside the Send Patient Data Request window:
+
+1. Choose the preferred request method:
+
+   * Email
+   * Text message
+
+2. Confirm the patient’s contact information is correct.
+
+3. The message will display your practice logo so the patient knows the request is legitimate.
+
+4. Select Submit.
+
+A confirmation message will appear indicating the patient data request was sent successfully.
+
+Select OK to return to the portal screen.
+
+WAITING FOR PATIENT SIGNATURE
+
+After sending the request:
+
+* The chat bubble icon will change to a timer icon.
+* This indicates the system is waiting for the patient to complete the signature remotely.
+
+PATIENT SIDE – RECEIVING THE REQUEST
+
+The patient will receive either:
+
+* An email
+* A text message
+
+The message will state that their healthcare provider has requested additional information or a signature for a patient assistance form.
+
+The message will contain a secure link.
+
+Example wording:
+
+"Your practice has requested more information in order to process a patient assistance form. Please visit the link below to provide this information."
+
+PATIENT AUTHENTICATION
+
+When the patient opens the link they will be asked to confirm their identity by entering:
+
+* First Name
+* Last Name
+* Date of Birth
+
+After entering this information they will select Submit.
+
+PATIENT SIGNATURE PROCESS
+
+After authentication, the patient will be directed to the form page.
+
+Steps for the patient:
+
+1. Scroll to the signature section.
+2. Sign within the provided signature box.
+
+If the enrollment form requires multiple signatures (such as an E4U form), two signature boxes may appear.
+
+3. After signing, the patient selects Submit at the bottom of the page.
+
+PATIENT CONFIRMATION
+
+After submitting their signature, the patient will see a confirmation message indicating the information was received successfully.
+
+The healthcare provider will then be notified.
+
+NOTIFICATION TO STAFF
+
+The user who initiated the remote signature request will receive an email notification indicating that the patient has completed their remote signature.
+
+The notification instructs the user to log into the PX Connect Client Portal to finish the enrollment submission.
+
+COMPLETING THE FORM AFTER REMOTE SIGNATURE
+
+Once the patient signs the form:
+
+1. Log into the PX Connect Client Portal.
+2. Navigate to:
+   PX Connect → Submit Forms.
+
+Locate the patient enrollment.
+
+Indicators:
+
+* The chat bubble icon will appear filled in white, indicating the remote signature was completed.
+
+3. Select the blue paper icon to open the enrollment.
+
+4. Review and complete the form as usual.
+
+Selecting “All Fields” on the enrollment form will allow you to view the patient’s saved signature(s).
+
+SUMMARY
+
+The Remote Signature feature allows clinics to:
+
+* Capture missed patient signatures after the visit
+* Send secure signature requests via email or text
+* Allow patients to authenticate and sign remotely
+* Receive automatic notifications when signatures are completed
+* Finalize enrollments within the PX Connect portal

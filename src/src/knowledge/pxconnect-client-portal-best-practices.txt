@@ -1,0 +1,216 @@
+PX Connect Client Portal Best Practices
+
+Instructions are shown on a demo account that may look different than yours.
+
+Contents
+Submit Forms
+Submit Forms Filters
+Completed Forms
+Inbox
+Inbox Filters & Functionality
+Patients
+
+
+SUBMIT FORMS
+
+To view the Submit Forms table:
+Login to the PX Connect Client Portal
+Select Enrollment
+Select Submit Forms
+
+This page can be considered a portal user's virtual work queue.
+
+Submit Forms is where users can view the enrollments that have been signed on the PX Connect tablets and are awaiting final review and submission by designated portal users.
+
+Forms will stay in Submit Forms until they are submitted.
+
+After submission, the enrollment moves to the Completed Forms section of the PX Connect Client Portal and will stay there for users to refer to at any time.
+
+
+SUBMIT FORMS FILTERS
+
+View Size
+This filter is set to 5 patients at a time, but users can change it to view up to 20 patients in the Submit Forms table.
+
+Patient First Name and Patient Last Name
+Users can search the patient's name then click the magnifying glass icon to search for their signed enrollment forms directly.
+
+Select Program(s)
+To sort signed enrollments based on a particular drug program, use this filter.
+
+Select Provider(s)
+To sort signed enrollment for a certain provider, use this filter.
+
+Select Location(s)
+To sort signed enrollments based on location, use this filter.
+
+Select Form Type
+The Select Form Type filter is preset to Signed Forms which shows users signed enrollment forms where any enrollment signed on the tablet will be listed in the Submit Forms table.
+
+If this filter is set to All, users will see a list of all enrollments generated for every patient that has been checked in since the integration with PX Connect went live.
+
+This view can be used to initiate the Remote Signature feature or retrieve deleted enrollments from the Signed Forms table.
+
+Pending Remote Sig
+This option shows enrollments where a Remote Signature request has been initiated but is still pending receipt from the patient or has expired.
+
+Once completed, these enrollments move automatically under the Signed Forms filter results.
+
+
+COMPLETED FORMS
+
+To view the Completed Forms table:
+Select Enrollment
+Select Completed Forms
+
+After enrollments are submitted from Submit Forms, the applications and benefits investigation information (if available based on the respective drug program) are available on the Completed Forms page of the PX Connect Client Portal.
+
+These documents remain in this section and are accessible to portal users at any time.
+
+There are filters on this page similar to those on Submit Forms.
+
+Users can filter by:
+Patient name
+Program
+Provider
+Location
+
+This table holds all enrollments that have been submitted on PX Connect.
+
+Users can see:
+Program name
+Patient name
+Provider
+Completed by
+Completed date
+
+Documents Column
+The View option under Documents provides the application and Summary of Benefits (SOB) documentation for applicable programs.
+
+Users can download these files individually or download results in mass using Download Forms.
+
+Services Column
+The View option under Services provides a summary of the benefits featured on the Summary of Benefits documents.
+
+Viewing benefits in this way allows users to quickly reference the benefits rather than downloading the forms.
+
+
+UNDERSTANDING THE PX CONNECT INBOX
+
+To access the Inbox:
+Login to your PX Connect account
+Select the Inbox option at the top left directly below the PX Connect logo
+
+
+PXC INBOX FILTERS AND FUNCTIONALITIES
+
+Status Active Filter
+Allows the user to switch between which benefits investigation option they wish to view.
+
+Read Active Filter
+Allows the user to choose between Read and Unread inbox notifications.
+
+Provider Active Filter
+Allows the user to select from available providers and only see messages related to the selected provider’s patients.
+
+Document Active Filter
+Allows the user to select which program Summary of Benefits they wish to view.
+
+
+PXC INBOX COLUMNS
+
+Patient Column
+Displays the patient associated with the information in that row.
+
+DOB Column
+Displays the patient's date of birth.
+
+Provider Column
+Displays which provider the patient's benefits investigation and enrollment information belongs to.
+
+
+TYPE COLUMN
+
+Displays the program Summary of Benefits that can be selected by the user.
+
+When selecting the Summary of Benefits, a popup appears displaying a PDF version that can be downloaded.
+
+This document can then be uploaded into the patient's chart or electronic health record.
+
+
+STATUS COLUMN
+
+Displays the status of a benefits investigation for the specific enrollment submitted for the patient.
+
+
+DATE RECEIVED COLUMN
+
+Indicates when the benefits investigation was returned to the PX Connect portal for the requested drug program and patient.
+
+
+SERVICES COLUMN
+
+Displays a View button that can be clicked to view a snapshot of the patient's benefits investigation information.
+
+
+CONTROLS COLUMN
+
+Displays a spinning arrow that allows the user to resubmit an enrollment without capturing a new signature from the patient.
+
+This can be done for any patient with an active enrollment on file for the specific drug program.
+
+When the arrow icon is clicked, the enrollment will populate allowing the user to modify and resubmit with necessary changes.
+
+
+PATIENTS
+
+To view the Patients table:
+Login to the PX Connect Client Portal
+Select Patients
+Select Patient Create/Edit
+
+The Patients table allows users to view patients and enrollments generated for them for each encounter recognized by the integration since go-live.
+
+If patients are not listed here, ensure they exist in the practice's practice management system.
+
+Edits made in the practice management system will update in the PX Connect Patients table within a few minutes.
+
+
+PATIENTS: MANAGE PATIENT
+
+For each patient, users can view:
+Patient name
+Date of birth
+Patient ID within PX Connect
+Provider
+Primary insurance information
+
+Controls on the far right of the table:
+
+Person silhouette icon
+Allows users to view the patient's historical enrollment submission information.
+
+Trash icon
+Removes the patient from the integration.
+
+Patients should not be removed unless instructed to do so.
+
+
+MANAGE PATIENT PAGE
+
+To view the Manage Patient page:
+Login to PX Connect Client Portal
+Select Patients
+Select Patient Create/Edit
+Select the blue person silhouette icon next to the patient
+
+When a user selects a patient, they can view all historical enrollment submissions.
+
+The Enrollments table includes:
+Program name
+Form status
+Provider or encounter date
+Last enrolled date
+Primary insurance
+
+These details allow users to quickly review the patient's enrollment history.

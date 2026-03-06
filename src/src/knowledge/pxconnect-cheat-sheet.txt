@@ -1,0 +1,75 @@
+PX Connect Cheat Sheet
+
+How to Use PX Connect
+
+STARTING THE DAY
+
+Step 1
+Power the tablet on and make sure it is connected to Wi-Fi.
+
+Step 2
+Enter your username, password, and PIN.
+
+Step 3
+Select the three-lines icon in the upper right corner.
+Then select Settings.
+
+Step 4
+Select the name of the provider(s) who are seeing patients at your location that day as soon as you log in.
+This ensures their patients appear on the tablet when they check in.
+
+FRONT DESK / TECHS – CAPTURE PATIENT SIGNATURES ON TABLET
+
+Step 5
+The patient is marked as "Checked In" or "Arrived" in your Practice Management (PM) system.
+This alerts the tablet to start the submission process.
+
+Step 6
+At checkout, select the patient's name.
+
+Step 7
+Select the appropriate form(s) for the visit.
+You may need to scroll to locate the correct form.
+
+Step 8
+Open the form.
+Approximately 90% of fields will be pre-populated from your PM system.
+
+Step 9
+If the patient is receiving Eylea and is uninsured, it is required to collect the patient's income and household size.
+
+Step 10
+Obtain the patient's signature.
+
+Step 11
+Press the "Save" button.
+
+Step 12
+Note on the encounter form or trip ticket that a Benefits Investigation (BI) for the specific drug is needed so the PSR can double check for a signature during checkout.
+
+HELPFUL TIPS AND FAQs
+
+What do the icons on the tablet mean?
+
+Icon meanings:
+
+• The form has been viewed but no other action has been taken on the enrollment form.
+
+• The patient’s signature has been obtained but the enrollment form has NOT been submitted yet.
+
+• The enrollment form was successfully saved.
+
+How do I create an enrollment for a patient who is not on the schedule?
+
+Patients who have an appointment and are checked in will appear on the main tablet screen.
+
+Click the paper icon to create an enrollment and collect a signature for a patient who is not on the schedule.
+
+Note: When you click the paper icon, it will say "Create a new patient."
+Selecting this option creates a new ENROLLMENT, not a new patient record.
+
+What drugs can I submit enrollments for on PX Connect?
+
+All commonly used drugs are available on the platform except Ozurdex.
+
+PX Technology is working on adding Ozurdex to the platform in the future.
