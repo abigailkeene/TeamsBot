@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { logInteraction } from "./logs/logger.js";
+import { logInteraction } from "../logs/logger.js";
 
 /* ============================
    PATH HANDLING (DEPLOY SAFE)
