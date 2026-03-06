@@ -111,6 +111,10 @@ const heyexUserGuide = loadKnowledge("heidelberg-heyex-employee-user-guide.txt")
 const optosCloudUserGuide = loadKnowledge("optoscloud-employee-user-guide.txt");
 const retinaScreeningAbbreviationsGuide = loadKnowledge("retina-screening-abbreviations-drugs-and-clinical-workflows.txt");
 
+const pxconnectCheatSheet = loadKnowledge("pxconnect-cheat-sheet.txt");
+const pxconnectPortalBestPractices = loadKnowledge("pxconnect-client-portal-best-practices.txt");
+const pxconnectRemoteSignature = loadKnowledge("pxconnect-remote-signature-feature.txt");
+
 /* ============================
    DOCUMENT REGISTRY WITH ALIASES
 ============================ */
@@ -161,6 +165,35 @@ const allDocuments = [
       "office closed holiday"
     ],
     content: holidaysPolicy
+  },
+
+  {
+    name: "pxconnect cheat sheet",
+    aliases: [
+      "px connect cheat sheet",
+      "pxconnect quick reference",
+      "px connect quick guide"
+    ],
+    content: pxconnectCheatSheet
+  },
+  {
+    name: "pxconnect client portal best practices",
+    aliases: [
+      "px connect portal",
+      "patient portal pxconnect",
+      "pxconnect portal workflow"
+    ],
+    content: pxconnectPortalBestPractices
+  },
+  {
+    name: "pxconnect remote signature feature",
+    aliases: [
+      "remote signature",
+      "send signature request",
+      "pxconnect signature",
+      "patient signature request"
+    ],
+    content: pxconnectRemoteSignature
   },
 
   { name: "dress code", aliases: ["what can we wear", "uniform policy"], content: dressCodePolicy },
