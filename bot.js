@@ -1,5 +1,5 @@
 import { ActivityHandler } from "botbuilder";
-import { askAI } from "./src/askAI.js";
+import { askAI } from "./src/src/askAI.js";
 
 export class StaffAIBot extends ActivityHandler {
   constructor() {

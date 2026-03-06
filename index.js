@@ -1,7 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
-import { askAI } from "./src/askAI.js";
+import { askAI } from "./src/src/askAI.js";
 import { StaffAIBot } from "./bot.js";
 import {
   CloudAdapter,
