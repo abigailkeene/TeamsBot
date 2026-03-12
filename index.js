@@ -87,5 +87,5 @@ app.post("/api/messages", async (req, res) => {
 
 const port = process.env.PORT || 5050;
 app.listen(port, () => {
-  console.log(`🚀 Staff AI API running on port ${port}`);
+  console.log(`🚀 Teams bot running on port ${port}`);
 });
