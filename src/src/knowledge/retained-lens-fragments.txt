@@ -1,0 +1,93 @@
+TITLE: Retained Lens Fragments
+
+OVERVIEW
+Retained lens fragments are a complication that can occur after cataract surgery when pieces of the cataract lens remain inside the eye. Cataracts occur when the natural lens of the eye becomes cloudy with age, and surgery is commonly performed to remove the lens and restore vision. In most cases cataract surgery is successful, but occasionally fragments of the lens fall into the back of the eye and cannot be safely removed during the initial procedure. :contentReference[oaicite:0]{index=0}
+
+When lens fragments remain in the eye, they can trigger inflammation and other complications that may affect vision.
+
+SYMPTOMS
+Patients with retained lens fragments may experience:
+
+- Very blurry vision
+- Eye pain due to increased eye pressure
+- Redness of the eye
+- Sensitivity to light
+- Floaters or visible debris in the field of vision
+
+These symptoms occur because retained lens material can cause inflammation, increased intraocular pressure, and swelling in structures of the eye such as the retina and cornea. :contentReference[oaicite:1]{index=1}
+
+CAUSES
+Retained lens fragments typically occur during cataract surgery when:
+
+- The cataract is very dense or firm
+- The structures that hold the lens in place are weakened
+- Trauma or other eye conditions make removal more difficult
+
+In such cases, pieces of the cataract lens may fall into the vitreous cavity (the back portion of the eye) where they cannot be safely retrieved by the cataract surgeon during the initial operation.
+
+COMPLICATIONS
+Retained lens fragments can cause several complications if not properly managed, including:
+
+- Severe inflammation inside the eye
+- Elevated intraocular pressure (glaucoma)
+- Swelling in the retina or cornea
+- Permanent vision loss in severe cases
+
+Prompt evaluation and management are important to prevent long-term damage.
+
+DIAGNOSIS
+Diagnosis is typically made during a detailed eye examination after cataract surgery. A retina specialist may identify retained lens material within the vitreous cavity.
+
+Additional imaging tests may be used to evaluate complications involving the retina.
+
+TREATMENT
+Treatment depends on the size of the retained lens fragment and the severity of symptoms.
+
+Medical management may include:
+
+- Anti-inflammatory eye drops
+- Medications to reduce intraocular pressure
+
+Small fragments may dissolve on their own with medical treatment.
+
+If significant lens material remains or pressure inside the eye remains high, surgical removal may be required.
+
+SURGICAL TREATMENT
+A retina specialist may perform a procedure called **pars plana vitrectomy** to remove the retained lens fragments.
+
+During this procedure:
+
+- The vitreous gel is removed
+- The lens fragments are safely extracted
+- The eye is filled with saline solution or a gas bubble
+
+Vitrectomy is typically performed within 1–2 weeks if medical therapy does not adequately resolve the problem.
+
+PROGNOSIS
+Vitrectomy surgery is generally very successful, and most patients recover good vision following removal of retained lens fragments.
+
+Vision may initially appear cloudy after surgery while the eye heals, but it usually improves gradually.
+
+Potential complications are uncommon but may include:
+
+- Retinal tears or retinal detachment (about 1 in 100 patients)
+- Infection or bleeding (approximately 1 in 2000 patients)
+
+Careful postoperative monitoring helps detect and manage these complications early.
+
+CLINICAL TERMS
+
+Cataract  
+A clouding of the eye’s natural lens that can cause blurred vision and is commonly treated with surgery.
+
+Floaters  
+Mobile shadows or spots in vision caused by debris or structures within the vitreous gel.
+
+Retinal Detachment  
+A condition where the retina separates from the back of the eye, which can lead to vision loss if untreated.
+
+Vitrectomy  
+A surgical procedure in which the vitreous gel is removed from the eye to allow treatment of retinal conditions.
+
+Vitreous  
+The clear gel that fills the inside of the eye.

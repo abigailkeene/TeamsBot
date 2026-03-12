@@ -1,0 +1,168 @@
+TITLE: Age-Related Macular Degeneration — Dry Forms Including Geographic Atrophy
+
+OVERVIEW
+Age-related macular degeneration (AMD) is a deterioration of the retina and the choroid that can lead to significant loss of visual acuity (sharpness of vision). The retina is a thin layer of light-sensitive nerve tissue lining the back of the eye. The choroid is the layer of blood vessels between the retina and the white of the eye (sclera).
+
+AMD is the leading cause of significant vision loss in people over age 50 in developed countries. However, many people with AMD maintain reading vision throughout their lives.
+
+CAUSES
+The exact cause of AMD is unknown, but it develops as the eye ages.
+
+There are two main types of AMD:
+- Dry AMD (non-neovascular), which affects about 85% of patients
+- Wet AMD (neovascular), which affects about 15% of patients
+
+Dry AMD progresses through several stages:
+- Early AMD
+- Intermediate AMD
+- Late AMD (Geographic Atrophy)
+
+EARLY DRY AMD
+Early dry AMD is characterized by the presence of small drusen. Drusen are pale-yellow deposits that form beneath the retina.
+
+Key points:
+- Drusen are usually harmless initially
+- As drusen accumulate, AMD may progress
+- Pigment changes may occur in the retina
+
+INTERMEDIATE DRY AMD
+Intermediate dry AMD is characterized by larger drusen and increased retinal changes.
+
+Patients may begin to notice:
+- Difficulty reading in dim lighting
+- Trouble adjusting from bright light to dark environments
+- Reduced brightness or intensity of colors
+- Mild distortion of straight lines
+
+LATE DRY AMD (GEOGRAPHIC ATROPHY)
+Late-stage dry AMD is called geographic atrophy (GA).
+
+In this stage:
+- Areas of retinal tissue become thin or wasted (atrophy)
+- The atrophic areas have sharply defined borders
+- These areas may eventually involve the fovea, the center of the retina responsible for central vision
+
+When geographic atrophy reaches the fovea, significant central vision loss can occur.
+
+RETICULAR DRUSEN
+Dry AMD, especially geographic atrophy, may also be associated with reticular drusen.
+
+These appear as whitish-yellow dots arranged in a net-like pattern and are also called:
+- Reticular pseudodrusen (RPD)
+- Subretinal drusenoid deposits
+
+These deposits are linked with increased risk of disease progression.
+
+SYMPTOMS
+Early dry AMD may produce no noticeable symptoms.
+
+As the disease progresses, symptoms may include:
+- Difficulty reading in dim lighting
+- Difficulty adapting from bright light to darkness
+- Reduced brightness of colors
+- Distortion or warping of straight lines
+- Gradual loss of central vision
+- Dark or blurry areas in the center of vision
+- Difficulty reading or driving at night
+
+Patients with reticular pseudodrusen may also experience:
+- Poor vision in dim environments
+- Longer time adjusting to low-light conditions
+
+RISK FACTORS
+Major risk factors:
+- Increasing age (strongest risk factor)
+- Family history of AMD
+- Caucasian race
+- Cigarette smoking
+
+Possible additional risk factors:
+- Female gender
+- High cholesterol
+- Lower education level
+- Sunlight exposure
+- Light-colored eyes
+- Low dietary fish intake
+- Farsightedness
+- Higher body mass index (BMI)
+- Cardiovascular disease
+- High blood pressure
+- Diet low in lutein, zeaxanthin, or antioxidants
+
+DIAGNOSTIC TESTING
+Dry AMD is diagnosed through clinical eye examination and imaging studies.
+
+Common diagnostic tools include:
+- Slit lamp examination
+- Optical coherence tomography (OCT)
+- Fundus autofluorescence (FAF)
+
+Additional imaging may be used to rule out progression to wet AMD:
+- Optical coherence tomography angiography (OCT-A)
+- Fluorescein angiography (FA)
+- Indocyanine green angiography (ICGA)
+
+Visual function may also be assessed using:
+- Standard eye chart reading tests
+- Microperimetry to evaluate sensitivity of the macula
+
+TREATMENT AND PROGNOSIS
+
+Geographic Atrophy Treatments
+Two FDA-approved medications can slow progression of geographic atrophy:
+- Syfovre (pegcetacoplan)
+- Izervay (avacincaptad pegol)
+
+These medications are injected into the vitreous cavity of the eye every one to two months.
+
+AREDS2 Nutritional Supplements
+The Age-Related Eye Disease Studies (AREDS) found that specific nutritional supplements may slow the progression of intermediate AMD and reduce the risk of conversion to wet AMD.
+
+The AREDS2 formula contains:
+- Vitamin C
+- Vitamin E
+- Zinc
+- Copper
+- Lutein
+- Zeaxanthin
+
+These supplements are widely available over the counter.
+
+Lifestyle Factors
+A Mediterranean-style diet may help reduce the risk of disease progression. This diet typically includes:
+- Higher consumption of fruits and vegetables
+- Lower red meat intake
+- Moderate alcohol consumption
+- Higher ratio of healthy fats to saturated fats
+
+LOW-VISION SUPPORT
+Patients with geographic atrophy may benefit from low-vision rehabilitation and assistive devices that improve reading ability, mobility, and facial recognition.
+
+SURGICAL OPTION
+The Implantable Miniature Telescope is a surgical option available for some patients with geographic atrophy. The device enlarges objects in the center of the visual field so they can be seen by healthy retinal areas surrounding the damaged region.
+
+PROGNOSIS
+Although AMD can cause progressive loss of central vision, complete blindness is very rare because peripheral vision usually remains intact.
+
+CLINICAL TERMS
+
+Fundus Autofluorescence (FAF)
+An imaging technique that uses natural fluorescence in the retina to assess retinal health.
+
+Fluorescein Angiography (FA)
+An imaging test where fluorescent dye is injected into a vein to photograph blood flow in the retina and choroid.
+
+Indocyanine Green Angiography (ICGA)
+An imaging method that uses green dye to visualize blood circulation in the choroid layer.
+
+Microperimetry
+A test that measures sensitivity to light in different areas of the macula.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that creates cross-sectional images of the retina.
+
+Optical Coherence Tomography Angiography (OCTA)
+A non-invasive imaging method used to visualize retinal and choroidal blood vessels.
+
+Slit Lamp
+A microscope with a high-intensity light used by eye doctors to examine structures of the eye, including the retina and optic nerve.

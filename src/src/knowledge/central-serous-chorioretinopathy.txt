@@ -1,0 +1,119 @@
+TITLE: Central Serous Chorioretinopathy (CSC)
+
+OVERVIEW
+Central serous chorioretinopathy (CSC) is a retinal condition in which fluid accumulates underneath the retina, causing a serous (fluid-filled) detachment and vision problems.
+
+CSC most commonly affects young and middle-aged adults. The condition occurs more frequently in men than in women. In many cases, vision loss is temporary, although the disease can sometimes become chronic or recur.
+
+CAUSES
+The exact cause of CSC is not fully understood.
+
+However, exposure to corticosteroid medications has been strongly associated with CSC. Corticosteroids are found in many forms, including:
+- Allergy nasal sprays
+- Anti-inflammatory skin creams
+- Prescription medications used to treat inflammatory diseases
+
+These medications can trigger or worsen CSC in susceptible individuals.
+
+Another association has been observed between CSC and individuals experiencing emotional stress or those with “Type A” personality traits. Stress may increase natural corticosteroid levels in the body, which may contribute to the development of CSC.
+
+Certain medications may also trigger CSC, including:
+- Stimulants
+- Decongestants
+- Erectile dysfunction medications
+- Some anti-cancer drugs
+
+Patients should inform their physician about all medications they are taking.
+
+RISK FACTORS
+Several factors may increase the risk of developing CSC:
+
+- Family history of the condition
+- High blood pressure
+- Heart disease
+- Pregnancy
+- Chronic stress
+- Corticosteroid exposure
+
+Approximately half of patients diagnosed with CSC have at least one relative with retinal findings of the disease, suggesting a possible genetic predisposition.
+
+SYMPTOMS
+The most common symptom of CSC is blurred central vision.
+
+Symptoms may include:
+- Blurry or distorted central vision
+- Objects appearing smaller or farther away than they are
+- Reduced color perception
+- Dark or gray spots in central vision
+
+CSC often affects one eye, although examination frequently reveals involvement in both eyes.
+
+In some cases, especially when fluid accumulates outside the macula, patients may experience no noticeable symptoms.
+
+DIAGNOSTIC TESTING
+
+Dilated Eye Examination
+A retina specialist performs a comprehensive dilated eye exam to evaluate the retina and identify signs of fluid accumulation.
+
+Retinal Imaging
+Retinal photographs may be taken to document the condition.
+
+Optical Coherence Tomography (OCT)
+OCT is an imaging scan that allows physicians to examine the retina at a microscopic level. OCT can detect small pockets of fluid under the retina and monitor disease progression or resolution.
+
+Fluorescein Angiography (FA)
+In this test, a fluorescent dye is injected into a vein in the arm. Sequential photographs are taken as the dye circulates through the retinal blood vessels.
+
+This imaging helps identify leakage beneath the retina and distinguishes CSC from other retinal diseases that cause macular fluid.
+
+TREATMENT AND PROGNOSIS
+
+Observation
+CSC is often a self-limiting condition. Vision typically recovers within several weeks to months without treatment.
+
+Patients who are taking corticosteroids should discontinue them if possible, but only after consulting with the prescribing physician. Stopping steroid medications abruptly without medical supervision may cause serious health problems.
+
+Treatment Options for Chronic CSC
+When CSC persists or recurs, additional treatments may be used:
+
+Thermal Laser Treatment
+Laser therapy can seal the area of fluid leakage beneath the retina.
+
+Photodynamic Therapy (PDT)
+Photodynamic therapy uses a medication called verteporfin injected into a vein in the arm.
+
+The drug travels to the eye and is activated using a specialized “cold laser” directed at the leaking blood vessels.
+
+This treatment can:
+- Seal the source of leakage
+- Reduce fluid accumulation
+- Prevent recurrence in some patients
+
+Other treatments may include oral medications or intravitreal injections depending on disease severity.
+
+PROGNOSIS
+CSC generally has a good prognosis.
+
+Most patients recover vision within a few weeks or months. Early detection and appropriate monitoring help prevent long-term vision problems.
+
+Many eyes affected by CSC can be successfully managed to avoid permanent vision loss.
+
+CLINICAL TERMS
+
+Choroid
+The layer of blood vessels located between the retina and the white outer layer of the eye (sclera).
+
+Macula
+The central area of the retina responsible for detailed vision used for reading and recognizing faces.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that produces cross-sectional images of the retina to detect fluid accumulation or retinal damage.
+
+Fluorescein Angiography (FA)
+An imaging test that uses injected fluorescent dye to visualize blood flow and detect leakage in retinal vessels.
+
+Photodynamic Therapy (PDT)
+A treatment using a light-activated drug and laser to seal leaking blood vessels under the retina.
+
+Serous Retinal Detachment
+A condition in which fluid accumulates beneath the retina, causing it to lift away from the underlying tissue.

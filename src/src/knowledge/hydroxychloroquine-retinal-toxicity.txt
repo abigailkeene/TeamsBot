@@ -1,0 +1,80 @@
+TITLE: Hydroxychloroquine-Induced Retinal Toxicity
+
+OVERVIEW
+Hydroxychloroquine (HCQ), commonly sold under the brand name Plaquenil, is a medication used to treat autoimmune conditions such as rheumatoid arthritis and lupus. Although it is an effective treatment, long-term use of hydroxychloroquine can cause damage to the retina and lead to vision loss.
+
+Studies show that approximately 7.5% of patients taking hydroxychloroquine develop retinal toxicity, and the risk may increase to around 20% after 20 years of use. :contentReference[oaicite:0]{index=0}
+
+RISK FACTORS
+Several factors increase the risk of developing hydroxychloroquine-related retinal damage:
+
+- Daily dosage exceeding 6.5 mg per kilogram of body weight
+- Long-term use (more than 5 years)
+- Obesity
+- Kidney or liver disease
+- Age over 60
+- Existing retinal disease
+
+Higher cumulative exposure to the medication increases the likelihood of retinal toxicity.
+
+SYMPTOMS
+Hydroxychloroquine toxicity typically does not cause symptoms in the early stages. Patients often remain unaware of the damage until it affects the central macula, which is responsible for detailed vision used for tasks like reading and driving.
+
+When symptoms develop, they may include:
+
+- Progressive blurring of central vision
+- Difficulty reading
+- Reduced visual clarity
+
+The vision loss is typically painless and gradually worsens over time.
+
+SCREENING AND EARLY DETECTION
+Because symptoms often appear only after significant retinal damage has occurred, regular eye screening is essential for patients taking hydroxychloroquine.
+
+Recommended screening includes:
+
+- A baseline eye examination within the first few months of starting hydroxychloroquine
+- Annual eye examinations beginning after five years of use, or earlier if additional risk factors are present
+
+Early detection can identify retinal changes before symptoms develop.
+
+DIAGNOSTIC TESTING
+Several diagnostic tests help detect early retinal toxicity:
+
+Optical Coherence Tomography (OCT)
+OCT produces detailed cross-sectional images of the retina and can detect early structural damage.
+
+Visual Field Testing
+This test evaluates how well different areas of the retina respond to visual stimuli.
+
+Multifocal Electroretinography (mfERG)
+mfERG measures electrical responses of different areas of the retina to assess retinal function.
+
+Fundus Autofluorescence (FAF)
+This noninvasive imaging technique highlights abnormalities in retinal cells and can show characteristic patterns such as “bull’s-eye” maculopathy.
+
+TREATMENT AND MANAGEMENT
+There is currently no treatment to reverse hydroxychloroquine-induced retinal damage.
+
+The best approach is prevention through early detection and medication management. If retinal toxicity is identified, discontinuing hydroxychloroquine is usually recommended.
+
+Maintaining a daily dosage below 5.0 mg/kg of body weight can reduce the risk of toxicity.
+
+PROGNOSIS
+In some cases, mild retinal changes may stabilize or slightly improve after the medication is discontinued. However, retinal damage may continue to progress for up to a year after stopping hydroxychloroquine.
+
+Severe toxicity can lead to permanent central vision loss.
+
+CLINICAL TERMS
+
+Macula
+The central portion of the retina responsible for detailed central vision.
+
+Optical Coherence Tomography (OCT)
+A noninvasive imaging test that creates detailed cross-sectional images of the retina.
+
+Multifocal Electroretinography (mfERG)
+A diagnostic test that measures electrical activity in different regions of the retina.
+
+Fundus Autofluorescence (FAF)
+An imaging technique used to detect changes in retinal pigment cells.

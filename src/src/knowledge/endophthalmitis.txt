@@ -1,0 +1,88 @@
+TITLE: Endophthalmitis
+
+OVERVIEW
+Endophthalmitis is a serious infection inside the eye. It can develop rapidly (acute endophthalmitis), which is most common, or develop slowly and persist for long periods of time (chronic endophthalmitis). Prompt diagnosis and treatment are critical to prevent permanent vision loss. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+Endophthalmitis may occur after surgery, trauma, or as a result of infections spreading from other parts of the body.
+
+Acute Endophthalmitis
+Acute cases usually occur within 6 weeks after eye surgery or trauma. These infections are most commonly caused by gram-positive bacteria, though gram-negative bacteria can also be responsible.
+
+Chronic Endophthalmitis
+Chronic cases develop more slowly and often occur months after eye surgery. These infections are commonly caused by organisms such as Propionibacterium acnes or certain fungi.
+
+Endogenous Endophthalmitis
+In some cases, infections from elsewhere in the body spread through the bloodstream to the eye. These infections are often associated with systemic fungal or gram-negative bacterial infections.
+
+Patients with weakened immune systems, systemic infections, or severe illness are at higher risk for endogenous infections.
+
+RISK FACTORS
+Risk factors for developing endophthalmitis include:
+
+- Eye surgery
+- Eye trauma
+- Loss of vitreous gel (vitreous humor)
+- Disruption of the posterior capsule of the lens
+- Poor wound closure after surgery
+- Prolonged surgical procedures
+
+Traumatic injuries also increase the risk of infection. Endophthalmitis occurs in approximately 4% to 13% of penetrating eye injuries and may reach as high as 30% in rural environments where contamination with soil is more likely. :contentReference[oaicite:1]{index=1}
+
+SIGNS AND SYMPTOMS
+Endophthalmitis typically causes significant inflammation within the eye.
+
+Symptoms may include:
+
+- Eye pain
+- Redness of the eye
+- Decreased vision
+- Sensitivity to light (photophobia)
+- White or yellow discharge
+- Cloudiness of the cornea
+
+A key clinical finding is **hypopyon**, which is an accumulation of white blood cells in the anterior chamber of the eye between the cornea and iris.
+
+This condition is considered an emergency and requires immediate evaluation by an ophthalmologist.
+
+DIAGNOSTIC TESTING
+To identify the organism causing the infection, doctors obtain a sample of fluid from inside the eye. This sample is sent to a laboratory to determine the type of infection and guide treatment.
+
+TREATMENT
+Treatment depends on the severity of the infection and the patient’s vision at presentation.
+
+Intravitreal Injections
+Antibiotics or antifungal medications are injected directly into the eye to treat the infection.
+
+Vitrectomy Surgery
+If vision is severely reduced or infection is severe, emergency surgery may be required to remove infected vitreous gel and debris from the eye. Antibiotics or antifungal medications are then injected directly into the eye.
+
+Mild Cases
+In some cases with relatively preserved vision, treatment may involve only intravitreal injections without surgery.
+
+Rarely, antibiotic eye drops alone may be sufficient.
+
+PROGNOSIS
+Visual outcomes depend on several factors, including:
+
+- The type of organism causing the infection
+- How quickly treatment begins
+- Whether the infection followed surgery, trauma, or systemic infection
+
+Infections caused by gram-positive bacteria after cataract surgery often have better outcomes than infections caused by gram-negative organisms or severe traumatic injuries.
+
+Frequent follow-up examinations are necessary to monitor treatment response and preserve vision.
+
+CLINICAL TERMS
+
+Hypopyon
+A collection of white blood cells in the anterior chamber of the eye caused by severe inflammation or infection.
+
+Vitreous Humor
+The gel-like substance that fills the interior of the eye.
+
+Posterior Capsule
+A thin membrane forming the back surface of the eye’s lens.
+
+Vitrectomy
+A surgical procedure that removes the vitreous gel from the eye to allow treatment of retinal disease or infection.

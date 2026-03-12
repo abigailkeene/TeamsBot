@@ -1,0 +1,82 @@
+TITLE: Idiopathic Juxtafoveal Telangiectasis (JFT) / Macular Telangiectasia
+
+OVERVIEW
+Idiopathic Juxtafoveal Telangiectasis (JFT), also known as perifoveal telangiectasis or macular telangiectasia (MacTel), is a condition in which abnormalities develop in small blood vessels near the center of the retina.
+
+The central portion of the retina affected is called the fovea, which is responsible for sharp vision needed for reading and recognizing faces. Abnormal blood vessels in this region can leak fluid or blood, causing damage to retinal tissue and vision changes. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+JFT is considered idiopathic, meaning the exact cause is unknown.
+
+The condition occurs when tiny abnormal blood vessels called telangiectasias form near the fovea. These vessels may branch abnormally and leak fluid or blood into the retina, damaging the light-sensitive photoreceptor cells responsible for vision.
+
+Several classifications of JFT exist, but the most widely used divides the condition into three types:
+
+Type 1
+Rare and usually affects one eye.
+
+Type 2
+The most common form of JFT. Typically affects both eyes and progresses slowly over time.
+
+Type 3
+Very rare and associated with severe capillary loss.
+
+RISK FACTORS
+Although the exact cause is unknown, several factors are associated with JFT:
+
+- Occurs in both men and women at similar rates
+- Often affects both eyes
+- More common after age 40
+- More frequently seen in individuals with type 2 diabetes or pre-diabetes :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Patients with JFT may experience:
+
+- Blurred central vision
+- Metamorphopsia (visual distortion where straight lines appear wavy)
+- Difficulty reading
+- Visual field defects
+- Blank or missing areas in central vision
+
+In some cases, the condition may be detected during an eye examination before noticeable symptoms develop.
+
+DIAGNOSTIC TESTING
+
+Dilated Eye Examination
+A retina specialist may detect abnormal blood vessels, small retinal hemorrhages, or macular scarring.
+
+Optical Coherence Tomography (OCT)
+OCT scans provide cross-sectional images of the retina and may show fluid accumulation or structural changes.
+
+Fluorescein Angiography
+This imaging test uses a dye injected into a vein to highlight abnormal or leaking retinal blood vessels.
+
+TREATMENT
+JFT can lead to vision loss when abnormal blood vessels leak fluid or blood into the retina.
+
+Treatment options may include:
+
+- Anti-VEGF injections to reduce abnormal blood vessel growth and leakage
+- Laser treatment to seal leaking vessels
+- Implantable therapies that release protective growth factors for retinal cells
+
+One recently approved treatment involves an implant that releases ciliary neurotrophic factor to help slow loss of photoreceptor cells.
+
+PROGNOSIS
+JFT typically progresses slowly over time. Although some vision loss may occur, most patients maintain functional vision in at least one eye.
+
+Regular monitoring by a retina specialist is important to track disease progression and determine when treatment is needed.
+
+CLINICAL TERMS
+
+Telangiectasia
+Abnormally widened or malformed blood vessels.
+
+Anti-VEGF Medications
+Drugs that block vascular endothelial growth factor (VEGF), reducing abnormal blood vessel growth and leakage.
+
+Fluorescein Angiography
+An imaging test that uses injected dye to visualize retinal blood vessels.
+
+Optical Coherence Tomography (OCT)
+A noninvasive imaging technique that produces detailed cross-sectional images of the retina.

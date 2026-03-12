@@ -1,0 +1,81 @@
+TITLE: Sickle Cell Retinopathy
+
+OVERVIEW
+Sickle cell retinopathy is an eye condition that occurs in some patients with sickle cell disease. In this condition, blockage of blood vessels in the retina and choroid leads to reduced oxygen supply (ischemia), abnormal blood vessel growth, and thinning of the retina. These changes can damage vision and lead to complications such as bleeding in the eye or retinal detachment. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+Sickle cell disease is the most common inherited blood disorder. It occurs due to mutations in the beta-globin gene that affect hemoglobin in red blood cells. These mutations cause red blood cells to become rigid and sickle-shaped, making them fragile and more likely to block blood vessels.
+
+When these abnormal cells block retinal blood vessels, oxygen delivery to the retina decreases. This leads to ischemia and triggers the formation of abnormal new blood vessels in the retina.
+
+The most common genetic forms include:
+
+- HbSS (sickle cell anemia) – the most severe systemic form
+- HbSC – a milder systemic disease but more likely to affect the retina
+- HbAS (sickle cell trait) – usually does not cause eye disease but may occasionally lead to vision problems
+
+SYMPTOMS
+Many patients with sickle cell retinopathy have no symptoms early in the disease. When symptoms occur, they may include:
+
+- Blind spots
+- Sudden floaters
+- Blurred vision
+- Flashes of light
+- Loss of peripheral vision
+- A curtain-like shadow over vision
+
+RETINAL FINDINGS
+Several retinal complications may occur:
+
+Proliferative Sickle Retinopathy  
+When retinal tissues lack oxygen, they release signals that stimulate abnormal blood vessel growth. These fragile vessels may form “sea fan” shaped networks and can bleed into the eye.
+
+Sickle Cell Maculopathy  
+Reduced blood flow to the macula (central retina) can cause thinning of retinal tissue and blind spots.
+
+Vitreous Hemorrhage  
+Bleeding may occur when fragile abnormal vessels break, causing floaters or sudden vision loss.
+
+Retinal Detachment  
+Scar tissue and abnormal vessels may pull on the retina, leading to retinal detachment and significant vision loss.
+
+SCREENING AND DIAGNOSIS
+Patients with sickle cell disease should receive yearly retinal exams starting around age 10.
+
+Common diagnostic tests include:
+
+Fluorescein Angiography  
+A dye is injected into the bloodstream to highlight retinal blood vessels and identify areas of poor circulation or abnormal vessel growth.
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging test that produces cross-sectional images of the retina to detect thinning or structural changes.
+
+Optical Coherence Tomography Angiography (OCTA)  
+An advanced imaging technique that visualizes retinal and choroidal blood vessels without dye injection.
+
+TREATMENT
+Treatment depends on the severity of retinal disease.
+
+Observation  
+Small areas of abnormal blood vessel growth may resolve on their own.
+
+Laser Treatment  
+Laser therapy can be used to treat areas of retinal ischemia and reduce abnormal vessel growth.
+
+Anti-VEGF Injections  
+Medications that inhibit abnormal blood vessel growth may be injected into the eye.
+
+Surgery  
+Surgery may be necessary if complications such as vitreous hemorrhage or retinal detachment occur.
+
+SYSTEMIC TREATMENT
+Treatments for sickle cell disease itself may also help prevent eye complications, including:
+
+- Stem cell transplant from matched donors
+- Red blood cell exchange transfusions
+- Hydroxyurea therapy to reduce sickling
+- Voxelotor to inhibit red blood cell sickling
+- Crizanlizumab to reduce blood vessel blockage
+
+PROGNOSIS
+Regular screening and early treatment are important for preventing severe vision loss. With proper monitoring and management, many complications of sickle cell retinopathy can be treated effectively before permanent vision damage occurs.

@@ -1,0 +1,116 @@
+TITLE: Intraocular (Uveal) Melanoma
+
+OVERVIEW
+Intraocular melanoma, also called uveal melanoma, is the most common primary eye cancer in adults. The tumor develops in the uveal tract, which is the middle layer of the eye wall that contains blood vessels and pigment.
+
+The uveal tract includes three main structures:
+- The choroid
+- The ciliary body
+- The iris
+
+Most ocular melanomas develop in the **choroid**, followed by the **ciliary body**, and less commonly in the **iris**. :contentReference[oaicite:0]{index=0}
+
+In the United States, choroidal melanoma affects approximately **2,500 people per year**, with an incidence of about **6 cases per million people**. The condition is more common in individuals with fair skin and typically affects people in their **60s**.
+
+Unlike skin melanoma, ocular melanoma is generally **not strongly associated with sun exposure**. :contentReference[oaicite:1]{index=1}
+
+CAUSES AND RISK FACTORS
+The exact cause of intraocular melanoma is not fully understood. However, several factors may increase risk:
+
+- Fair skin or light eye color
+- Increasing age
+- Smoking
+- Rare genetic conditions
+
+Although genetics may play a role, ocular melanoma typically **does not run in families**, and relatives of affected patients rarely develop the disease.
+
+SYMPTOMS
+Most patients with ocular melanoma **do not experience symptoms** in early stages.
+
+When symptoms occur, they may include:
+
+- Floaters
+- Flashes of light
+- Vision loss or blurred vision
+- Changes in visual field
+
+Pain and redness are uncommon.
+
+Because symptoms are often absent, ocular melanoma is frequently discovered during a **routine eye examination** by an eye care specialist.
+
+DIAGNOSTIC TESTING
+Diagnosis typically involves specialized ophthalmic imaging and examination.
+
+Common diagnostic tests include:
+
+- Dilated eye examination
+- Indirect ophthalmoscopy
+- Fundus photography
+- Ocular ultrasound
+- Fluorescein angiography
+- Indocyanine green angiography
+- Optical coherence tomography angiography (OCT-A)
+
+These tests help evaluate tumor size, location, and characteristics.
+
+Tumor staging is performed to determine the size and severity of the tumor. Historically this was done using the **Collaborative Ocular Melanoma Study (COMS)** criteria, while modern staging often uses the **American Joint Committee on Cancer (AJCC)** staging system.
+
+Tumor genetics may also be analyzed through biopsy to estimate the risk that the tumor will spread (metastasize). :contentReference[oaicite:2]{index=2}
+
+TUMOR SIZING
+Tumors are commonly classified into five categories:
+
+- Small
+- Medium
+- Large
+- Extra-large
+- Atypical nevi (borderline small tumors)
+
+Choroidal nevi—often called **“eye freckles”**—are benign and occur in about **20% of the population**, but in rare cases they may develop into melanoma.
+
+TREATMENT OPTIONS
+Treatment depends on tumor size, location, and patient health.
+
+Observation
+Small or borderline tumors may be monitored regularly with imaging and clinical examinations.
+
+Laser Tumor Ablation
+Laser therapy may be used to destroy small tumors.
+
+Vitrectomy Surgery
+Micro-incision vitrectomy surgery (MIVS) may be used to remove vitreous gel, obtain biopsy samples, and assist with tumor treatment.
+
+Radiotherapy
+Two main forms of radiation therapy are used:
+
+- **Brachytherapy** – A small radiation plaque is surgically attached to the eye near the tumor for several days.
+- **Charged-particle radiotherapy** – A focused beam of radiation particles is directed precisely at the tumor.
+
+Brachytherapy is the **most common treatment** and has tumor control rates approaching **100% in many studies**.
+
+Enucleation
+For very large tumors or those that fail other treatments, removal of the entire eye (enucleation) may be necessary.
+
+PROGNOSIS
+Most ocular melanomas can be successfully treated when detected early. Treatment decisions are guided by tumor size, location, and genetic risk factors.
+
+Genetic testing of tumor cells can help predict the likelihood that the cancer will spread to other parts of the body.
+
+Although ocular melanoma is the most common primary eye cancer in adults, it remains a **rare disease overall**.
+
+CLINICAL TERMS
+
+Uveal Tract
+The middle layer of the eye containing the iris, ciliary body, and choroid.
+
+Choroid
+A vascular layer of the eye that provides blood supply to the retina.
+
+Enucleation
+Surgical removal of the eye.
+
+Fundus Photography
+Imaging technique used to capture detailed photographs of the retina and structures at the back of the eye.
+
+Fluorescein Angiography
+A diagnostic imaging test using injected dye to visualize retinal blood flow.

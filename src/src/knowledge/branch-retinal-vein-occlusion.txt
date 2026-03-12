@@ -1,0 +1,181 @@
+TITLE: Branch Retinal Vein Occlusion (BRVO)
+
+OVERVIEW
+Branch retinal vein occlusion (BRVO) occurs when a vein in the retina becomes blocked, preventing normal blood flow from carrying oxygen and nutrients to retinal nerve cells.
+
+Retinal vein occlusions occur when blood cannot properly drain from the retina.
+
+Types of retinal vein occlusion:
+- Central retinal vein occlusion (CRVO): blockage in the retina’s main vein
+- Branch retinal vein occlusion (BRVO): blockage in a smaller branch vein
+
+BRVO typically affects only a section of the retina.
+
+CAUSES
+Most BRVO cases occur at an arteriovenous crossing, which is where a retinal artery and vein intersect.
+
+These vessels share a common connective tissue sheath. When the artery becomes stiff due to atherosclerosis (hardening of the arteries), it can compress the vein.
+
+This compression causes:
+- Turbulent blood flow
+- Increased clot formation
+- Vein blockage (occlusion)
+
+The blockage prevents normal blood drainage and can lead to:
+
+Macular Edema
+Swelling in the central retina (macula) caused by fluid leakage.
+
+Ischemia
+Reduced blood flow to retinal tissue.
+
+RISK FACTORS
+Common risk factors for BRVO include:
+
+- Uncontrolled high blood pressure
+- Being overweight or obese
+- Cardiovascular disease
+- Glaucoma
+
+In younger patients, an increased tendency for blood clotting may also contribute.
+
+SYMPTOMS
+BRVO usually causes sudden, painless vision loss.
+
+If the affected area does not involve the macula (center of vision), the condition may go unnoticed.
+
+Possible symptoms include:
+
+- Sudden blurred or decreased vision
+- Visual floaters
+- Vision changes in one eye
+
+Floaters may occur if abnormal blood vessels bleed into the vitreous gel inside the eye.
+
+DIAGNOSTIC TESTING
+BRVO is usually diagnosed during an eye examination.
+
+Signs seen during exam may include:
+- Retinal hemorrhage (bleeding in the retina)
+- Thickened or twisted retinal blood vessels
+- Retinal edema (swelling)
+
+Two important imaging tests help confirm diagnosis:
+
+Fluorescein Angiography (FA)
+This test uses fluorescent dye to visualize retinal blood flow and identify leaking or blocked vessels.
+
+Optical Coherence Tomography (OCT)
+OCT produces detailed images of the retina and helps detect macular edema and fluid accumulation.
+
+Fluorescein angiography can demonstrate:
+
+- Venous stasis (slowed blood flow)
+- Edema (fluid swelling)
+- Ischemia (reduced blood supply)
+- Retinal neovascularization (growth of abnormal blood vessels)
+
+TREATMENT AND PROGNOSIS
+
+Initial Evaluation
+Treatment begins by identifying and managing underlying medical conditions such as high blood pressure or cholesterol problems.
+
+Medical evaluation may include:
+- Blood pressure monitoring
+- Cholesterol and lipid testing
+- Blood tests to evaluate clotting disorders
+
+Eye Treatments
+Treatment focuses on complications of BRVO rather than removing the blockage itself.
+
+Macular edema is the most common cause of vision loss in BRVO.
+
+Anti-VEGF Injections
+Macular edema is commonly treated with intraocular injections of anti-VEGF medications.
+
+These medications reduce leakage from blood vessels and limit abnormal blood vessel growth.
+
+Common anti-VEGF medications include:
+
+- Avastin (bevacizumab)
+- Lucentis (ranibizumab)
+- Eylea (aflibercept)
+
+Many patients experience significant vision improvement with treatment, although repeated injections may be required.
+
+Laser Treatment
+Laser therapy may be used in difficult cases.
+
+Laser treatment for macular edema applies small laser pulses to the macula in a grid pattern.
+
+Studies show that approximately two-thirds of patients experience vision improvement after several years.
+
+Steroid Treatment
+Steroid injections or implants may be used when anti-VEGF medications are not effective.
+
+A slow-release steroid implant (dexamethasone or Ozurdex) has shown significant visual improvement in about 30% of patients.
+
+Possible side effects of steroid treatment include:
+- Increased eye pressure
+- Cataract progression
+
+COMPLICATIONS
+A major complication of BRVO is retinal neovascularization.
+
+This occurs when poor blood supply causes abnormal blood vessels to grow on the retina.
+
+These abnormal vessels may cause:
+
+- Vitreous hemorrhage
+- Retinal detachment
+- Glaucoma
+- Vision loss
+
+When neovascularization develops, scatter laser photocoagulation treatment may be used.
+
+This laser treatment reduces the oxygen demand of the retina and helps stop abnormal blood vessel growth.
+
+PROGNOSIS
+BRVO generally has a favorable prognosis.
+
+Some patients do not require treatment if the macula is not affected or if vision remains stable.
+
+More than 60% of patients maintain vision better than 20/40 after one year.
+
+CLINICAL TERMS
+
+Anti-VEGF Drugs
+Medications that block vascular endothelial growth factor (VEGF), reducing abnormal blood vessel growth and swelling in the retina.
+
+Fluorescein Angiography (FA)
+An imaging technique where fluorescent dye is injected into a vein to photograph circulation in the retina and choroid.
+
+Floaters
+Small moving spots or shadows seen in vision caused by debris or bleeding inside the eye.
+
+Glaucoma
+A condition where increased pressure in the eye damages the optic nerve.
+
+Ischemia
+Insufficient blood supply to tissue.
+
+Macula
+The central part of the retina responsible for detailed vision used for reading and recognizing faces.
+
+Macular Edema
+Swelling of the macula due to fluid accumulation.
+
+Neovascularization
+Abnormal growth of new blood vessels caused by poor oxygen supply.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that creates cross-sectional images of the retina.
+
+Retinal Detachment
+A condition where the retina separates from the back of the eye.
+
+Retinal Vein Occlusion
+A blockage in retinal veins that prevents normal blood drainage from the retina.
+
+Vitreous Hemorrhage
+Bleeding into the vitreous gel that fills the eye.

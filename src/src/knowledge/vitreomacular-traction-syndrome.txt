@@ -1,0 +1,62 @@
+TITLE: Vitreomacular Traction Syndrome
+
+OVERVIEW
+Vitreomacular traction (VMT) syndrome occurs when the vitreous gel inside the eye pulls abnormally on the macula, the central portion of the retina responsible for detailed vision. Normally, the vitreous gradually separates from the retina with age in a process called posterior vitreous detachment (PVD). However, if the vitreous only partially separates and remains attached to the macula, tractional forces can distort or damage the retinal tissue. This condition is known as vitreomacular traction syndrome. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+The vitreous humor is a clear, gel-like substance that fills the space between the lens and retina. With aging, the vitreous begins to liquefy and shrink. As this occurs, the vitreous may detach from the retina.
+
+In some cases, the vitreous does not fully detach and remains partially attached to the macula. Continued pulling forces from the vitreous can stretch or distort the macula, leading to vitreomacular traction.
+
+This traction may result in several retinal disorders including:
+
+- Macular holes
+- Epiretinal membranes
+- Cystoid macular edema
+- Macular distortion
+
+These changes can reduce visual acuity and cause visual distortion. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Symptoms of vitreomacular traction syndrome may include:
+
+- Decreased sharpness of vision
+- Flashes of light (photopsia)
+- Objects appearing smaller than normal (micropsia)
+- Distorted vision where straight lines appear wavy (metamorphopsia)
+
+Symptoms may develop gradually and can worsen if traction continues to damage the retina.
+
+DIAGNOSIS
+Optical coherence tomography (OCT) is the most common diagnostic test used to identify vitreomacular traction syndrome. OCT provides cross-sectional images of the retina and allows doctors to evaluate the degree of traction affecting the macula.
+
+Dynamic B-scan ultrasound imaging may also be used to evaluate the vitreoretinal interface and identify abnormal vitreous attachment.
+
+RISK FACTORS
+Vitreomacular traction syndrome is more common in:
+
+- Older adults due to age-related vitreous changes
+- Women after menopause
+- Individuals with high myopia (severe nearsightedness)
+- Patients with wet age-related macular degeneration
+- Patients with diabetic macular edema
+- Patients with retinal vein occlusion
+- Patients with diabetic retinopathy
+
+TREATMENT
+There are several treatment approaches depending on symptom severity:
+
+Observation  
+Many cases are monitored with regular OCT imaging because some vitreomacular traction cases resolve spontaneously.
+
+Vitrectomy Surgery  
+Pars plana vitrectomy surgery may be performed to release the traction by removing the vitreous gel from the macula. This treatment is usually reserved for patients with severe visual symptoms or risk of vision loss.
+
+Ocriplasmin Injection  
+Ocriplasmin (Jetrea®) is a medication that can be injected into the eye to chemically dissolve the adhesion between the vitreous and macula.
+
+Pneumatic Vitreolysis  
+In this technique, a small gas bubble is injected into the eye to help separate the vitreous from the macula.
+
+PROGNOSIS
+Many patients maintain good vision even when treatment is required. Early diagnosis and monitoring help prevent progression to complications such as macular holes or permanent vision loss. :contentReference[oaicite:2]{index=2}

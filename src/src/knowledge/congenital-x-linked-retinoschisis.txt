@@ -1,0 +1,92 @@
+TITLE: Congenital X-Linked Retinoschisis (CXLRS)
+
+OVERVIEW
+Congenital X-Linked Retinoschisis (CXLRS) is an inherited retinal disorder characterized by splitting (schisis) of the layers of the retina. This splitting most commonly occurs in the central retina (the fovea), but it may also occur in the peripheral retina.
+
+CXLRS is an early-onset hereditary disease that primarily affects males and is usually detected during infancy or early childhood.
+
+Estimates suggest that between 1 in 5,000 and 1 in 25,000 individuals may be affected, depending on the population studied. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+The condition is caused by mutations in the RS1 gene, which produces the retinoschisin protein. This protein helps retinal cells adhere to each other.
+
+More than 190 mutations in the RS1 gene have been identified. When this protein does not function correctly, the retinal layers lose structural stability, leading to splitting of the retina.
+
+The condition follows an X-linked inheritance pattern:
+
+- Males with the mutation typically develop the disease.
+- Females may carry the gene but usually do not show symptoms.
+
+SYMPTOMS
+Vision loss is the most common symptom of CXLRS.
+
+The condition is often diagnosed in males between infancy and school age.
+
+Symptoms may include:
+
+- Reduced vision
+- Crossed eyes (strabismus)
+- Abnormal eye movements (nystagmus)
+- Lazy eye (amblyopia)
+
+In some cases, vision problems are mild and may not be detected until a child fails a school vision screening.
+
+DIAGNOSTIC TESTING
+
+Eye Examination
+Characteristic splitting of the retina may be visible during retinal examination. The condition often affects both eyes, although not always to the same degree.
+
+Optical Coherence Tomography (OCT)
+OCT imaging can reveal cyst-like spaces within the retinal layers, confirming retinal splitting.
+
+Electroretinogram (ERG)
+An ERG test evaluates electrical activity of the retina. Patients with CXLRS typically show a characteristic reduction in the amplitude of the b-wave on ERG testing.
+
+Genetic Testing
+Genetic testing may confirm mutations in the RS1 gene and help identify female carriers within families.
+
+Family history and examination of male relatives may also help identify additional affected individuals.
+
+COMPLICATIONS
+Although the retinal splitting itself cannot be reversed, complications may occur that require treatment.
+
+These include:
+
+- Vitreous hemorrhage (bleeding into the gel of the eye)
+- Retinal detachment
+
+Vitreous hemorrhage occurs in approximately 4% to 40% of cases, while retinal detachment occurs in approximately 5% to 22% of individuals with CXLRS.
+
+TREATMENT
+There is currently no cure for CXLRS and the retinal splitting cannot be reversed.
+
+Treatment focuses on managing complications.
+
+Possible treatments include:
+
+- Surgery for retinal detachment
+- Surgical removal of blood from the eye if vitreous hemorrhage significantly affects vision
+- Treatment of amblyopia or strabismus by pediatric ophthalmologists
+
+Low-vision aids may help improve functional vision in many patients.
+
+PROGNOSIS
+CXLRS is a lifelong condition.
+
+Vision during adolescence and adulthood is commonly in the range of approximately 20/60 to 20/120.
+
+Once the condition stabilizes, patients are typically monitored every 6 to 12 months with retinal examination and imaging such as OCT and retinal photography.
+
+CLINICAL TERMS
+
+Retinoschisin (RS1)
+A protein responsible for maintaining adhesion between retinal cells.
+
+Electroretinogram (ERG)
+A diagnostic test that measures electrical responses of retinal cells to light stimulation.
+
+Optical Coherence Tomography (OCT)
+A noninvasive imaging method that produces cross-sectional images of the retina.
+
+Retinal Detachment
+A condition in which the retina separates from the back of the eye wall.

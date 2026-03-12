@@ -1,0 +1,81 @@
+TITLE: Retinal Detachment
+
+OVERVIEW
+Retinal detachment occurs when the retina separates from the back wall of the eye. The retina is the thin layer of light-sensitive nerve tissue lining the back of the eye that converts light into electrical signals sent to the brain through the optic nerve, allowing vision. When the retina detaches, it becomes separated from its blood supply and cannot function properly. :contentReference[oaicite:0]{index=0}
+
+Retinal detachment is considered an eye emergency and requires prompt medical evaluation and treatment to prevent permanent vision loss.
+
+CAUSES
+Retinal detachments are generally classified into three main types based on the cause:
+
+Rhegmatogenous Retinal Detachment  
+This is the most common type. It occurs when a tear or hole forms in the retina, allowing fluid from the vitreous cavity to pass through the break and collect underneath the retina. This fluid separates the retina from the underlying tissue.
+
+Retinal tears can occur when:
+- The vitreous gel naturally pulls away from the retina with aging
+- The retina becomes thin in certain areas (such as lattice degeneration)
+- Eye trauma occurs
+
+Tractional Retinal Detachment  
+This occurs when scar tissue forms on the surface of the retina and pulls the retina away from the back wall of the eye. This type may develop in conditions such as diabetic retinopathy.
+
+Exudative Retinal Detachment  
+This occurs when fluid leaks from blood vessels and accumulates underneath the retina without a retinal tear. This type is less common and may occur due to inflammation or abnormal blood vessel leakage. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Common symptoms of retinal detachment include:
+
+- Sudden increase in floaters
+- Flashes of light
+- A dark shadow or curtain appearing in the peripheral vision
+- Progressive loss of peripheral vision
+- Distortion or decreased vision
+
+The severity of symptoms often depends on how much of the retina has detached. In some cases, patients may initially notice little or no visual change. :contentReference[oaicite:2]{index=2}
+
+RISK FACTORS
+Risk factors for retinal detachment include:
+
+- Lattice degeneration (thinning of the peripheral retina)
+- High myopia (severe nearsightedness)
+- Older age
+- Family history of retinal tears or detachment
+- Previous retinal detachment in either eye
+- Prior eye surgery, such as cataract surgery
+- Eye trauma
+
+DIAGNOSIS
+A retina specialist typically performs a detailed eye examination that includes careful inspection of the peripheral retina.
+
+Diagnostic tests may include:
+
+- Dilated retinal examination
+- Optical Coherence Tomography (OCT)
+- Retinal photography
+- Ocular ultrasound when the retina cannot be clearly visualized
+
+These tests help determine the location and extent of the retinal detachment.
+
+TREATMENT
+The goal of treatment is to reattach the retina and seal any tears or holes.
+
+Common treatment methods include:
+
+Scleral Buckle Surgery  
+A silicone band is placed around the outside of the eye to push the wall of the eye closer to the retinal tear and help seal the break.
+
+Vitrectomy  
+Small incisions are made in the eye to remove the vitreous gel and drain fluid from beneath the retina. The surgeon may use laser or freezing treatment to seal the tear and fill the eye with a gas bubble to hold the retina in place.
+
+Pneumatic Retinopexy  
+A gas bubble is injected into the eye in an office setting, and the patient positions their head to allow the bubble to press against the retinal tear. Laser or freezing treatment is used to seal the tear.
+
+Laser Treatment  
+In certain small detachments, laser therapy may be used to create scar tissue that prevents the detachment from spreading. :contentReference[oaicite:3]{index=3}
+
+PROGNOSIS
+Retinal detachment surgery successfully reattaches the retina in about 90% of cases, although some patients may require more than one procedure.
+
+Visual recovery depends on several factors, especially whether the central retina (macula) detached before treatment. If the macula remained attached, vision outcomes are typically better. If the macula detached before surgery, vision may improve but some permanent loss of vision can occur.
+
+Prompt diagnosis and treatment greatly improve the chances of preserving vision.

@@ -1,0 +1,122 @@
+TITLE: Choroidal Nevus
+
+OVERVIEW
+A choroidal nevus (plural: nevi) is a pigmented lesion located in the back of the eye. It is similar to a freckle or mole on the skin and develops from pigment-containing cells in the choroid, the vascular layer beneath the retina and sclera.
+
+Choroidal nevi are relatively common and often discovered during routine eye examinations.
+
+EPIDEMIOLOGY
+The estimated prevalence of choroidal nevi in the United States is approximately 5%, though the rate varies among different populations:
+
+- White individuals: about 5.6%
+- Hispanic individuals: about 2.7%
+- Black individuals: about 0.6%
+- Asian populations: approximately 1.8% to 2.9%
+
+APPEARANCE
+Choroidal nevi typically appear as brown to slate-gray spots with slightly blurred edges that blend into the surrounding retina.
+
+Some nevi may appear:
+- Nonpigmented (amelanotic), appearing yellowish rather than brown
+- Associated with drusen (yellow deposits) on their surface
+- Associated with degenerative changes in the retinal pigment epithelium (RPE)
+
+Most nevi are flat or slightly elevated, usually measuring 2 millimeters or less in thickness.
+
+SYMPTOMS
+Most choroidal nevi do not produce symptoms and are discovered during routine eye examinations.
+
+However, if a nevus is located beneath the macula (the center of the retina responsible for detailed vision), symptoms may occur, including:
+
+- Blurred vision
+- Distorted vision
+
+In some cases, degeneration of the retinal pigment epithelium overlying the nevus can cause:
+
+- Fluid accumulation beneath the retina
+- Development of abnormal blood vessels (choroidal neovascularization)
+- Leakage or bleeding that may lead to vision loss
+
+DIAGNOSTIC TESTING
+
+Eye Examination
+Many nevi are identified based on their appearance during a dilated retinal examination.
+
+Retinal Photography
+Photographs of the lesion are commonly taken to monitor the nevus over time for any signs of growth.
+
+Additional Imaging
+For larger or suspicious lesions, additional diagnostic tests may include:
+
+- Optical coherence tomography (OCT)
+- Ultrasound imaging to measure lesion thickness
+- Fluorescein angiography (FA)
+
+Less commonly used imaging methods may include:
+
+- Indocyanine green angiography
+- Optical coherence tomography angiography (OCTA)
+- Fundus autofluorescence imaging
+
+RISK OF TRANSFORMATION
+Most choroidal nevi remain benign (non-cancerous).
+
+However, in rare cases a nevus may transform into uveal melanoma.
+
+The estimated annual rate of transformation from choroidal nevus to melanoma is approximately 1 in 9,000 cases per year.
+
+Signs that may indicate growth or malignant transformation include:
+
+- Thickness greater than 2 mm
+- Presence of subretinal fluid
+- Visual symptoms such as flashes or floaters
+- Orange pigment on the lesion
+- Location close to the optic disc
+
+TREATMENT AND MONITORING
+
+Observation
+Most nevi require no treatment and are monitored during routine eye exams.
+
+Monitoring frequency depends on risk factors:
+
+- Nevi without risk factors: annual examination
+- Nevi with one or more risk factors: examination every 4 to 6 months
+
+Treatment of Complications
+If abnormal blood vessels develop beneath the retina, treatment may include intravitreal injections of anti-VEGF medications.
+
+If a nevus demonstrates growth or suspicious features suggesting melanoma, referral to an ocular oncologist is recommended.
+
+In cases where transformation into melanoma occurs, treatment typically involves radiation therapy.
+
+PROGNOSIS
+Most choroidal nevi remain stable and benign throughout life.
+
+Regular monitoring ensures early detection if changes suggest malignant transformation.
+
+CLINICAL TERMS
+
+Choroid
+The vascular layer of the eye located between the retina and sclera that supplies oxygen and nutrients to the retina.
+
+Drusen
+Yellow deposits that can form on the surface of a choroidal nevus or beneath the retina.
+
+Retinal Pigment Epithelium (RPE)
+A pigmented cell layer beneath the retina that supports retinal function.
+
+Optical Coherence Tomography (OCT)
+A noninvasive imaging technique that produces detailed cross-sectional images of the retina.
+
+Fluorescein Angiography (FA)
+An imaging test using injected fluorescent dye to visualize retinal blood flow.
+
+Intravitreal Injection
+A medical procedure in which medication is injected directly into the vitreous cavity of the eye.
+
+Neovascularization
+Abnormal growth of new blood vessels that can leak fluid or bleed.
+
+Uveal Melanoma
+A malignant tumor that can develop from pigmented cells in the eye.

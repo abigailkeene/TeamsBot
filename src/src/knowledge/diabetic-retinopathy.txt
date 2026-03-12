@@ -1,0 +1,136 @@
+TITLE: Diabetic Retinopathy
+
+OVERVIEW
+Diabetic retinopathy is a complication of diabetes that damages the blood vessels of the retina, the light-sensitive tissue lining the back of the eye responsible for vision.
+
+It is the most common cause of irreversible blindness in working-age adults in the United States.
+
+More than half of people with diabetes eventually develop diabetic retinopathy. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+Diabetic retinopathy occurs when high blood sugar levels damage the small blood vessels that supply the retina.
+
+These damaged blood vessels may:
+
+- Leak fluid into the retina
+- Become blocked
+- Grow abnormal new blood vessels
+
+Fluid leakage in the center of the retina (the macula) causes swelling called **diabetic macular edema (DME)**.
+
+As the disease progresses, reduced circulation in the retina can trigger the growth of abnormal blood vessels, a process called **neovascularization**.
+
+This advanced stage is known as **proliferative diabetic retinopathy (PDR)**.
+
+New abnormal blood vessels may:
+
+- Bleed into the eye
+- Form scar tissue
+- Pull on the retina and cause retinal detachment
+- Block fluid drainage and cause high eye pressure (glaucoma)
+
+All of these complications can lead to vision loss.
+
+RISK FACTORS
+Anyone with diabetes is at risk of developing diabetic retinopathy.
+
+Risk increases with:
+
+- Longer duration of diabetes
+- Poor blood sugar control
+- High blood pressure
+- High cholesterol levels
+- Pregnancy
+
+SYMPTOMS
+Diabetic retinopathy may develop for years without noticeable symptoms.
+
+Symptoms may include:
+
+- Blurred or distorted vision
+- Difficulty reading
+- Problems with color vision
+- Spots or floaters in vision
+- A shadow or dark area across the field of vision
+
+Symptoms may occur in one or both eyes.
+
+DIAGNOSTIC TESTING
+
+Dilated Eye Examination
+The most important test for diagnosing diabetic retinopathy is a dilated eye exam, which allows the doctor to closely examine the retina.
+
+During this exam the physician looks for:
+
+- Swelling of the retina (diabetic macular edema)
+- Abnormal blood vessels
+- Areas of poor blood circulation
+
+Optical Coherence Tomography (OCT)
+OCT imaging provides detailed cross-sectional images of the retina and helps determine if fluid has leaked into retinal tissue.
+
+Fundus Photography
+Photographs of the retina help document the disease and monitor progression over time.
+
+Fluorescein Angiography (FA)
+In this test, dye is injected into a vein in the arm and travels through the eye's blood vessels. Special photographs detect areas where blood vessels are blocked, leaking, or abnormal.
+
+TREATMENT
+Several treatments are available to manage diabetic retinopathy.
+
+Intravitreal Injections
+Medications injected into the eye can block vascular endothelial growth factor (VEGF), reducing abnormal blood vessel growth and fluid leakage.
+
+Common anti-VEGF medications include:
+
+- Ranibizumab (Lucentis®)
+- Bevacizumab (Avastin®)
+- Aflibercept (Eylea®)
+- Faricimab (Vabysmo®)
+
+Steroid injections may also be used in certain cases.
+
+Laser Treatment
+Laser therapy called **panretinal photocoagulation (PRP)** is used to treat proliferative diabetic retinopathy.
+
+Vitrectomy Surgery
+In advanced cases, surgery may be required to remove blood from the eye or repair traction on the retina.
+
+PREVENTION
+People with diabetes can reduce their risk of diabetic retinopathy by managing their overall health.
+
+Recommended strategies include:
+
+- Taking medications as prescribed
+- Maintaining a healthy weight
+- Exercising regularly
+- Controlling blood sugar levels (A1C)
+- Controlling blood pressure and cholesterol
+- Avoiding smoking
+
+Regular eye exams are essential to detect the disease early and prevent vision loss.
+
+PROGNOSIS
+Early detection and treatment can prevent severe vision loss in many patients.
+
+Because diabetic retinopathy can progress without symptoms, regular eye examinations are critical for people with diabetes.
+
+CLINICAL TERMS
+
+Diabetic Macular Edema (DME)
+Swelling of the macula caused by fluid leaking from damaged blood vessels.
+
+Proliferative Diabetic Retinopathy (PDR)
+An advanced stage of diabetic retinopathy characterized by abnormal blood vessel growth and scar tissue formation.
+
+Neovascularization
+Growth of abnormal new blood vessels due to poor blood circulation in the retina.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique used to produce detailed cross-sectional images of the retina.
+
+Fluorescein Angiography (FA)
+An imaging test using fluorescent dye to evaluate blood flow in the retina.
+
+Intravitreal Injection
+A medical procedure where medication is injected directly into the vitreous cavity of the eye.

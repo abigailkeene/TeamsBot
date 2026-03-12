@@ -1,0 +1,93 @@
+TITLE: Presumed Ocular Histoplasmosis Syndrome (POHS)
+
+OVERVIEW
+Presumed Ocular Histoplasmosis Syndrome (POHS) is a retinal condition characterized by atrophy around the optic nerve and multiple scars in the choroid known as “histo spots.” These scars may lead to abnormal blood vessel growth (neovascularization) near the macula, which can cause vision loss if untreated. :contentReference[oaicite:0]{index=0}
+
+The disease primarily affects the choroid, the vascular layer beneath the retina that supplies blood and nutrients to retinal tissue.
+
+SYMPTOMS
+Histo spots themselves usually do not cause symptoms. Most people do not notice problems until abnormal blood vessels begin growing in the macula.
+
+Symptoms may include:
+
+- Gradual or sudden blurring of central vision
+- Distorted vision (metamorphopsia), where straight lines appear wavy
+- Difficulty reading or focusing on fine detail
+- Progressive loss of central vision
+
+Because the early scars are often symptomless, many patients are unaware they have the condition until complications develop. :contentReference[oaicite:1]{index=1}
+
+CAUSES
+POHS is associated with exposure to the fungus *Histoplasma capsulatum*, which is commonly found in soil, especially in regions around the Ohio and Mississippi River valleys.
+
+It is believed that:
+
+- The fungus may enter the bloodstream after exposure.
+- It can reach the eye through the bloodstream.
+- Scarring may develop in the choroid as a result.
+
+However, the fungus itself has never been directly proven to cause the ocular disease, which is why the condition is called *presumed* ocular histoplasmosis syndrome.
+
+RISK FACTORS
+Several factors may increase the risk of POHS:
+
+- Residence in areas where Histoplasma capsulatum is common
+- Childhood exposure to soil contaminated with bird or chicken droppings
+- Caucasian ethnicity
+- Age between the second and fifth decades of life
+
+Most patients do not recall having a systemic infection because histoplasmosis often causes few or no symptoms.
+
+DIAGNOSIS
+Diagnosis typically involves retinal imaging and examination by a retina specialist.
+
+Common diagnostic tests include:
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging technique that provides detailed cross-sectional images of the retina to detect fluid or abnormal blood vessels.
+
+Fluorescein Angiography (FA)  
+A diagnostic test where a fluorescent dye is injected into a vein in the arm. A special camera captures images of blood circulation in the retina and choroid.
+
+These tests help detect the presence of neovascularization and monitor disease progression.
+
+TREATMENT
+Treatment is generally required only if abnormal blood vessels (neovascularization) develop.
+
+The most common treatment involves intravitreal injections of medications that inhibit abnormal blood vessel growth.
+
+Common medications include:
+
+- Bevacizumab (Avastin®)
+- Ranibizumab (Lucentis®)
+- Aflibercept (Eylea®)
+
+These medications block vascular endothelial growth factor (VEGF), a protein that promotes abnormal blood vessel growth and leakage.
+
+The injections are typically given monthly or at longer intervals depending on treatment response.
+
+Antifungal medications are not used because the fungus itself does not appear to be directly responsible for the eye disease.
+
+PROGNOSIS
+If neovascularization is detected and treated early, the outlook for vision is generally good.
+
+Without treatment, abnormal blood vessels can cause scarring in the macula and permanent central vision loss.
+
+Regular monitoring by an eye specialist is important for early detection and treatment of complications.
+
+CLINICAL TERMS
+
+Choroid  
+The layer of blood vessels between the retina and the sclera that supplies oxygen and nutrients to retinal tissue.
+
+Macula  
+The central region of the retina responsible for detailed central vision.
+
+Neovascularization  
+Abnormal growth of new blood vessels that can leak fluid or blood and damage retinal tissue.
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging technique used to create detailed images of the retina.
+
+Fluorescein Angiography (FA)  
+An imaging test that uses fluorescent dye to visualize circulation in retinal blood vessels.

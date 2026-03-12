@@ -1,0 +1,142 @@
+TITLE: Retinal Artery Occlusion
+
+OVERVIEW
+Retinal artery occlusion occurs when the artery supplying oxygen-rich blood to the retina becomes blocked. Because the retina requires constant oxygen to function, blockage of this artery can result in severe vision loss.
+
+The retina is a thin layer of light-sensitive nerve tissue lining the back of the eye. It converts light entering the eye into electrical signals that travel through the optic nerve to the brain to produce vision.
+
+Retinal artery occlusion is a serious condition and is considered an ocular emergency.
+
+TYPES OF RETINAL ARTERY OCCLUSION
+
+Central Retinal Artery Occlusion (CRAO)
+CRAO occurs when the main retinal artery becomes blocked. This usually results in severe and sudden vision loss.
+
+About 25% of people have an additional artery called a cilioretinal artery. If this artery is present and unaffected by the blockage, it may help preserve central vision.
+
+Branch Retinal Artery Occlusion (BRAO)
+BRAO occurs when a smaller branch artery becomes blocked. This may cause partial vision loss or loss of a portion of the visual field.
+
+If the affected area is small or located outside the center of the retina, symptoms may be mild or go unnoticed.
+
+SYMPTOMS
+The most common symptom is sudden, painless vision loss in one eye.
+
+Symptoms depend on which part of the retina is affected and may include:
+
+- Sudden loss of vision
+- Loss of part of the visual field
+- Blurred vision
+- Reduced central vision
+
+CAUSES
+Retinal artery occlusion is usually caused by blockage of the retinal artery by:
+
+- Embolus (a small piece of cholesterol or debris that blocks blood flow)
+- Thrombus (a blood clot)
+
+The blockage may be temporary if the clot breaks apart and restores blood flow, or it may become permanent.
+
+RISK FACTORS
+Several medical conditions increase the risk of retinal artery occlusion:
+
+- Carotid artery disease
+- Atherosclerosis (fatty deposits in arteries)
+- Heart valve disease
+- Heart tumors such as myxoma
+- Irregular heart rhythms (atrial fibrillation)
+- Diabetes
+- High blood pressure
+- Intravenous drug use
+- Giant cell arteritis
+- Blood clotting disorders such as sickle cell disease
+- Use of oral contraceptives
+- Homocystinuria
+- Pregnancy
+- Platelet abnormalities
+
+Most patients with retinal artery occlusion are in their 60s and the condition is more common in men than women.
+
+Only about 1–2% of cases affect both eyes.
+
+DIAGNOSTIC TESTING
+
+Dilated Eye Examination
+A retina specialist examines the retina using a dilated eye exam.
+
+CRAO often shows a distinctive “cherry red spot,” where the macula appears red while surrounding retina becomes pale due to reduced blood flow.
+
+BRAO typically appears as an area of retinal whitening along the blocked artery.
+
+Optical Coherence Tomography (OCT)
+OCT imaging provides detailed cross-sectional images of the retina and shows swelling in the inner retinal layers in the affected region.
+
+Fluorescein Angiography (FA)
+Fluorescein angiography involves injecting fluorescent dye into a vein in the arm and photographing retinal circulation.
+
+The test can show delayed filling of retinal arteries and help confirm the diagnosis.
+
+TREATMENT AND MANAGEMENT
+Unfortunately, there is currently no clinically proven treatment that reliably restores vision in central retinal artery occlusion.
+
+Several emergency treatments may be attempted shortly after symptoms begin:
+
+- Hyperventilation using carbogen (95% oxygen and 5% carbon dioxide)
+- Paracentesis (removal of fluid from the front of the eye)
+- Medications to lower intraocular pressure
+- Ocular massage to attempt to dislodge the clot
+
+These treatments must be attempted within approximately 4 to 6 hours of symptom onset to have any potential benefit.
+
+Thrombolytic Therapy
+Clot-dissolving medications have been studied but have not consistently shown benefit in clinical trials.
+
+Systemic Evaluation
+Because retinal artery occlusion shares many risk factors with stroke and cardiovascular disease, patients should undergo medical evaluation to identify underlying causes.
+
+Common evaluations include:
+
+- Carotid ultrasound to detect carotid artery plaque
+- Cardiac echocardiography to evaluate heart valve disease
+- Blood tests for inflammatory or clotting disorders
+
+PROGNOSIS
+Vision loss from CRAO is often severe and permanent.
+
+However, patients with a cilioretinal artery may retain better central vision.
+
+In cases of BRAO, visual field loss is often permanent but central vision may recover to 20/40 or better in many patients.
+
+COMPLICATIONS
+Rarely, abnormal blood vessels may develop on the retina or iris following arterial blockage.
+
+These new vessels can cause additional complications including:
+
+- Vitreous hemorrhage
+- Glaucoma
+- Further vision loss
+
+Laser photocoagulation or anti-VEGF injections may be used to treat these complications.
+
+CLINICAL TERMS
+
+Embolus
+A small piece of cholesterol or debris traveling in the bloodstream that can block an artery.
+
+Thrombus
+A blood clot that forms inside a blood vessel.
+
+Macula
+The central region of the retina responsible for detailed vision.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique used to create detailed images of the retina.
+
+Fluorescein Angiography (FA)
+An imaging test that uses fluorescent dye to visualize blood circulation in the retina.
+
+Laser Photocoagulation
+A laser treatment used to seal leaking blood vessels or treat abnormal vessel growth.
+
+Vitreous Hemorrhage
+Bleeding into the vitreous gel inside the eye.

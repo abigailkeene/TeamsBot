@@ -1,0 +1,80 @@
+TITLE: Polypoidal Choroidal Vasculopathy (PCV)
+
+OVERVIEW
+Polypoidal choroidal vasculopathy (PCV) is a retinal disease that affects the choroid, the vascular layer of blood vessels located beneath the retina. These abnormal blood vessels can cause damage to the retina and the photoreceptor cells responsible for vision. :contentReference[oaicite:0]{index=0}
+
+PCV is characterized by abnormal, balloon-like blood vessels in the choroid that may leak fluid or bleed under the retina. This leakage can lead to swelling, scarring, and vision loss.
+
+SYMPTOMS
+Common symptoms of PCV include:
+
+- Blurred vision
+- Blind spots in the center of vision
+- Sudden changes in central vision
+- Distortion of visual images
+
+Symptoms may appear suddenly and often remain relatively constant throughout the day. In some cases, PCV may be detected during routine eye examinations before symptoms develop. :contentReference[oaicite:1]{index=1}
+
+CAUSES AND RISK FACTORS
+The exact cause of PCV is not fully understood. However, several risk factors have been identified:
+
+- Age over 60
+- Higher prevalence in individuals of Asian or African descent
+- Possible overlap with wet age-related macular degeneration (AMD)
+
+The abnormal vessels associated with PCV may leak fluid or blood into or beneath the retina. This leakage can lead to retinal swelling, hemorrhage, or scarring that affects vision.
+
+Although PCV may initially affect only one eye, it frequently progresses to involve both eyes over time. Regular monitoring is important for early detection and treatment.
+
+DIAGNOSIS
+Diagnosis of PCV typically involves a comprehensive eye examination by a retina specialist. Several imaging techniques are commonly used:
+
+Dilated Eye Examination  
+Allows the retina specialist to evaluate the retina and detect signs of abnormal blood vessels.
+
+Fluorescein Angiography (FA)  
+A yellow dye is injected into a vein and retinal photographs are taken to observe blood flow in the retinal vessels.
+
+Indocyanine Green Angiography (ICGA)  
+This imaging technique uses a green dye to visualize blood flow in the choroidal vessels, which helps identify the characteristic polyp-like vascular abnormalities.
+
+Optical Coherence Tomography (OCT)  
+OCT imaging provides detailed cross-sectional views of the retina and helps detect fluid or blood beneath the retina.
+
+TREATMENT
+Treatment aims to reduce leakage from abnormal vessels and prevent further damage to the retina.
+
+Common treatment approaches include:
+
+Anti-VEGF Intravitreal Injections  
+Medications injected into the eye block vascular endothelial growth factor (VEGF), a molecule that promotes abnormal blood vessel growth and leakage.
+
+Photodynamic Therapy (PDT)  
+A photosensitizing drug called verteporfin is injected intravenously and activated with a cold laser to destroy abnormal blood vessels in the choroid.
+
+Vitrectomy Surgery  
+In rare cases, vitrectomy may be performed to remove large hemorrhages caused by PCV.
+
+Treatment often requires repeated anti-VEGF injections every 4 to 6 weeks to maintain control of the disease.
+
+PROGNOSIS
+Some patients with PCV may experience permanent central vision loss if the condition progresses without treatment. However, early diagnosis and appropriate therapy can help stabilize or improve vision in many cases.
+
+Regular monitoring and follow-up care with a retina specialist are essential to detect recurrence or progression of the disease.
+
+CLINICAL TERMS
+
+Choroid  
+The vascular layer of the eye located between the retina and the sclera that supplies blood to the retina.
+
+Fluorescein Angiography (FA)  
+An imaging test that uses fluorescent dye to visualize blood circulation in the retina.
+
+Indocyanine Green Angiography (ICGA)  
+A diagnostic imaging technique used to visualize choroidal blood vessels.
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging technique that produces detailed cross-sectional images of the retina.
+
+Vitrectomy  
+A surgical procedure that removes the vitreous gel to treat retinal conditions.

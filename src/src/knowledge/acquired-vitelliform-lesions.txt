@@ -1,0 +1,126 @@
+# Acquired Vitelliform Lesions (AVL)
+Source: American Society of Retina Specialists – Retina Health Series
+
+## Overview
+Adult-onset vitelliform maculopathy is a retinal disease characterized by round, yellowish deposits called **acquired vitelliform lesions (AVLs)** located beneath the central retina or macula.
+
+Other names for this condition include:
+- Adult pattern dystrophy
+- Adult-onset foveomacular pigment epithelial dystrophy
+
+These deposits form in the **subretinal space**, located between the retina and the retinal pigment epithelium (RPE).
+
+## Retina Background
+The retina is a thin layer of light-sensitive nerve tissue lining the back of the eye.
+
+When light enters the eye:
+1. Light passes through the iris.
+2. Images are focused onto the retina.
+3. The retina converts light into electrical signals.
+4. Signals travel through the optic nerve to the brain.
+5. The brain interprets these signals as vision.
+
+## Symptoms
+Patients with adult-onset vitelliform maculopathy may experience:
+
+- Decreased vision
+- Distorted vision
+
+In mild cases, deposits may be discovered during an eye exam **before symptoms appear**.
+
+## Causes and Risk Factors
+Key facts about AVLs:
+
+- Typically occur in adults in their **40s or 50s**
+- Different from **Best vitelliform macular dystrophy**, which is inherited and appears earlier in life
+- AVLs may occur alone or alongside **drusen**, which are yellow deposits associated with **age-related macular degeneration (AMD)**
+- Deposits are located in the **subretinal space**
+- Deposits consist primarily of **degenerating photoreceptor material**
+
+## Vision Outcomes
+Vision varies among patients:
+
+- Nearly **half of patients maintain vision of 20/40 or better**
+- Lesion size may correlate with vision loss
+- Larger lesions are generally associated with decreased vision
+
+AVLs **do not affect peripheral vision**.
+
+## Diagnostic Testing
+
+### Dilated Fundus Examination
+A complete dilated eye exam is the first step in diagnosis.
+
+### Optical Coherence Tomography (OCT)
+OCT is used to:
+
+- Measure lesion size
+- Monitor lesion progression
+- Evaluate integrity of the outer retina
+
+### Fluorescein Angiography (FA)
+This test involves injecting a fluorescent dye into a vein to visualize retinal blood vessels and detect complications such as:
+
+- Choroidal neovascularization (abnormal new blood vessels)
+
+### Indocyanine Green Angiography (ICGA)
+Another dye-based imaging technique used to evaluate blood flow in the choroid.
+
+### OCT Angiography
+A non-invasive imaging method used to detect abnormal blood vessel growth.
+
+### Genetic Evaluation
+Because vitelliform lesions can be associated with genetic disorders, doctors may perform:
+
+- Family history review
+- Electrophysiologic testing
+- Genetic testing
+
+## Treatment and Prognosis
+
+### Treatment
+AVLs must be differentiated from **neovascular age-related macular degeneration (AMD)**.
+
+Important distinction:
+
+- **AVLs generally do not require anti-VEGF injections**
+- **Neovascular AMD often requires anti-VEGF treatment**
+
+Correct diagnosis helps avoid unnecessary treatments.
+
+### Prognosis
+Some AVLs may resolve spontaneously.
+
+However, resolution may be followed by:
+
+- Retinal atrophy
+- Reduced central vision
+
+Peripheral vision typically remains unaffected.
+
+## Clinical Terms
+
+### Fluorescein Angiography (FA)
+An imaging test where sodium fluorescein dye is injected into a vein, allowing retinal circulation to be photographed.
+
+### Indocyanine Green Angiography (ICGA)
+A diagnostic test using green dye to visualize blood flow in the **choroid**, the vascular layer beneath the retina.
+
+### Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that produces detailed cross-sectional images of the retina.
+
+### Photoreceptors
+Light-sensitive cells in the retina responsible for vision:
+- **Rods** – night vision
+- **Cones** – color vision and daylight vision
+
+### Retinal Pigment Epithelium (RPE)
+A pigmented cell layer beneath photoreceptors that supports retinal function and health.
+
+## Key Takeaways
+- AVLs are yellow deposits beneath the macula.
+- Most commonly occur in adults in their 40s–50s.
+- Symptoms include distorted or decreased vision.
+- OCT imaging is critical for monitoring lesion progression.
+- AVLs usually do **not require anti-VEGF injections** unless misdiagnosed as AMD.
+- Peripheral vision is generally preserved.

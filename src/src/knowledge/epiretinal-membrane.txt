@@ -1,0 +1,106 @@
+TITLE: Epiretinal Membranes (ERM) / Macular Pucker
+
+OVERVIEW
+Epiretinal membranes (ERMs), also known as macular puckers or cellophane maculopathy, are thin fibrocellular membranes that form on the inner surface of the retina. These membranes have few or no blood vessels and appear semi-transparent.
+
+ERMs often cause minimal symptoms and may simply be monitored. However, when the membrane affects the macula—the central portion of the retina responsible for detailed vision—it can lead to vision distortion and decreased visual acuity. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+ERMs develop when cells, most commonly glial cells, migrate to the surface of the retina and form a thin sheet of tissue.
+
+Over time, this membrane can contract and pull on the retina, causing wrinkling or puckering of the macula.
+
+The most common cause is **posterior vitreous detachment (PVD)**, a natural age-related process in which the vitreous gel separates from the retina.
+
+When ERMs occur without another identifiable cause, they are referred to as **idiopathic ERMs**.
+
+ERMs may also develop in association with other eye conditions such as:
+
+- Retinal tears
+- Retinal detachment
+- Diabetic retinopathy
+- Retinal vein occlusion
+- Eye trauma
+- Eye surgery
+- Intraocular inflammation
+
+RISK FACTORS
+The likelihood of developing an epiretinal membrane increases with age.
+
+Studies show that:
+
+- About 2% of individuals over age 50 have ERMs
+- About 20% of individuals over age 75 have ERMs
+
+Both men and women are affected equally.
+
+In approximately 10–20% of cases, ERMs occur in both eyes, although the severity may differ between eyes. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Many patients with ERMs have no symptoms and the condition is discovered during routine eye exams.
+
+When symptoms occur, they may include:
+
+- Blurred vision
+- Visual distortion (metamorphopsia)
+- Straight lines appearing wavy or crooked
+- Difficulty reading
+- Double vision
+- Increased sensitivity to light
+- Objects appearing larger or smaller than they actually are
+
+In severe cases, significant loss of central vision may occur.
+
+DIAGNOSTIC TESTING
+
+Dilated Eye Examination
+ERMs can often be detected during a routine dilated retinal examination.
+
+Optical Coherence Tomography (OCT)
+OCT imaging is commonly used to evaluate the severity of the membrane and the amount of retinal distortion.
+
+Fluorescein Angiography
+This test may be used to determine whether other retinal diseases are contributing to the membrane.
+
+TREATMENT
+Most ERMs do not require treatment and can be monitored over time.
+
+In rare cases, the membrane may spontaneously separate from the retina, relieving traction and improving vision.
+
+If the membrane progresses or causes significant visual impairment, surgery may be recommended.
+
+Vitrectomy Surgery
+The standard treatment for symptomatic ERMs is a surgical procedure called **vitrectomy**. During this procedure:
+
+- Small incisions are made in the white part of the eye
+- The vitreous gel is removed
+- The epiretinal membrane is carefully peeled away from the retinal surface
+
+Removing the membrane allows the retina to relax and reduces distortion.
+
+PROGNOSIS
+Visual recovery after ERM surgery typically occurs gradually.
+
+Most patients experience visual improvement within several months, although full recovery may take up to one year.
+
+Vitrectomy surgery is generally safe, but potential complications include:
+
+- Retinal detachment (about 1 in 100 cases)
+- Infection (about 1 in 2000 cases)
+- Progression of cataracts in patients who still have their natural lens
+
+Overall, surgery has a high success rate and many patients experience improved vision and reduced visual distortion.
+
+CLINICAL TERMS
+
+Epiretinal Membrane (ERM)
+A thin layer of fibrous tissue that forms on the surface of the retina and can cause retinal distortion.
+
+Metamorphopsia
+A visual distortion in which straight lines appear wavy or bent.
+
+Optical Coherence Tomography (OCT)
+A noninvasive imaging test that produces detailed cross-sectional images of the retina.
+
+Vitrectomy
+A surgical procedure in which the vitreous gel inside the eye is removed to allow access to the retina for treatment.

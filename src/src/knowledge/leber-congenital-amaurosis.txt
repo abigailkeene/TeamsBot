@@ -1,0 +1,83 @@
+TITLE: Leber Congenital Amaurosis (LCA)
+
+OVERVIEW
+Leber congenital amaurosis (LCA) refers to a group of inherited diseases that cause severe vision loss beginning in infancy. The condition results from abnormal function of the retina, the light-sensitive tissue at the back of the eye that captures images and sends signals to the brain.
+
+In LCA, the retina’s photoreceptor cells (the light-sensing cells) do not function properly, preventing the eye from accurately capturing visual images. Over time, degeneration of the retina may occur, leading to progressive vision loss. :contentReference[oaicite:0]{index=0}
+
+CAUSES AND RISK FACTORS
+LCA is a genetic condition passed down from parents through inherited gene mutations.
+
+Key facts include:
+
+- At least 19 different gene mutations can cause LCA.
+- These genes normally produce proteins necessary for normal vision.
+- The condition is typically inherited in an **autosomal recessive pattern**, meaning a child must inherit one abnormal gene from each parent.
+
+Most parents who carry the gene mutation do not have vision loss themselves and may be unaware they are carriers.
+
+Some gene mutations associated with LCA may also affect other organs or cause developmental delays, so children diagnosed with LCA may require evaluation by specialists familiar with inherited disorders.
+
+SYMPTOMS
+LCA is usually recognized during infancy or early childhood due to severe visual impairment.
+
+Common signs include:
+
+- Difficulty focusing on objects
+- Lack of eye tracking when objects move
+- Poor visual response from birth
+- Frequent eye rubbing (which may stimulate the retina and produce flashes of light)
+
+In some forms of LCA, vision problems may not appear until months or years after birth.
+
+One subtype caused by mutations in the **RPE65 gene** often affects **night vision first**, especially in dim lighting. Over time, vision can worsen under all lighting conditions.
+
+DIAGNOSTIC TESTING
+The diagnosis of LCA involves several specialized eye tests.
+
+An ophthalmic examination may initially show a retina that appears relatively normal, since degeneration develops later.
+
+The most important diagnostic test is an **electroretinogram (ERG)**. This test measures electrical activity in the retina.
+
+Patients with LCA typically show a **“flat” ERG**, meaning the retina demonstrates little or no electrical response to light stimulation.
+
+Additional testing may include:
+
+- Genetic testing to identify the specific gene mutation
+- Genetic counseling for families
+- Evaluation by pediatric specialists if systemic genetic disorders are suspected
+
+TREATMENT
+Historically, there has been no cure for LCA. However, recent advances in **gene therapy** have created treatment options for some patients.
+
+One gene therapy treatment targets mutations in the **RPE65 gene**.
+
+The therapy uses a medication called **voretigene neparvovec-rzyl (Luxturna™)**. This treatment delivers a functional copy of the defective gene directly into retinal cells.
+
+The therapy is administered through a surgical procedure involving a **vitrectomy**, followed by injection of the gene therapy beneath the retina.
+
+Clinical trials have shown that this treatment can improve vision in some patients, particularly their ability to navigate in low-light conditions.
+
+Although gene therapy does not fully restore normal vision, improvements may significantly enhance quality of life.
+
+The FDA has approved Luxturna™ for patients **1 year of age or older** who have mutations in both copies of the RPE65 gene and sufficient remaining retinal cells.
+
+Other developing treatments include retinal prosthetic implants designed to bypass non-functioning photoreceptor cells.
+
+Low-vision specialists can also help patients use assistive technologies to improve daily functioning.
+
+PROGNOSIS
+Without treatment, LCA typically leads to progressive vision loss and may result in severe visual impairment or blindness.
+
+Early diagnosis is important because emerging treatments, particularly gene therapy, may help preserve or improve vision in some patients.
+
+CLINICAL TERMS
+
+Electroretinogram (ERG)
+A non-invasive test that measures electrical responses of retinal cells to light stimulation.
+
+Photoreceptors
+Specialized cells in the retina that detect light and convert it into signals for the brain.
+
+Retinitis Pigmentosa (RP)
+A group of inherited retinal diseases that cause gradual degeneration of photoreceptor cells and progressive vision loss.

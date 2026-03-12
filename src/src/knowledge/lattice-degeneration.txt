@@ -1,0 +1,85 @@
+TITLE: Lattice Degeneration
+
+OVERVIEW
+Lattice degeneration is a condition involving abnormal thinning of the peripheral retina, the light-sensitive tissue lining the back wall of the eye. When the retina becomes thin in these areas, it is more vulnerable to tears, breaks, or holes that can potentially lead to retinal detachment. Because of this risk, individuals diagnosed with lattice degeneration should have their eyes monitored regularly. :contentReference[oaicite:0]{index=0}
+
+Lattice degeneration typically appears as oval or straight patches of thinned retina. These areas may show pigment clumps or a cross-hatched pattern formed by sclerotic blood vessels. The condition can occur in one eye or both eyes and may appear as a single lesion or multiple clustered areas along the outer edges of the retina.
+
+CAUSES AND RISK FACTORS
+Lattice degeneration occurs in approximately **8–10% of the general population**. The exact cause is not fully understood.
+
+Risk factors and associations include:
+
+- Nearsightedness (myopia)
+- Family clustering of the condition
+- Genetic connective tissue disorders such as:
+  - Stickler syndrome
+  - Ehlers-Danlos syndrome
+  - Marfan syndrome
+
+Although it can occur in families, lattice degeneration does not follow a clearly defined inheritance pattern.
+
+SYMPTOMS
+Lattice degeneration itself usually **does not cause symptoms**.
+
+Because it is asymptomatic, the condition is typically discovered during a routine eye examination.
+
+However, complications such as retinal tears or retinal detachment can produce symptoms including:
+
+- Blurred vision
+- Flashing lights
+- New floaters
+- A curtain or shadow appearing in the peripheral vision
+
+If these symptoms occur, prompt evaluation by an eye care professional is necessary.
+
+DIAGNOSTIC TESTING
+Lattice degeneration is diagnosed through a **dilated fundus examination**.
+
+During this examination:
+
+1. Eye drops are used to dilate the pupil.
+2. The eye doctor examines the retina using a headlight and special lens.
+3. In some cases, gentle pressure may be applied to the eye (scleral depression) to better visualize the peripheral retina.
+
+Imaging tests are generally not required, although wide-angle retinal photography may sometimes be used to document and monitor the condition.
+
+TREATMENT
+Most patients with lattice degeneration **do not require treatment**.
+
+Instead, regular monitoring through routine dilated eye examinations is recommended.
+
+In rare cases, preventative treatment may be considered if there is a higher risk of retinal tear or detachment. Possible treatments include:
+
+- Laser therapy to strengthen weak areas of the retina
+- Cryotherapy (freezing therapy) to seal retinal defects
+
+The effectiveness of preventive treatment remains uncertain and is typically considered only in select cases.
+
+PROGNOSIS
+Lattice degeneration is generally **minimally progressive**, and the majority of individuals with the condition never develop retinal tears or detachments.
+
+However, because of the increased risk, patients should:
+
+- Maintain regular eye examinations
+- Be aware of warning signs of retinal detachment
+- Seek immediate care if new visual symptoms occur
+
+Early treatment of retinal tears or detachments can significantly improve visual outcomes.
+
+CLINICAL TERMS
+
+Cryotherapy  
+A treatment that uses extremely cold temperatures applied to the outer eye (sclera) to create a seal around a retinal tear.
+
+Fundus  
+The back portion of the eye that includes the retina, macula, optic nerve, choroid, and vitreous.
+
+Retinal Detachment  
+A serious condition where the retina separates from the underlying tissue, potentially causing vision loss.
+
+Sclerotic Vessels  
+Thin, pale blood vessels that may appear in areas of lattice degeneration due to reduced blood flow or tissue damage.
+
+Stickler Syndrome  
+A genetic disorder affecting connective tissue that may increase the risk of lattice degeneration and retinal detachment.

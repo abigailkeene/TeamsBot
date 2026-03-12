@@ -1,0 +1,93 @@
+TITLE: Retinal Tears
+
+OVERVIEW
+The retina is the thin, light-sensitive tissue that lines the back of the eye and is responsible for generating vision. A retinal tear occurs when this tissue develops a break or rip. Retinal tears are important to diagnose and treat because they can allow fluid to pass underneath the retina and lead to retinal detachment, which can cause severe vision loss. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+The most common cause of retinal tears is changes in the vitreous gel that fills the back of the eye.
+
+At birth, the vitreous gel is firmly attached to the retina. As people age, the vitreous gradually shrinks and separates from the retina in a process called posterior vitreous detachment (PVD). In most cases, this occurs without problems.
+
+However, in some people the vitreous gel pulls too strongly on the retina as it separates. This abnormal traction can cause the retina to tear.
+
+Other possible causes of retinal tears include:
+
+- Eye trauma or injury
+- Lattice degeneration (thin areas in the peripheral retina)
+- Severe nearsightedness (high myopia)
+- Previous eye surgery
+- Family history of retinal tears or detachment
+
+Retinal holes are a related condition. While retinal tears are caused by traction from the vitreous, retinal holes typically develop due to progressive thinning of the retina. These holes are often smaller and usually carry a lower risk of retinal detachment. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Many retinal tears produce noticeable symptoms, although some may occur without symptoms.
+
+Common symptoms include:
+
+- Sudden appearance of floaters (dark spots or specks in vision)
+- Flashes of light (photopsias)
+- Blurred vision
+- A shadow or curtain appearing in the peripheral vision if bleeding or detachment occurs
+
+Floaters are often described as looking like dust, cobwebs, or small insects moving across the field of vision.
+
+RISK FACTORS
+Several factors increase the likelihood of developing a retinal tear:
+
+- Increasing age
+- High levels of nearsightedness (myopia)
+- Lattice degeneration of the retina
+- Eye trauma
+- Family history of retinal tears or retinal detachment
+- Previous eye surgery
+
+Although these factors increase risk, retinal tears can still occur in people without any known risk factors.
+
+DIAGNOSIS
+Retinal tears are diagnosed through a detailed eye examination performed by a retina specialist.
+
+During the exam, the doctor may use techniques such as:
+
+- Dilated retinal examination
+- Scleral depression to examine the peripheral retina
+- Specialized lenses to view the retina in detail
+
+If bleeding or other conditions obscure the retina, ocular ultrasound may be used to help identify a tear. :contentReference[oaicite:2]{index=2}
+
+TREATMENT
+If a retinal tear is detected before a retinal detachment develops, treatment is highly effective and usually prevents further complications.
+
+Treatment methods include:
+
+Laser Photocoagulation  
+A laser is used to create small burns around the tear, producing scar tissue that seals the retina to the underlying tissue.
+
+Cryotherapy  
+A freezing probe is applied to the outside of the eye to create scar tissue around the tear and seal it.
+
+Both procedures are typically performed in an office setting using local or topical anesthesia and are generally safe and effective.
+
+Not all retinal tears require treatment. Low-risk tears without symptoms may simply be monitored. In some cases, scar tissue may form naturally around the tear without treatment.
+
+PROGNOSIS
+When treated promptly, retinal tears have an excellent prognosis and rarely progress to retinal detachment.
+
+However, patients who have experienced one retinal tear remain at risk of developing additional tears in the future and require regular follow-up examinations.
+
+CLINICAL TERMS
+
+Floaters  
+Small moving shadows in the field of vision caused by debris within the vitreous gel.
+
+Photopsias  
+Flashes of light seen in the peripheral vision due to traction on the retina.
+
+Posterior Vitreous Detachment (PVD)  
+A natural process during aging in which the vitreous gel separates from the retina.
+
+Retinal Detachment  
+A serious condition in which the retina separates from the back wall of the eye.
+
+Scleral Depression  
+A diagnostic technique in which gentle pressure is applied to the outside of the eye to allow detailed examination of the peripheral retina.

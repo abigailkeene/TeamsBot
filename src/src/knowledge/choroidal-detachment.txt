@@ -1,0 +1,121 @@
+TITLE: Choroidal Detachment
+
+OVERVIEW
+The choroid is a spongy layer of blood vessels located between the retina and the sclera (the white outer layer of the eye). This layer plays an important role in supplying oxygen and nutrients to the outer layers of the retina.
+
+A choroidal detachment occurs when the choroid separates from the sclera due to fluid or blood accumulating in the space between these layers.
+
+CAUSES
+Choroidal detachments are generally classified into two main types:
+
+Serous Choroidal Detachment
+This type occurs when fluid accumulates between the choroid and sclera. Serous detachments are usually associated with low intraocular pressure and are often only mildly uncomfortable.
+
+Hemorrhagic Choroidal Detachment
+This occurs when a blood vessel in the choroid ruptures and blood rapidly fills the space between the choroid and sclera. Hemorrhagic detachments are often painful and may be associated with high intraocular pressure.
+
+Serous choroidal detachments most commonly occur after eye surgery when intraocular pressure becomes very low.
+
+Other causes may include:
+- Eye inflammation
+- Eye trauma
+- Cancer
+- Certain medications
+
+In some individuals, especially those who are farsighted, serous choroidal detachments may occur spontaneously.
+
+Hemorrhagic choroidal detachments may occur during or after eye surgery and are more common in older patients or those with vascular disease.
+
+SYMPTOMS
+Symptoms vary depending on the severity of the detachment.
+
+Some patients may experience no symptoms at all.
+
+Possible symptoms include:
+
+- Aching or soreness in the eye
+- Eye pain (especially in hemorrhagic detachments)
+- Blurred vision
+- Visual disturbances
+
+The degree of vision loss often depends on other eye conditions present at the same time, such as changes in intraocular pressure or recent surgery.
+
+RISK FACTORS
+Several factors increase the likelihood of developing choroidal detachment:
+
+- Recent eye surgery
+- Use of blood-thinning medications (such as warfarin)
+- Very short eye structure (nanophthalmos)
+- Eye trauma
+- Eye inflammation
+- Older age
+- Atherosclerosis (plaque buildup in arteries)
+- History of choroidal detachment in the other eye
+- Glaucoma
+
+Some patients who have undergone glaucoma surgery may develop choroidal detachment months or years later.
+
+DIAGNOSTIC TESTING
+
+Comprehensive Eye Examination
+A retina specialist performs a detailed eye exam to evaluate the retina and choroid.
+
+Ultrasound Imaging
+An ultrasound (echography) of the eye is often used to confirm the diagnosis.
+
+Ultrasound helps physicians:
+- Distinguish choroidal detachment from retinal detachment
+- Identify the size of the detachment
+- Determine whether the detachment is serous, hemorrhagic, or mixed
+- Monitor changes in the detachment over time
+
+TREATMENT
+Treatment depends on the cause and severity of the detachment.
+
+Medical Treatment
+Eye drops may be used to:
+- Reduce inflammation
+- Dilate the pupil
+- Manage eye pressure
+
+Small choroidal detachments that occur after surgery often resolve on their own within a few days.
+
+If intraocular pressure becomes elevated, medications may be prescribed to lower the pressure.
+
+If the detachment is caused by persistently low pressure due to a leaking surgical incision, the leak may need to be repaired.
+
+Surgical Treatment
+In more severe cases, surgical drainage of the accumulated fluid or blood may be required.
+
+The timing of surgery depends on several factors, including:
+- Eye pressure
+- Size of the detachment
+- Duration of the condition
+- Health of other eye structures
+
+PROGNOSIS
+Most patients with choroidal detachment have a good visual prognosis.
+
+Massive hemorrhagic choroidal detachments may carry a more guarded prognosis.
+
+With proper treatment and monitoring, many eyes recover good visual function.
+
+CLINICAL TERMS
+
+Choroid
+A vascular layer between the retina and sclera that supplies oxygen and nutrients to the retina.
+
+Sclera
+The white outer layer of the eye that provides structure and protection.
+
+Intraocular Pressure
+The pressure inside the eye that helps maintain its shape and function.
+
+Serous Detachment
+A detachment caused by accumulation of fluid.
+
+Hemorrhagic Detachment
+A detachment caused by bleeding from a ruptured blood vessel.
+
+Ultrasound (Echography)
+An imaging technique that uses sound waves to visualize internal structures of the eye.

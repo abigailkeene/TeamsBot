@@ -115,87 +115,64 @@ const pxconnectCheatSheet = loadKnowledge("pxconnect-cheat-sheet.txt");
 const pxconnectPortalBestPractices = loadKnowledge("pxconnect-client-portal-best-practices.txt");
 const pxconnectRemoteSignature = loadKnowledge("pxconnect-remote-signature-feature.txt");
 
+// Retina Conditions
+const acquiredVitelliformLesions = loadKnowledge("acquired-vitelliform-lesions.txt");
+const ageRelatedMacularDegeneration = loadKnowledge("age-related-macular-degeneration.txt");
+const dryAmdGeographicAtrophy = loadKnowledge("dry-amd-geographic-atrophy.txt");
+const wetAmdMacularNeovascularization = loadKnowledge("wet-amd-macular-neovascularization.txt");
+const branchRetinalVeinOcclusion = loadKnowledge("branch-retinal-vein-occlusion.txt");
+const centralRetinalVeinOcclusion = loadKnowledge("central-retinal-vein-occlusion.txt");
+const centralSerousChorioretinopathy = loadKnowledge("central-serous-chorioretinopathy.txt");
+const charlesBonnetSyndrome = loadKnowledge("charles-bonnet-syndrome.txt");
+const choroidalDetachment = loadKnowledge("choroidal-detachment.txt");
+const retinalArteryOcclusion = loadKnowledge("retinal-artery-occlusion.txt");
+const choroidalNevus = loadKnowledge("choroidal-nevus.txt");
+const complexRetinalDetachment = loadKnowledge("complex-retinal-detachment.txt");
+const congenitalXLinkedRetinoschisis = loadKnowledge("congenital-x-linked-retinoschisis.txt");
+const diabeticRetinopathy = loadKnowledge("diabetic-retinopathy.txt");
+const endophthalmitisGuide = loadKnowledge("endophthalmitis.txt");
+const epiretinalMembrane = loadKnowledge("epiretinal-membrane.txt");
+const familialExudativeVitreoretinopathy = loadKnowledge("familial-exudative-vitreoretinopathy.txt");
+const hydroxychloroquineRetinalToxicity = loadKnowledge("hydroxychloroquine-retinal-toxicity.txt");
+const idiopathicJuxtafovealTelangiectasis = loadKnowledge("idiopathic-juxtafoveal-telangiectasis.txt");
+const infectiousRetinitis = loadKnowledge("infectious-retinitis.txt");
+const intraocularLensDislocation = loadKnowledge("intraocular-lens-dislocation.txt");
+const intraocularUvealMelanoma = loadKnowledge("intraocular-uveal-melanoma.txt");
+const intravitrealInjections = loadKnowledge("intravitreal-injections.txt");
+const latticeDegeneration = loadKnowledge("lattice-degeneration.txt");
+const leberCongenitalAmaurosis = loadKnowledge("leber-congenital-amaurosis.txt");
+const macularEdema = loadKnowledge("macular-edema.txt");
+const macularHole = loadKnowledge("macular-hole.txt");
+const persistentFetalVasculature = loadKnowledge("persistent-fetal-vasculature.txt");
+const polypoidalChoroidalVasculopathy = loadKnowledge("polypoidal-choroidal-vasculopathy.txt");
+const posteriorVitreousDetachment = loadKnowledge("posterior-vitreous-detachment.txt");
+const presumedOcularHistoplasmosisSyndrome = loadKnowledge("presumed-ocular-histoplasmosis-syndrome.txt");
+const retainedLensFragments = loadKnowledge("retained-lens-fragments.txt");
+const retinalDetachment = loadKnowledge("retinal-detachment.txt");
+const retinalTears = loadKnowledge("retinal-tears.txt");
+const retinitisPigmentosa = loadKnowledge("retinitis-pigmentosa.txt");
+const retinoblastoma = loadKnowledge("retinoblastoma.txt");
+const retinopathyOfPrematurity = loadKnowledge("retinopathy-of-prematurity.txt");
+const riverBlindnessOnchocerciasis = loadKnowledge("river-blindness-onchocerciasis.txt");
+const sickleCellRetinopathy = loadKnowledge("sickle-cell-retinopathy.txt");
+const vitrectomy = loadKnowledge("vitrectomy.txt");
+const retinaGlossary = loadKnowledge("retina-glossary.txt");
+const retinaHealthOverview = loadKnowledge("retina-health-overview.txt");
+const vitrectomyForFloaters = loadKnowledge("vitrectomy-for-floaters.txt");
+const vitreomacularTractionSyndrome = loadKnowledge("vitreomacular-traction-syndrome.txt");
+
 /* ============================
    DOCUMENT REGISTRY WITH ALIASES
 ============================ */
 
 const allDocuments = [
-  {
-    name: "attendance policy",
-    aliases: [
-      "miss work",
-      "call out",
-      "no call no show",
-      "without notice",
-      "absent",
-      "didnt show up",
-      "attendance violation"
-    ],
-    content: attendancePolicy
-  },
-  {
-    name: "pto policy",
-    aliases: [
-      "vacation days",
-      "paid time off",
-      "how much pto",
-      "pto balance",
-      "request time off"
-    ],
-    content: ptoPolicy
-  },
-  {
-    name: "office hours",
-    aliases: [
-      "closing time",
-      "open time",
-      "staff leave",
-      "clinic hours",
-      "when do we close",
-      "when do we open"
-    ],
-    content: hoursPolicy
-  },
-  {
-    name: "holidays",
-    aliases: [
-      "holiday schedule",
-      "holiday hours",
-      "close early",
-      "office closed holiday"
-    ],
-    content: holidaysPolicy
-  },
-
-  {
-    name: "pxconnect cheat sheet",
-    aliases: [
-      "px connect cheat sheet",
-      "pxconnect quick reference",
-      "px connect quick guide"
-    ],
-    content: pxconnectCheatSheet
-  },
-  {
-    name: "pxconnect client portal best practices",
-    aliases: [
-      "px connect portal",
-      "patient portal pxconnect",
-      "pxconnect portal workflow"
-    ],
-    content: pxconnectPortalBestPractices
-  },
-  {
-    name: "pxconnect remote signature feature",
-    aliases: [
-      "remote signature",
-      "send signature request",
-      "pxconnect signature",
-      "patient signature request"
-    ],
-    content: pxconnectRemoteSignature
-  },
-
+  { name: "attendance policy", aliases: ["miss work", "call out", "no call no show", "without notice", "absent", "didnt show up", "attendance violation"], content: attendancePolicy },
+  { name: "pto policy", aliases: ["vacation days", "paid time off", "how much pto", "pto balance", "request time off"], content: ptoPolicy },
+  { name: "office hours", aliases: ["closing time", "open time", "staff leave", "clinic hours", "when do we close", "when do we open"], content: hoursPolicy },
+  { name: "holidays", aliases: ["holiday schedule", "holiday hours", "close early", "office closed holiday"], content: holidaysPolicy },
+  { name: "pxconnect cheat sheet", aliases: ["px connect cheat sheet", "pxconnect quick reference", "px connect quick guide"], content: pxconnectCheatSheet },
+  { name: "pxconnect client portal best practices", aliases: ["px connect portal", "patient portal pxconnect", "pxconnect portal workflow"], content: pxconnectPortalBestPractices },
+  { name: "pxconnect remote signature feature", aliases: ["remote signature", "send signature request", "pxconnect signature", "patient signature request"], content: pxconnectRemoteSignature },
   { name: "dress code", aliases: ["what can we wear", "uniform policy"], content: dressCodePolicy },
   { name: "bereavement leave", aliases: ["funeral leave", "death in family"], content: bereavementPolicy },
   { name: "jury duty", aliases: ["jury summons"], content: juryDutyPolicy },
@@ -210,7 +187,6 @@ const allDocuments = [
   { name: "outlook user guide", aliases: ["email setup", "outlook login"], content: outlookUserGuide },
   { name: "goto phone system", aliases: ["phone system setup"], content: gotoUserGuide },
   { name: "it glue user guide", aliases: ["password documentation system"], content: itGlueUserGuide },
-
   { name: "core values employment", content: coreValuesPolicy },
   { name: "operations discipline", content: operationsPolicy },
   { name: "additional leave policies", content: leavePolicy },
@@ -244,7 +220,51 @@ const allDocuments = [
   { name: "imonitt temperature sensors", content: iMonnitUserGuide },
   { name: "heidelberg heyex", content: heyexUserGuide },
   { name: "optoscloud user guide", content: optosCloudUserGuide },
-  { name: "retina screening abbreviations drugs workflows", content: retinaScreeningAbbreviationsGuide }
+  { name: "retina screening abbreviations drugs workflows", content: retinaScreeningAbbreviationsGuide },
+  { name: "acquired vitelliform lesions", aliases: ["vitelliform lesion", "vitelliform maculopathy", "adult onset vitelliform", "yellow macular deposits"], content: acquiredVitelliformLesions },
+  { name: "age related macular degeneration", aliases: ["amd", "macular degeneration", "vision loss macula", "drusen"], content: ageRelatedMacularDegeneration },
+  { name: "dry amd geographic atrophy", aliases: ["dry amd", "geographic atrophy", "ga retina", "reticular drusen"], content: dryAmdGeographicAtrophy },
+  { name: "wet amd macular neovascularization", aliases: ["wet amd", "macular neovascularization", "mnv", "choroidal neovascularization"], content: wetAmdMacularNeovascularization },
+  { name: "branch retinal vein occlusion", aliases: ["brvo", "retinal vein occlusion", "vein blockage retina", "macular edema vein occlusion"], content: branchRetinalVeinOcclusion },
+  { name: "central retinal vein occlusion", aliases: ["crvo", "retinal vein blockage", "vein occlusion retina", "central vein occlusion"], content: centralRetinalVeinOcclusion },
+  { name: "central serous chorioretinopathy", aliases: ["csc", "serous chorioretinopathy", "fluid under retina", "central serous retina"], content: centralSerousChorioretinopathy },
+  { name: "charles bonnet syndrome", aliases: ["cbs", "visual hallucinations vision loss", "hallucinations vision impairment"], content: charlesBonnetSyndrome },
+  { name: "choroidal detachment", aliases: ["choroid detachment", "fluid behind retina", "hemorrhagic choroidal detachment", "serous choroidal detachment"], content: choroidalDetachment },
+  { name: "retinal artery occlusion", aliases: ["crao", "brao", "artery blockage retina", "retinal artery blockage"], content: retinalArteryOcclusion },
+  { name: "choroidal nevus", aliases: ["eye freckle", "choroidal mole", "nevus retina", "pigmented lesion eye"], content: choroidalNevus },
+  { name: "complex retinal detachment", aliases: ["pvr retinal detachment", "proliferative vitreoretinopathy", "giant retinal tear", "complex detachment"], content: complexRetinalDetachment },
+  { name: "congenital x linked retinoschisis", aliases: ["cxlrs", "retinoschisis", "x linked retinoschisis", "retinal layer splitting"], content: congenitalXLinkedRetinoschisis },
+  { name: "diabetic retinopathy", aliases: ["diabetic eye disease", "dme", "proliferative diabetic retinopathy", "diabetes retina damage"], content: diabeticRetinopathy },
+  { name: "endophthalmitis", aliases: ["eye infection after surgery", "intraocular infection", "post surgical eye infection", "hypopyon infection"], content: endophthalmitisGuide },
+  { name: "epiretinal membrane", aliases: ["macular pucker", "cellophane maculopathy", "erm retina", "wrinkled retina"], content: epiretinalMembrane },
+  { name: "familial exudative vitreoretinopathy", aliases: ["fevr", "genetic retinal vascular disease", "retinal vessel development disorder"], content: familialExudativeVitreoretinopathy },
+  { name: "hydroxychloroquine retinal toxicity", aliases: ["plaquenil toxicity", "hcq eye toxicity", "hydroxychloroquine eye damage", "bulls eye maculopathy"], content: hydroxychloroquineRetinalToxicity },
+  { name: "idiopathic juxtafoveal telangiectasis", aliases: ["macular telangiectasia", "mactel", "juxtafoveal telangiectasia", "retinal telangiectasia"], content: idiopathicJuxtafovealTelangiectasis },
+  { name: "infectious retinitis", aliases: ["retinal infection", "viral retinitis", "cmv retinitis", "herpes retinitis", "toxoplasmosis retinitis"], content: infectiousRetinitis },
+  { name: "intraocular lens dislocation", aliases: ["iol dislocation", "dislocated lens implant", "lens implant movement", "iol displacement"], content: intraocularLensDislocation },
+  { name: "intraocular uveal melanoma", aliases: ["uveal melanoma", "ocular melanoma", "eye melanoma", "choroidal melanoma"], content: intraocularUvealMelanoma },
+  { name: "intravitreal injections", aliases: ["eye injections", "anti vegf injection", "avastin injection", "lucentis injection", "eylea injection", "retina injection"], content: intravitrealInjections },
+  { name: "lattice degeneration", aliases: ["retinal lattice", "thin retina lattice", "peripheral retina thinning"], content: latticeDegeneration },
+  { name: "leber congenital amaurosis", aliases: ["lca", "genetic blindness infancy", "rpe65 mutation", "luxturna treatment"], content: leberCongenitalAmaurosis },
+  { name: "macular edema", aliases: ["retina swelling", "fluid in macula", "cystoid macular edema", "macular swelling"], content: macularEdema },
+  { name: "macular hole", aliases: ["hole in macula", "central retinal hole", "vitreous traction macula"], content: macularHole },
+  { name: "persistent fetal vasculature", aliases: ["pfv", "phpv", "persistent hyperplastic primary vitreous", "leukocoria pfv"], content: persistentFetalVasculature },
+  { name: "polypoidal choroidal vasculopathy", aliases: ["pcv", "polypoidal choroid disease", "pcv retina", "pcv eye disease"], content: polypoidalChoroidalVasculopathy },
+  { name: "posterior vitreous detachment", aliases: ["pvd", "vitreous detachment", "eye floaters flashes", "vitreous separating retina"], content: posteriorVitreousDetachment },
+  { name: "presumed ocular histoplasmosis syndrome", aliases: ["pohs", "ocular histoplasmosis", "histo spots retina", "histoplasmosis eye disease"], content: presumedOcularHistoplasmosisSyndrome },
+  { name: "retained lens fragments", aliases: ["lens fragments after cataract surgery", "retained cataract fragments", "lens material vitreous", "post cataract retained lens"], content: retainedLensFragments },
+  { name: "retinal detachment", aliases: ["detached retina", "retina separation", "curtain vision retina", "flashes floaters retinal detachment"], content: retinalDetachment },
+  { name: "retinal tears", aliases: ["retina tear", "retinal hole", "flashes and floaters tear", "vitreous traction tear"], content: retinalTears },
+  { name: "retinitis pigmentosa", aliases: ["rp", "retinal degeneration genetic", "tunnel vision disease", "rod cone dystrophy"], content: retinitisPigmentosa },
+  { name: "retinoblastoma", aliases: ["retina cancer", "eye cancer child", "pediatric retinal tumor", "white pupil cancer"], content: retinoblastoma },
+  { name: "retinopathy of prematurity", aliases: ["rop", "premature baby retina disease", "premature infant retina", "retinopathy premature infant"], content: retinopathyOfPrematurity },
+  { name: "river blindness onchocerciasis", aliases: ["river blindness", "onchocerciasis", "blackfly parasite eye disease", "parasitic eye infection"], content: riverBlindnessOnchocerciasis },
+  { name: "sickle cell retinopathy", aliases: ["sickle cell eye disease", "sickle retinopathy", "sea fan vessels retina", "sickle cell retina"], content: sickleCellRetinopathy },
+  { name: "vitrectomy", aliases: ["vitrectomy surgery", "vitreous surgery", "pars plana vitrectomy", "vitreous removal surgery"], content: vitrectomy },
+  { name: "retina glossary", aliases: ["retina terms", "eye glossary", "retina definitions", "medical eye terms"], content: retinaGlossary },
+  { name: "retina health overview", aliases: ["how retina works", "how we see", "what is retina", "retina health information", "dilated eye exam"], content: retinaHealthOverview },
+  { name: "vitrectomy for floaters", aliases: ["floater surgery", "remove floaters surgery", "vitrectomy floaters treatment"], content: vitrectomyForFloaters },
+  { name: "vitreomacular traction syndrome", aliases: ["vmt", "vitreomacular traction", "macula traction", "vitreous pulling macula"], content: vitreomacularTractionSyndrome },
 ];
 
 /* ============================
@@ -299,7 +319,7 @@ function scoreDocuments(question) {
   }
 
   scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, 5);
+  return scored.slice(0, 10);
 }
 
 /* ============================

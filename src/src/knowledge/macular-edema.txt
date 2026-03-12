@@ -1,0 +1,93 @@
+TITLE: Macular Edema
+
+OVERVIEW
+Macular edema refers to swelling of the macula caused by accumulation of fluid within the retinal layers. The macula is the central portion of the retina responsible for detailed vision, color vision, and the ability to see fine detail.
+
+When fluid builds up within the macula, the retinal tissue swells and distorts images, leading to blurred or distorted vision. If left untreated, chronic macular edema can lead to permanent damage to the macula and vision loss. :contentReference[oaicite:0]{index=0}
+
+SYMPTOMS
+Common symptoms of macular edema include:
+
+- Blurred vision
+- Distorted vision (metamorphopsia)
+- Difficulty reading
+- Central blind spots (scotomas)
+
+The severity of symptoms often depends on how much swelling is present and whether the central macula (the fovea) is affected.
+
+CAUSES
+Macular edema is not a disease itself but a **result of other retinal conditions**. It occurs when retinal blood vessels leak fluid into the macula.
+
+Common causes include:
+
+- Diabetes (diabetic retinopathy)
+- Retinal vein occlusion
+- Age-related macular degeneration
+- Inflammatory eye diseases
+- Traction on the macula
+- Retinal tumors
+- Eye trauma
+- Complications after eye surgery
+- Toxic reactions to medications
+- Genetic retinal diseases
+
+In many cases, macular edema develops because damaged or abnormal blood vessels leak fluid into the retina.
+
+DIAGNOSTIC TESTING
+Two primary tests are used to diagnose and evaluate macular edema:
+
+Fluorescein Angiography (FA)
+This imaging test involves injecting a fluorescent dye into a vein in the arm. The dye travels through the retinal blood vessels, allowing doctors to detect leaking blood vessels and abnormal circulation.
+
+Optical Coherence Tomography (OCT)
+OCT uses light waves to produce detailed cross-section images of the retina. This test helps visualize swelling, cyst-like spaces within the retina, and involvement of the central macula.
+
+These tests allow retina specialists to determine the severity and pattern of macular swelling.
+
+TREATMENT
+Treatment focuses on both **reducing retinal swelling** and **addressing the underlying cause**.
+
+Common treatments include:
+
+Intravitreal injections  
+Anti-VEGF medications such as ranibizumab (Lucentis®), aflibercept (Eylea®), and bevacizumab (Avastin®) help reduce abnormal blood vessel leakage.
+
+Steroid injections  
+Medications such as dexamethasone (Ozurdex®) may reduce inflammation and swelling.
+
+Laser therapy  
+Laser treatment may be used to seal leaking blood vessels in certain conditions.
+
+Surgery  
+In some cases, surgical procedures may be required if traction or structural abnormalities are contributing to the swelling.
+
+Intravitreal injections are currently one of the most common and effective treatments for macular edema.
+
+PROGNOSIS
+The visual outcome depends on several factors including:
+
+- The underlying cause
+- How long the swelling has been present
+- The severity of retinal damage
+- Overall eye health
+
+Many cases of macular edema can be successfully treated, particularly when detected early.
+
+Advances in retinal therapies have significantly improved the ability to preserve and restore vision in patients with macular edema.
+
+CLINICAL TERMS
+
+Macula  
+The central portion of the retina responsible for detailed vision and color perception.
+
+Fovea  
+The center of the macula that provides the sharpest vision.
+
+Metamorphopsia  
+Visual distortion in which straight lines appear wavy.
+
+Scotoma  
+A blind or dark spot in the visual field.
+
+Neovascularization  
+Growth of abnormal blood vessels, often associated with retinal disease.

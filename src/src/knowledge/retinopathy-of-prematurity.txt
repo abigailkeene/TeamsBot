@@ -1,0 +1,65 @@
+TITLE: Retinopathy of Prematurity (ROP)
+
+OVERVIEW
+Retinopathy of prematurity (ROP) is an eye condition that affects premature infants with low birth weight and early gestational age. The disease occurs when the normal development of blood vessels in the retina is interrupted by premature birth. In severe cases, abnormal blood vessel growth and scar tissue can form, which may lead to retinal detachment and vision loss. :contentReference[oaicite:0]{index=0}
+
+ROP remains a significant cause of childhood vision impairment. In the United States, approximately 1,300 children experience visual loss from ROP each year, and another 500 develop severe visual impairment.
+
+CAUSES
+Normally, retinal blood vessels develop during the final weeks of pregnancy. When a baby is born prematurely, this development is interrupted. Abnormal blood vessel growth may occur as the retina continues to develop outside the womb.
+
+Early studies suggested oxygen therapy contributed to ROP development. While oxygen exposure can influence the disease, it is no longer considered the sole or primary cause. Modern neonatal care carefully monitors oxygen levels to reduce risk. :contentReference[oaicite:1]{index=1}
+
+RISK FACTORS
+ROP primarily affects the smallest and most medically fragile premature infants.
+
+Major risk factors include:
+
+- Premature birth
+- Low birth weight (especially under 1500 grams or 3.3 pounds)
+- Gestational age of 30 weeks or less
+- Multiple births (twins, triplets, etc.)
+- Respiratory or intestinal complications
+- Infections in the newborn period
+
+SYMPTOMS
+In many cases, mild ROP resolves on its own without affecting vision. Approximately 85–90% of mild cases improve without treatment.
+
+If the disease progresses, symptoms may include:
+
+- Poor visual response to light
+- White scar tissue visible in the pupil
+- Involuntary eye movements (nystagmus)
+- Vision loss or blindness in severe cases :contentReference[oaicite:2]{index=2}
+
+DIAGNOSIS
+Infants at risk for ROP are screened through specialized eye examinations.
+
+Screening typically includes:
+
+- Eye examinations performed at the bedside by a specialist
+- Retinal imaging using digital photographs of the retina
+- Ongoing monitoring to track retinal blood vessel development
+
+Infants with birth weight under 1500 grams or gestational age under 30 weeks are routinely screened, along with higher-risk infants identified by neonatologists.
+
+TREATMENT
+Treatment is recommended when ROP progresses to more advanced stages.
+
+Common treatments include:
+
+Laser Therapy  
+Laser burns are applied to areas of the retina without normal blood vessel growth. This helps prevent abnormal vessels from developing and reduces the risk of retinal detachment.
+
+Anti-VEGF Injections  
+Medications such as bevacizumab (Avastin®) or ranibizumab (Lucentis®) may be injected into the eye to suppress abnormal blood vessel growth.
+
+Laser therapy remains the most commonly used treatment because of its proven effectiveness and long-term safety.
+
+SURGERY
+If retinal detachment develops despite treatment, surgery may be required to attempt to reattach the retina and preserve vision.
+
+PROGNOSIS
+Early screening and timely treatment significantly reduce the risk of severe vision loss. Laser therapy prevents retinal detachment in about 90% of treated eyes.
+
+However, ROP can still lead to long-term visual complications in some children, including reduced vision or blindness. Continued follow-up is important for children diagnosed with ROP to monitor visual development and eye health.

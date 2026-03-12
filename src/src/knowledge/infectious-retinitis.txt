@@ -1,0 +1,121 @@
+TITLE: Infectious Retinitis
+
+OVERVIEW
+Infectious retinitis is inflammation of the retina caused by infection from viruses, bacteria, fungi, or parasites. The condition can affect patients differently depending on age, geographic location, and immune system status.
+
+Treatment is focused on eliminating the infection, preventing permanent vision loss, and protecting the other eye. :contentReference[oaicite:0]{index=0}
+
+SYMPTOMS
+Some patients with infectious retinitis experience noticeable symptoms, while others may have no symptoms at the time of diagnosis.
+
+Common symptoms include:
+
+- Floaters in the vision
+- Blurred or decreased vision
+- Visual distortion
+- Sensitivity to light
+- Red or painful eyes
+- Inflammatory haze inside the eye
+
+Floaters may result from inflammatory cells, bleeding, or retinal damage. Symptoms may appear suddenly or gradually worsen over time.
+
+Children with congenital infections (infections acquired during pregnancy or birth) may develop additional signs such as:
+
+- Misaligned eyes (strabismus)
+- Involuntary eye movements
+- Leukocoria (an abnormal white reflection from the pupil)
+
+Some patients may also experience systemic symptoms such as fever, chills, or unintended weight loss.
+
+CAUSES
+Many different microorganisms can cause infectious retinitis.
+
+Common viral causes include:
+
+- Herpes simplex virus (HSV)
+- Herpes zoster virus (HZV)
+
+These viruses may cause severe retinal diseases such as acute retinal necrosis (ARN) or progressive outer retinal necrosis (PORN).
+
+Cytomegalovirus (CMV) can also cause retinitis, particularly in patients with weakened immune systems.
+
+Other infectious causes include:
+
+Bacterial infections
+- Bartonella species (associated with cat-scratch disease)
+- Borrelia burgdorferi (Lyme disease)
+- Treponema pallidum (syphilis)
+- Mycobacterium species (tuberculosis)
+
+Fungal infections
+- Candida species
+- Aspergillus species
+
+Parasitic infections
+- Toxoplasmosis
+- Toxocariasis
+- Diffuse unilateral subacute neuroretinitis (DUSN)
+
+Some infections originate elsewhere in the body and spread to the eye through the bloodstream. These are known as endogenous infections.
+
+RISK FACTORS
+Several factors increase the risk of infectious retinitis:
+
+- Active maternal infection during pregnancy or childbirth
+- Travel or exposure to endemic infectious areas
+- Weakened immune system
+
+A compromised immune system may occur due to:
+
+- HIV/AIDS
+- Cancer
+- Autoimmune disease
+- Organ transplantation
+- Immunosuppressive medications such as steroids
+
+Infections elsewhere in the body—such as heart valve infections, gastrointestinal infections, or urinary tract infections—may also spread to the eye.
+
+DIAGNOSTIC TESTING
+To identify the specific cause of infectious retinitis, several tests may be performed:
+
+- Analysis of intraocular fluid samples
+- Blood tests
+- Cerebrospinal fluid (CSF) analysis
+- Retinal imaging studies
+
+These tests help determine the exact pathogen responsible for the infection.
+
+TREATMENT
+Treatment depends on the organism causing the infection.
+
+Options may include:
+
+- Antiviral medications
+- Antibiotics
+- Antifungal medications
+- Antiparasitic medications
+
+Some treatments are delivered directly into the eye through injections, while others may be given orally or intravenously.
+
+Laser therapy or surgical procedures may be necessary in certain cases.
+
+PROGNOSIS
+Visual outcomes vary depending on the severity of infection and which areas of the retina are affected.
+
+Some infections, such as toxoplasmosis, may resolve on their own with observation. Others, particularly herpetic viral infections, are more severe and can lead to complications such as retinal detachment.
+
+Early diagnosis and treatment are essential to preserve vision and reduce complications.
+
+CLINICAL TERMS
+
+Retinitis
+Inflammation of the retina caused by infection or other disease processes.
+
+Leukocoria
+A white reflection seen in the pupil, sometimes associated with retinal disease.
+
+Acute Retinal Necrosis (ARN)
+A severe viral infection of the retina caused by herpes viruses.
+
+Endogenous Infection
+An infection that spreads to the eye from another part of the body through the bloodstream.

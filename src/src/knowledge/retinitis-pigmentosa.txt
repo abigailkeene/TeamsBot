@@ -1,0 +1,69 @@
+TITLE: Retinitis Pigmentosa and Retinal Prosthesis
+
+OVERVIEW
+Retinitis pigmentosa (RP) refers to a group of inherited retinal diseases that cause progressive degeneration of the retina and vision loss. The retina is the light-sensitive tissue lining the back of the eye that captures images and sends signals to the brain through the optic nerve. In RP, the photoreceptor cells of the retina gradually deteriorate and die, leading to worsening vision over time. :contentReference[oaicite:0]{index=0}
+
+SYMPTOMS
+One of the earliest symptoms of retinitis pigmentosa is night blindness, caused by the degeneration of rod photoreceptors that function in low-light conditions.
+
+As the disease progresses, patients may experience:
+
+- Difficulty seeing in dim light or at night
+- Progressive loss of peripheral (side) vision
+- Tunnel vision, where only a small central field of vision remains
+- Loss of color perception
+- Loss of central vision in later stages
+
+RP is often diagnosed during adolescence or early adulthood, though the rate of progression and severity vary widely between individuals. Many patients eventually become legally blind by middle age due to severe narrowing of the visual field. :contentReference[oaicite:1]{index=1}
+
+CAUSES
+Retinitis pigmentosa is caused by genetic mutations that affect proteins essential for normal photoreceptor function. More than 100 different gene mutations have been associated with RP.
+
+These mutations can cause:
+
+- Defective proteins in photoreceptor cells
+- Abnormal functioning of retinal cells
+- Progressive degeneration and death of photoreceptors
+
+RP can be inherited from parents or can occur due to genetic mutations that develop early in life before birth.
+
+DIAGNOSIS
+Diagnosis of retinitis pigmentosa involves documenting progressive retinal degeneration and loss of peripheral vision.
+
+Common diagnostic methods include:
+
+Visual Field Testing  
+Tests such as visual field perimetry measure loss of peripheral vision.
+
+Retinal Examination  
+Eye examination may reveal pigment deposits in the retina known as “bone spicules,” a classic finding in RP.
+
+Optical Coherence Tomography (OCT)  
+Imaging that can reveal thinning of the retina.
+
+Electroretinography (ERG)  
+A diagnostic test that measures the electrical responses of retinal photoreceptors to light stimulation.
+
+Genetic Testing  
+Genetic analysis may help determine the specific mutation responsible and evaluate the risk of inheritance.
+
+TREATMENT
+Currently, there is no cure for retinitis pigmentosa. However, several experimental approaches are being investigated to slow disease progression or restore vision.
+
+Potential approaches include:
+
+Gene Therapy  
+Gene therapy aims to correct or replace defective genes responsible for RP.
+
+Photoreceptor Transplantation  
+Researchers are studying transplantation of photoreceptor cells, although this method has not yet demonstrated clear clinical benefit.
+
+Retinal Prosthesis (Artificial Vision)  
+Retinal prostheses use microelectronic devices to convert light into electrical signals that stimulate the retina or visual pathways. One example is the ARGUS II retinal implant, which functioned as a “bionic eye” by converting camera images into signals sent to the brain. Although the device is no longer commercially available, research continues to improve artificial vision technologies. :contentReference[oaicite:2]{index=2}
+
+Other experimental technologies involve cameras mounted on glasses that transmit signals directly to electrodes connected to the visual cortex of the brain.
+
+PROGNOSIS
+Retinitis pigmentosa progresses gradually over many years. While complete blindness is uncommon, many patients develop severe visual impairment due to tunnel vision and loss of central vision.
+
+Advances in gene therapy, retinal prostheses, and neurotechnology continue to provide hope for future treatments that may restore vision in patients with advanced retinal degeneration.

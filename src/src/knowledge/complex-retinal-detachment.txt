@@ -1,0 +1,122 @@
+TITLE: Complex Retinal Detachment (Proliferative Vitreoretinopathy and Giant Retinal Tears)
+
+OVERVIEW
+Complex retinal detachment refers to retinal detachment that occurs in association with proliferative vitreoretinopathy (PVR) or giant retinal tears.
+
+Proliferative vitreoretinopathy is a condition in which scar tissue or membranes form on the surface of the retina. These membranes contract and pull on the retina, leading to retinal tears, retinal folds, and worsening detachment.
+
+A giant retinal tear is defined as a retinal tear that involves at least 25% of the retina.
+
+When PVR or a giant retinal tear is present, the retinal detachment is considered complex and typically requires specialized surgical repair.
+
+CAUSES
+Complex retinal detachments caused by PVR occur when scar tissue develops on the retinal surface. As this scar tissue contracts, it pulls and stretches the retina, which can create tears or holes.
+
+Fluid from the vitreous gel may pass through these tears, accumulating beneath the retina and causing detachment.
+
+PVR most commonly develops after prior retinal detachment surgery and is the most common reason that retinal detachment surgery fails.
+
+PVR occurs in approximately 5% to 10% of all retinal detachments.
+
+Retinal detachments caused by giant retinal tears are less common but are also considered complex due to the large area of retinal involvement.
+
+SYMPTOMS
+Symptoms of complex retinal detachment often resemble those of other retinal detachments.
+
+Common symptoms include:
+
+- Floaters (mobile shadows in vision)
+- Flashes of light
+- Loss of peripheral (side) vision
+- Blurred or decreased vision
+
+When fluid accumulates beneath the retina, it can lead to progressive loss of vision.
+
+If the detachment reaches the macula, the center of the retina responsible for detailed vision, central vision loss may occur.
+
+Some individuals may experience minimal or no symptoms, especially:
+
+- Younger patients
+- Patients whose macula is not involved
+- Cases where the detachment progresses slowly
+
+RISK FACTORS
+Several risk factors increase the likelihood of developing proliferative vitreoretinopathy and complex retinal detachment:
+
+- Large retinal tears
+- Multiple retinal tears
+- Giant retinal tears
+- Vitreous hemorrhage (bleeding into the vitreous gel)
+- Choroidal detachment
+- Eye trauma or injury
+- Multiple previous retinal surgeries
+
+DIAGNOSTIC TESTING
+
+Eye Examination
+A retina specialist typically diagnoses retinal detachment using an indirect ophthalmoscope while applying gentle pressure to the eye (scleral depression).
+
+Ultrasound Imaging
+If the retina cannot be clearly visualized due to blood or cataracts, B-scan ultrasound can be used to determine the location and extent of the retinal detachment.
+
+Optical Coherence Tomography (OCT)
+OCT imaging may be used to detect fluid beneath the retina and determine whether the macula is involved.
+
+TREATMENT
+Surgery is the primary treatment for complex retinal detachment.
+
+Surgical options may include:
+
+Pars Plana Vitrectomy
+Removal of the vitreous gel to allow better access to the retina and removal of scar tissue.
+
+Membrane Peeling
+Removal of scar tissue that is pulling on the retina.
+
+Scleral Buckle
+Placement of a silicone band around the eye to support the retina and reduce traction.
+
+Additional surgical techniques may include:
+
+- Retinectomy (removal of a portion of retinal tissue)
+- Use of perfluorocarbon liquids to help reposition the retina
+- Laser treatment to seal retinal tears
+
+At the end of surgery, a long-acting gas bubble or silicone oil is often placed in the eye to hold the retina in position while it heals.
+
+PROGNOSIS
+Complex retinal detachments are more difficult to treat than typical retinal detachments.
+
+Despite advances in surgical techniques, visual recovery depends on several factors including:
+
+- Duration of the detachment
+- Involvement of the macula
+- Severity of scar tissue formation
+
+Research is ongoing to identify medical therapies that may help prevent or treat proliferative vitreoretinopathy.
+
+CLINICAL TERMS
+
+Proliferative Vitreoretinopathy (PVR)
+A condition where scar tissue forms on the retina, causing traction and retinal detachment.
+
+Giant Retinal Tear
+A large retinal tear involving at least one-quarter of the retina.
+
+Vitrectomy
+Surgical removal of the vitreous gel inside the eye to allow retinal repair.
+
+Scleral Buckle
+A silicone band placed around the eye to support the retina during repair of retinal detachment.
+
+Retinectomy
+A surgical procedure that removes a portion of the retina to relieve traction from scar tissue.
+
+Perfluorocarbon Liquid
+A heavy liquid used during retinal surgery to help reposition the retina.
+
+B-scan Ultrasound
+An imaging technique that uses sound waves to visualize structures inside the eye.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging test that produces cross-sectional images of the retina.

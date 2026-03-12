@@ -1,0 +1,176 @@
+TITLE: Age-Related Macular Degeneration (AMD)
+
+OVERVIEW
+Age-related macular degeneration (AMD) is a deterioration of the retina and the choroid that leads to significant loss of visual acuity (sharpness of vision). AMD is the leading cause of vision loss in people over age 50 in developed countries.
+
+AMD develops as the eye ages. The exact cause is unknown.
+
+There are two main types of AMD:
+- Dry AMD (non-neovascular)
+- Wet AMD (neovascular)
+
+RETINA BACKGROUND
+The retina is a thin layer of light-sensitive nerve tissue lining the back of the eye.
+
+When light enters the eye:
+- Light passes through the iris
+- Images are focused on the retina
+- The retina converts images into electrical signals
+- Signals travel through the optic nerve to the brain
+- The brain interprets these signals as vision
+
+DRY AMD
+Dry AMD is the more common form.
+
+Early stages are characterized by drusen, which are pale yellow deposits that form beneath the retina.
+
+Important features:
+- Drusen are usually harmless initially
+- As drusen accumulate, dry AMD may progress
+- Areas of retinal atrophy may develop
+
+If the atrophic area becomes significant with well-defined borders, it is called geographic atrophy (GA).
+
+Geographic atrophy is the advanced form of dry AMD and may cause loss of central vision.
+
+WET AMD
+Wet AMD occurs when abnormal blood vessels grow beneath the retina.
+
+This process is called choroidal neovascularization (CNV).
+
+These abnormal vessels can:
+- Leak fluid
+- Bleed
+- Distort the structure of the retina
+
+Over time, CNV may lead to formation of a disciform scar, which replaces normal retinal tissue and causes permanent loss of central vision.
+
+SYMPTOMS
+Early AMD may not produce symptoms.
+
+As AMD progresses, symptoms may include:
+- Distortion or warping of straight lines
+- Decreased brightness or intensity of colors
+- Gradual or sudden loss of central vision
+- Dark or blurry areas in the center of vision
+
+RISK FACTORS
+Major risk factors include:
+- Increasing age
+- Family history of AMD
+- Caucasian race
+- Cigarette smoking
+
+Possible contributing factors:
+- Female gender
+- High cholesterol
+- Lower level of education
+- Sunlight exposure
+- Light iris color
+- Low dietary fish intake
+- Farsightedness
+- Higher body mass index (BMI)
+- Cardiovascular disease
+- High blood pressure
+- Diet low in lutein, zeaxanthin, or antioxidants
+
+DIAGNOSTIC TESTING
+AMD is diagnosed through clinical examination and retinal imaging.
+
+Common diagnostic tests include:
+- Fluorescein angiography (FA)
+- Indocyanine green angiography (ICGA)
+- Optical coherence tomography (OCT)
+- Optical coherence tomography angiography (OCTA)
+
+These tests allow doctors to detect abnormalities in the retina and classify AMD as dry or wet.
+
+TREATMENT AND PROGNOSIS
+
+Anti-VEGF Therapy
+Treatment for wet AMD has improved significantly with the development of anti-VEGF medications.
+
+VEGF is a protein that stimulates the growth of abnormal blood vessels in the eye.
+
+Anti-VEGF medications block this process and help preserve vision.
+
+Common anti-VEGF medications include:
+- Avastin (bevacizumab)
+- Lucentis (ranibizumab)
+- Eylea (aflibercept)
+- Beovu (brolucizumab)
+- Vabysmo (faricimab)
+
+These medications are delivered through intravitreal injections into the eye.
+
+Local anesthetic drops are used before the injection to minimize discomfort.
+
+TREATMENT STRATEGIES
+Three treatment approaches are commonly used:
+
+1. PRN (Treat and Observe)
+Patients receive three monthly injections initially, then additional treatment only when needed.
+
+2. Treat and Extend
+After three monthly injections, the time between treatments is gradually extended if the disease remains stable.
+
+3. Monthly Injections
+Some patients require continuous monthly injections to control the disease.
+
+OTHER TREATMENTS
+Before anti-VEGF therapy, treatments included:
+- Laser photocoagulation
+- Photodynamic therapy (PDT)
+
+New treatments for geographic atrophy (advanced dry AMD) include:
+- Syfovre (pegcetacoplan)
+- Izervay (avacincaptad pegol)
+
+These medications may slow progression of vision loss and are administered as eye injections every one to two months.
+
+AREDS-2 SUPPLEMENTS
+The Age-Related Eye Disease Studies (AREDS) found that certain nutritional supplements may slow progression of intermediate dry AMD.
+
+The AREDS-2 supplement formula includes:
+- Vitamin C
+- Vitamin E
+- Zinc
+- Lutein
+- Zeaxanthin
+
+These supplements are widely available over the counter.
+
+PROGNOSIS
+Although AMD can cause progressive loss of central vision, patients almost never become completely blind because peripheral vision usually remains intact.
+
+CLINICAL TERMS
+
+Choroid
+The layer of blood vessels between the retina and the sclera that supplies nutrients to the eye.
+
+Choroidal Neovascularization (CNV)
+Growth of abnormal blood vessels beneath the retina and macula that disrupt vision.
+
+Disciform Scar
+Scar tissue that forms in the macula due to bleeding or leakage from abnormal blood vessels.
+
+Fluorescein Angiography (FA)
+An imaging technique where dye is injected into a vein to photograph circulation in the retina and choroid.
+
+Indocyanine Green Angiography (ICGA)
+A diagnostic test using green dye to visualize blood flow in the choroid.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that produces cross-sectional images of the retina.
+
+Optical Coherence Tomography Angiography (OCTA)
+A non-invasive imaging method that visualizes blood vessels in the retina and choroid.
+
+Laser Photocoagulation
+A laser treatment used to seal abnormal blood vessels.
+
+Photodynamic Therapy (PDT)
+A treatment that uses a light-activated drug and laser to target abnormal blood vessels in the retina.
+
+Slit Lamp
+A microscope with a bright light used by eye doctors to examine structures of the eye.

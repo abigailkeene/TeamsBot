@@ -1,0 +1,94 @@
+TITLE: Macular Hole
+
+OVERVIEW
+A macular hole is a full-thickness defect in the macula, the central area of the retina responsible for detailed central vision used for tasks such as reading, driving, and recognizing faces. When a hole forms in this part of the retina, it disrupts the ability of the eye to process fine visual details. :contentReference[oaicite:0]{index=0}
+
+Macular holes most commonly occur in people over the age of 55 and are more frequently seen in women. In most cases, macular holes develop spontaneously without an identifiable cause. If a macular hole occurs in one eye, there is approximately a 5% to 15% chance it may develop in the other eye as well. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+The most common symptom of a macular hole is a gradual decline in central vision. Symptoms may include:
+
+- Blurred central vision
+- Distortion of straight lines (metamorphopsia)
+- A dark or missing spot in the center of vision
+- Difficulty reading or performing tasks requiring detailed vision
+
+The severity of vision loss depends on the size, location, and stage of the macular hole.
+
+CAUSES AND RISK FACTORS
+Macular holes are often related to changes in the vitreous gel inside the eye. The vitreous normally fills the interior of the eye and is attached to the retina.
+
+With aging, the vitreous can shrink and pull away from the retina. In some cases, this traction pulls strongly on the macula and creates a hole.
+
+Other risk factors include:
+
+- Vitreous traction on the macula
+- Blunt trauma to the eye
+- Diabetic eye disease
+- High myopia (severe nearsightedness)
+- Macular pucker (scar tissue on the macula)
+- Retinal detachment
+
+Genetics, environmental factors, and systemic diseases generally do not appear to play a significant role in the development of macular holes.
+
+DIAGNOSIS
+Macular holes are commonly diagnosed using Optical Coherence Tomography (OCT). This non-invasive imaging technique uses reflected light to produce high-resolution cross-sectional images of the retina.
+
+OCT allows retina specialists to:
+
+- Confirm the presence of a macular hole
+- Determine its size and stage
+- Monitor progression over time
+- Differentiate it from other conditions with similar symptoms
+
+Laboratory testing is generally not required for idiopathic macular holes.
+
+TREATMENT
+The most common treatment for a macular hole is a surgical procedure called a vitrectomy.
+
+During a vitrectomy:
+
+- The vitreous gel is removed to eliminate traction on the retina
+- A gas bubble is placed inside the eye to help close the hole
+- The patient may need to maintain a face-down position for several days to allow proper healing
+
+Vitrectomy surgery has a success rate greater than 90%, and many patients regain some or most of their lost vision.
+
+Possible complications include:
+
+- Cataract formation
+- Retinal detachment
+- Infection
+- Glaucoma
+- Reopening of the macular hole (less than 10% of cases)
+
+In some patients, an injectable medication called ocriplasmin (Jetrea®) may be used to relieve vitreous traction.
+
+If a macular hole is small and does not significantly affect vision, a retina specialist may choose to monitor the condition with regular examinations instead of immediate treatment.
+
+PROGNOSIS
+Many patients experience improved vision after treatment, particularly when the condition is diagnosed early and treated promptly. The visual outcome depends on:
+
+- The size and stage of the macular hole
+- The duration of the hole before treatment
+- Overall health of the retina
+- Response to treatment
+
+Early diagnosis and treatment significantly improve the likelihood of successful vision recovery.
+
+CLINICAL TERMS
+
+Macula  
+The central region of the retina responsible for detailed and color vision.
+
+Vitreous  
+The gel-like substance that fills the interior of the eye.
+
+Vitrectomy  
+A surgical procedure that removes the vitreous gel to treat retinal conditions.
+
+Metamorphopsia  
+Visual distortion in which straight lines appear wavy.
+
+Retinal Detachment  
+A condition where the retina separates from the back wall of the eye.

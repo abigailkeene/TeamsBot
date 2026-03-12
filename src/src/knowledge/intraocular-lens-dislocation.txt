@@ -1,0 +1,94 @@
+TITLE: Intraocular Lens (IOL) Dislocation
+
+OVERVIEW
+Intraocular lens (IOL) dislocation is a rare complication that can occur after cataract surgery. During cataract surgery, the cloudy natural lens of the eye is removed and replaced with a clear artificial lens called an intraocular lens.
+
+Although cataract surgery is one of the most common and successful surgical procedures performed today, complications can occasionally occur. One such complication is IOL dislocation, where the artificial lens moves out of its normal position within the eye. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+During most cataract surgeries, the artificial lens is placed within the capsular bag, a thin membrane that previously held the natural lens.
+
+In some cases, the capsular bag or the fibers that support it may weaken or rupture. When this support structure becomes unstable, the intraocular lens may shift or become dislocated.
+
+IOL dislocation can occur shortly after surgery or even many years later. Causes may include complications during the original surgery, trauma to the eye, or underlying eye conditions that affect lens stability.
+
+RISK FACTORS
+Several factors increase the likelihood of intraocular lens dislocation:
+
+- Eye trauma
+- Previous vitreoretinal surgery
+- Pseudoexfoliation syndrome (a condition that weakens structures supporting the lens)
+- Connective tissue disorders
+- Inflammation inside the eye (uveitis)
+
+These conditions can weaken the support structures that hold the intraocular lens in place.
+
+SYMPTOMS
+The most common symptom of IOL dislocation is a noticeable change in vision.
+
+Symptoms may include:
+
+- Blurred vision
+- Double vision
+- Seeing the edge of the lens implant
+- Distorted or fluctuating vision
+
+The severity of symptoms depends on the extent of the lens displacement.
+
+In some cases, additional complications may occur, including:
+
+- Retinal detachment
+- Bleeding inside the eye
+- Intraocular inflammation
+- Macular edema (swelling of the central retina)
+- Glaucoma
+- Corneal edema
+
+DIAGNOSTIC TESTING
+Diagnosis typically involves a detailed eye examination performed by a retina specialist.
+
+Tests may include:
+
+- Dilated retinal examination
+- Photographic documentation of the dislocated lens
+- Ocular ultrasound if the retina cannot be clearly visualized
+
+These tests help determine the position of the lens and identify any associated complications.
+
+TREATMENT
+Treatment depends on how severely the lens has shifted and whether it is affecting vision.
+
+Observation
+If the dislocation is minor and vision remains stable, treatment may not be necessary.
+
+Surgical Repair
+If the dislocation causes significant vision problems, surgery is typically required.
+
+A procedure called vitrectomy is often performed to remove the vitreous gel and allow safe manipulation of the intraocular lens.
+
+Two surgical strategies may be used:
+
+IOL Repositioning
+The existing intraocular lens is repositioned and secured in a stable location.
+
+IOL Exchange
+The dislocated lens is removed and replaced with a new intraocular lens.
+
+PROGNOSIS
+When treated appropriately, most patients with intraocular lens dislocation experience good visual outcomes.
+
+As with any surgery, complications are possible and may include retinal detachment, inflammation (uveitis), infection, glaucoma, bleeding, or recurrence of lens dislocation.
+
+CLINICAL TERMS
+
+Cataract
+A clouding of the eye’s natural lens that causes decreased vision.
+
+Capsular Bag
+The thin membrane inside the eye that originally holds the natural lens and supports the artificial lens after cataract surgery.
+
+Pseudoexfoliation Syndrome
+An age-related condition in which abnormal protein deposits weaken structures inside the eye.
+
+Vitrectomy
+A surgical procedure that removes the vitreous gel from the eye to allow access to the retina and other structures.

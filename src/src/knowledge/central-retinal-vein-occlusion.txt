@@ -1,0 +1,131 @@
+TITLE: Central Retinal Vein Occlusion (CRVO)
+
+OVERVIEW
+Central retinal vein occlusion (CRVO) occurs when the main vein that drains blood from the retina becomes partially or completely blocked. This blockage prevents normal blood flow and can lead to blurred vision and other eye complications.
+
+CRVO typically affects only one eye. The condition results from a blood clot or reduced blood flow in the central retinal vein.
+
+CAUSES AND RISK FACTORS
+The exact cause of CRVO is not always known. However, several health conditions can increase the risk of developing blood clots that may lead to CRVO.
+
+Common risk factors include:
+- High blood pressure
+- Diabetes
+- Cardiovascular disease
+- Conditions that increase blood clotting
+
+In most cases involving one eye, doctors recommend evaluation by a primary care physician to check for conditions such as diabetes or hypertension.
+
+When CRVO occurs in both eyes at the same time, systemic disease or abnormal blood clotting disorders may be present. In these situations, medical testing for hypercoagulable states may be recommended.
+
+DIAGNOSTIC TESTING
+CRVO is usually diagnosed through clinical examination by a retina specialist.
+
+During examination, the retina often shows a characteristic pattern of retinal hemorrhages (bleeding).
+
+Other conditions that may appear similar to CRVO include:
+- Diabetic retinopathy
+- Retinopathy related to low blood counts such as anemia
+- Thrombocytopenia (low platelet levels)
+
+Optical Coherence Tomography (OCT)
+OCT imaging is frequently used to detect and measure swelling in the retina known as macular edema.
+
+Fluorescein Angiography (FA)
+This imaging test may be used to evaluate blood flow in the retina and detect abnormal blood vessel growth.
+
+SYMPTOMS
+Symptoms of CRVO vary depending on severity.
+
+Mild CRVO may show no symptoms.
+
+Common symptoms include:
+- Blurry or distorted vision
+- Visual disturbances caused by swelling in the macula
+- Temporary visual dimming or fluctuating vision
+
+In severe cases, secondary complications such as glaucoma may occur, producing:
+- Eye pain
+- Redness
+- Irritation
+
+MACULAR EDEMA
+Swelling of the central retina (macula) is common in CRVO and is a major cause of vision loss.
+
+OCT imaging helps measure the amount of swelling and monitor treatment response.
+
+TREATMENT AND PROGNOSIS
+
+Anti-VEGF Therapy
+CRVO often causes increased levels of vascular endothelial growth factor (VEGF), which leads to swelling and abnormal blood vessel growth.
+
+Treatment typically involves periodic injections of anti-VEGF medications into the eye.
+
+Common anti-VEGF drugs include:
+- Avastin (bevacizumab)
+- Lucentis (ranibizumab)
+- Eylea (aflibercept)
+
+These medications reduce swelling and abnormal blood vessel growth, but they are not a cure. Repeated injections are often required over months or years.
+
+Steroid Treatment
+Macular edema may also be treated with steroid injections.
+
+Options include:
+- Triamcinolone injections
+- Dexamethasone implant (Ozurdex)
+
+Steroid treatments can last several months but may increase eye pressure or accelerate cataract formation.
+
+TYPES OF CRVO
+
+Non-Ischemic CRVO
+This is the milder form of CRVO. It is characterized by leaky retinal blood vessels and macular edema.
+
+Ischemic CRVO
+This is the more severe form. It involves closure of small retinal blood vessels and poorer visual outcomes.
+
+Ischemic CRVO can lead to abnormal blood vessel growth, which may cause:
+- Bleeding inside the eye
+- Severe glaucoma
+- Further vision loss
+
+When abnormal blood vessels develop, treatment may include anti-VEGF injections and laser therapy.
+
+FOLLOW-UP CARE
+Because non-ischemic CRVO can progress to the ischemic form, patients usually require frequent monitoring.
+
+Monthly follow-up visits are commonly recommended after diagnosis to detect complications early.
+
+PROGNOSIS
+CRVO has variable outcomes.
+
+In older untreated patients:
+- About one-third improve
+- About one-third remain stable
+- About one-third worsen
+
+Early detection and treatment of macular edema or abnormal blood vessel growth significantly improves the chance of preserving vision.
+
+CLINICAL TERMS
+
+Central Retinal Vein
+The main vein that drains blood from the retina.
+
+Macula
+The central region of the retina responsible for detailed vision.
+
+Macular Edema
+Swelling in the macula caused by fluid leakage from damaged blood vessels.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that produces cross-sectional images of the retina.
+
+Fluorescein Angiography (FA)
+An imaging test that uses fluorescent dye to visualize blood flow in retinal vessels.
+
+Ischemia
+Reduced blood supply to tissue.
+
+Glaucoma
+A disease in which increased pressure inside the eye damages the optic nerve.

@@ -1,0 +1,106 @@
+TITLE: Posterior Vitreous Detachment (PVD)
+
+OVERVIEW
+Posterior vitreous detachment (PVD) is a common age-related condition in which the vitreous gel that fills the inside of the eye separates from the retina, the light-sensing tissue lining the back of the eye. This is a natural change that typically occurs during adulthood. :contentReference[oaicite:0]{index=0}
+
+The vitreous is a clear gel that occupies the center of the eye. As people age, the vitreous gradually becomes more liquid and shrinks. When it shrinks enough, it can pull away from the retina, causing a posterior vitreous detachment.
+
+SYMPTOMS
+The most common symptoms of PVD include:
+
+- Floaters (moving shadows or spots in vision)
+- Flashes of light, often seen in the peripheral vision
+
+Floaters may appear as:
+
+- Cobwebs
+- Dust or small specks
+- Swarms of insects
+- Circular shapes known as a Weiss ring
+
+Flashes and floaters are typically most noticeable during the first few weeks of a PVD and usually decrease over time. :contentReference[oaicite:1]{index=1}
+
+CAUSES
+PVD develops due to natural aging changes in the vitreous gel. Over time:
+
+- The vitreous gel becomes more liquid
+- The gel shrinks and condenses
+- The vitreous separates from the retina
+
+As this process continues over several weeks or months, the vitreous may detach completely except for a small area where it remains attached at the vitreous base.
+
+RISK FACTORS
+Posterior vitreous detachment is uncommon in people under 40 but becomes increasingly common with age.
+
+Additional risk factors include:
+
+- Myopia (nearsightedness)
+- Eye trauma
+- Recent eye surgery such as cataract surgery
+
+People who develop PVD in one eye often experience it in the other eye within about one year.
+
+COMPLICATIONS
+Most cases of PVD are harmless and do not affect long-term vision. Approximately 85% of patients experience no complications.
+
+However, in some cases the separation of the vitreous from the retina can cause:
+
+- Retinal tears
+- Vitreous hemorrhage (bleeding into the vitreous gel)
+- Retinal detachment
+- Epiretinal membrane
+- Macular hole
+
+These complications may cause additional symptoms such as decreased or distorted vision and require urgent medical attention.
+
+DIAGNOSIS
+PVD is usually diagnosed during a dilated eye examination by a retina specialist.
+
+If the vitreous gel is very clear and difficult to visualize, additional imaging tests may be used:
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging test that provides detailed cross-sectional images of the retina.
+
+Ocular Ultrasound  
+An imaging technique that uses sound waves to visualize structures within the eye.
+
+TREATMENT
+In most cases, no treatment is required for posterior vitreous detachment.
+
+Symptoms such as flashes and floaters typically improve or become less noticeable within about 3 months.
+
+Doctors often recommend one or more follow-up examinations during the first few months after diagnosis to ensure that complications such as retinal tears do not develop.
+
+In rare cases where floaters remain severe and significantly affect vision, vitrectomy surgery may be considered to remove the vitreous gel.
+
+PROGNOSIS
+The majority of people with PVD recover without permanent vision problems. While floaters may persist in some cases, most patients adapt and notice them less over time.
+
+Prompt evaluation is important if new symptoms occur, especially:
+
+- Sudden increase in floaters
+- Persistent flashes of light
+- A curtain-like shadow in vision
+- Sudden loss of vision
+
+These symptoms may indicate a retinal tear or detachment and require immediate medical attention.
+
+CLINICAL TERMS
+
+Vitreous  
+The clear gel that fills the inside of the eye.
+
+Floaters  
+Small moving shadows in vision caused by particles or structures within the vitreous gel.
+
+Retinal Tear  
+A break in the retina that can allow fluid to enter and cause retinal detachment.
+
+Retinal Detachment  
+A serious condition in which the retina separates from the back wall of the eye.
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging technique that creates detailed images of the retina.
+
+Vitrectomy  
+A surgical procedure in which the vitreous gel is removed to treat retinal conditions.

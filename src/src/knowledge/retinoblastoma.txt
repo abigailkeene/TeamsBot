@@ -1,0 +1,81 @@
+TITLE: Retinoblastoma
+
+OVERVIEW
+Retinoblastoma is the most common primary eye tumor in infants and young children. It is a type of eye cancer that develops when cells in the retina grow uncontrollably. The retina is the light-sensitive tissue lining the back of the eye that converts light into signals sent to the brain for vision. Because retinoblastoma can grow quickly and spread beyond the eye, prompt diagnosis and treatment are essential. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+Retinoblastoma is caused by a mutation in the RB1 gene located on chromosome 13. The RB1 gene normally produces a tumor-suppressor protein that helps control cell growth.
+
+Every cell has two copies of the RB1 gene. When both copies become mutated or damaged, the affected retinal cells can divide uncontrollably and form a tumor.
+
+There are two main types of retinoblastoma:
+
+Non-hereditary (sporadic) retinoblastoma  
+About 60% of cases occur due to spontaneous mutations that are not inherited from parents.
+
+Hereditary retinoblastoma  
+The remaining cases occur when a child inherits a mutation in the RB1 gene from one or both parents. Children with hereditary retinoblastoma often develop tumors in both eyes and may develop tumors at a younger age.
+
+In rare cases, hereditary retinoblastoma can also be associated with tumors in the brain, a condition known as trilateral retinoblastoma. :contentReference[oaicite:1]{index=1}
+
+SYMPTOMS
+Symptoms of retinoblastoma may include:
+
+- Leukocoria (a white reflection from the pupil, often noticed in flash photographs)
+- Strabismus (crossed or drifting eyes)
+- Eye redness
+- Reduced vision
+- Proptosis (bulging of the eye) in advanced cases
+
+Leukocoria is often the earliest and most noticeable sign, sometimes described as a “cat’s eye reflex.” :contentReference[oaicite:2]{index=2}
+
+RISK FACTORS
+The primary risk factor for retinoblastoma is a mutation in the RB1 gene.
+
+Children with a parent or sibling who had retinoblastoma have a significantly increased risk of developing the disease and should undergo screening examinations by an ophthalmologist.
+
+DIAGNOSIS
+Diagnosis usually involves a detailed examination of the eye and specialized imaging tests.
+
+Because most patients are very young, the eye examination is often performed under anesthesia.
+
+Diagnostic tests may include:
+
+Fundus Photography  
+Photographs of the retina to document tumor size and monitor treatment response.
+
+Ocular Ultrasound  
+Used to determine tumor size and detect involvement of surrounding structures.
+
+MRI (Magnetic Resonance Imaging)  
+Used to evaluate whether the tumor has spread to the brain or surrounding tissues.
+
+Genetic Testing  
+Helps determine whether the tumor is hereditary and can guide screening of family members. :contentReference[oaicite:3]{index=3}
+
+TREATMENT
+Advances in treatment have greatly improved outcomes for children with retinoblastoma. The main goals of treatment are to save the child’s life, preserve the eye when possible, and maintain vision.
+
+Common treatment approaches include:
+
+Systemic Chemotherapy  
+Chemotherapy medications delivered through a vein are commonly used to shrink tumors and prevent spread.
+
+Intra-arterial Chemotherapy  
+A catheter is inserted through the femoral artery and advanced to the ophthalmic artery, allowing chemotherapy drugs to be delivered directly to the eye.
+
+Intravitreal Chemotherapy  
+Chemotherapy injected directly into the eye to treat tumor cells.
+
+Laser Therapy  
+Laser treatment may be used to destroy smaller tumors after chemotherapy.
+
+Enucleation  
+Removal of the eye may be necessary if the tumor is very large or does not respond to other treatments. After removal, the child is fitted with an artificial eye (ocular prosthesis). :contentReference[oaicite:4]{index=4}
+
+PROGNOSIS
+With modern treatment, survival rates for retinoblastoma are very high when the disease is detected early.
+
+Children require long-term follow-up to monitor for recurrence of tumors, particularly in hereditary cases. Patients with inherited retinoblastoma also have an increased lifetime risk of developing other cancers such as bone and soft-tissue sarcomas, melanoma, and cancers of the brain, breast, and lung.
+
+Early detection and specialized care greatly improve outcomes for children with this condition.

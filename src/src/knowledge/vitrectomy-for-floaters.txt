@@ -1,0 +1,63 @@
+TITLE: Vitrectomy for Floaters
+
+OVERVIEW
+Floaters are small moving spots, threads, or cloud-like shapes that appear in a person's field of vision. They are caused by small particles or opacities in the vitreous gel inside the eye that cast shadows on the retina. Many people experience floaters occasionally, especially with aging. In rare cases where floaters become severe and interfere with daily activities such as reading or driving, a surgical procedure called vitrectomy may be considered to remove the vitreous gel containing the floaters. :contentReference[oaicite:0]{index=0}
+
+CAUSES
+The vitreous gel normally fills the back cavity of the eye and is attached to the retina at birth. As part of the natural aging process, the vitreous may separate from the retina, a condition known as posterior vitreous detachment (PVD). This is the most common cause of floaters.
+
+Other causes of floaters include:
+- Blood within the vitreous (vitreous hemorrhage)
+- Inflammatory cells in the eye
+- Pigment cells released from the retina
+
+These particles float within the vitreous and cast shadows on the retina, which appear as moving spots or shapes in the visual field.
+
+SYMPTOMS
+Floaters may appear as:
+- Small dots
+- Cobweb-like strands
+- Swarms of insects
+- Circular or ring-shaped shadows
+
+They are usually most noticeable when looking at bright backgrounds such as a white wall or blue sky. In many people, floaters become less noticeable over time as the brain adapts or the floaters settle out of the central field of vision. :contentReference[oaicite:1]{index=1}
+
+RISK FACTORS
+Several factors may increase the likelihood of developing floaters:
+
+- Nearsightedness (myopia)
+- Retinal tears
+- Retinal detachment
+- Eye trauma
+- Intraocular inflammation
+- Vitreous hemorrhage
+- Previous cataract surgery
+
+DIAGNOSIS
+Floaters are usually diagnosed through a clinical eye examination with pupil dilation. This allows the retina specialist to view the vitreous cavity and identify vitreous opacities.
+
+Additional diagnostic tests may include:
+- Optical coherence tomography (OCT)
+- B-scan ultrasound
+- Retinal photography
+
+TREATMENT
+Most floaters do not require treatment and can be safely observed once retinal tears or other serious conditions have been ruled out.
+
+Patients with mild floaters are often reassured that the condition is harmless, and many people adapt to them over time.
+
+However, in severe cases where floaters significantly interfere with vision, a vitrectomy may be performed. During vitrectomy surgery, the vitreous gel containing the floaters is removed and replaced with a clear solution. This removes most of the particles responsible for the visual disturbances.
+
+Another potential treatment is laser vitreolysis, which attempts to break large floaters into smaller particles. However, the effectiveness and safety of this treatment are still under study and it has not yet gained widespread acceptance.
+
+RISKS
+Vitrectomy for floaters carries potential risks, including:
+
+- Cataract formation
+- Retinal tear
+- Retinal detachment
+- Macular pucker
+- Macular edema
+- Rare risk of vision loss
+
+Because of these risks, surgery is usually reserved for patients with severe symptoms that significantly impact their quality of life. :contentReference[oaicite:2]{index=2}

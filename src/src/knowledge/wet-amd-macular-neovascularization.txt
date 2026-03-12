@@ -1,0 +1,134 @@
+TITLE: Age-Related Macular Degeneration — Wet Forms Including Macular Neovascularization
+
+OVERVIEW
+Age-related macular degeneration (AMD) is a deterioration of the retina and the choroid that can lead to significant loss of visual acuity (sharpness of vision). AMD is the leading cause of serious vision loss in people over age 50 in developed countries.
+
+There are two main types of AMD:
+- Dry AMD (non-neovascular)
+- Wet AMD (neovascular)
+
+Wet AMD occurs when abnormal blood vessels grow beneath the macula, the central part of the retina responsible for sharp vision used for reading and recognizing faces.
+
+MACULAR NEOVASCULARIZATION (MNV)
+Macular neovascularization (MNV), also known as choroidal neovascularization, occurs when abnormal blood vessels grow beneath the macula.
+
+These vessels may:
+- Leak fluid
+- Bleed
+- Distort the retina
+
+Over time, MNV may form a disciform scar that replaces normal retinal tissue and causes permanent central vision loss.
+
+SYMPTOMS
+In early stages, AMD may have no noticeable symptoms.
+
+As the disease progresses, symptoms may include:
+- Distortion or warping of straight lines
+- Reduced brightness or intensity of colors
+- Gradual or sudden loss of central vision
+- Dark or blurry areas in the center of vision
+
+RISK FACTORS
+Major risk factors include:
+- Increasing age (strongest risk factor)
+- Family history of AMD
+- Caucasian race
+- Cigarette smoking
+
+Possible additional risk factors:
+- Female gender
+- High cholesterol
+- Lower education level
+- Sunlight exposure
+- Light iris color
+- Low dietary fish intake
+- Farsightedness
+- Higher body mass index (BMI)
+- Cardiovascular disease
+- High blood pressure
+- Diet low in lutein, zeaxanthin, or antioxidants
+
+DIAGNOSTIC TESTING
+Wet AMD is diagnosed through clinical examination and imaging tests.
+
+Common diagnostic tests include:
+- Slit lamp examination
+- Fluorescein angiography (FA)
+- Indocyanine green angiography (ICGA)
+- Optical coherence tomography (OCT)
+- Optical coherence tomography angiography (OCTA)
+
+These imaging techniques help detect abnormal blood vessel growth beneath the retina.
+
+TREATMENT AND PROGNOSIS
+
+Anti-VEGF Therapy
+Treatment for wet AMD has improved dramatically with medications that block vascular endothelial growth factor (VEGF).
+
+VEGF promotes the growth of abnormal blood vessels in the eye.
+
+Anti-VEGF drugs help stop this abnormal growth and preserve vision.
+
+Common anti-VEGF medications include:
+- Avastin (bevacizumab)
+- Lucentis (ranibizumab)
+- Eylea (aflibercept)
+- Beovu (brolucizumab)
+- Vabysmo (faricimab)
+
+These medications are delivered through intravitreal injections directly into the eye. Local anesthetic eye drops are used before the injection to reduce discomfort.
+
+TREATMENT APPROACHES
+
+1. PRN (Treat and Observe)
+Patients receive three monthly injections initially, followed by treatment only when disease activity returns.
+
+2. Treat and Extend
+After three monthly injections, the interval between treatments is gradually increased if the disease remains stable. Some patients may only require treatment every 10–16 weeks.
+
+3. Monthly Injections
+Some patients require ongoing monthly injections to control the disease.
+
+OTHER TREATMENTS
+Before anti-VEGF medications were introduced, treatments for wet AMD included:
+- Laser photocoagulation
+- Photodynamic therapy (PDT)
+
+These treatments are now used less frequently but may still be used in certain situations.
+
+PROGNOSIS
+Anti-VEGF therapies have significantly improved outcomes for wet AMD patients. Many patients are able to maintain central vision and continue daily activities such as reading, driving, and recognizing faces.
+
+Although wet AMD can cause progressive vision loss, complete blindness is very rare because peripheral vision usually remains intact.
+
+CLINICAL TERMS
+
+Choroid
+The layer of blood vessels and connective tissue between the retina and the white of the eye (sclera).
+
+Disciform Scar
+Scar tissue that forms in the macula due to leakage or bleeding from abnormal blood vessels.
+
+Fluorescein Angiography (FA)
+An imaging test where fluorescent dye is injected into a vein to photograph circulation in the retina and choroid.
+
+Indocyanine Green Angiography (ICGA)
+A diagnostic test using green dye to visualize blood circulation in the choroid.
+
+Macular Neovascularization (MNV)
+Abnormal blood vessel growth beneath the retina and macula that disrupts vision.
+
+Optical Coherence Tomography (OCT)
+A non-invasive imaging technique that produces detailed cross-sectional images of the retina.
+
+Optical Coherence Tomography Angiography (OCTA)
+A non-invasive imaging method used to visualize retinal and choroidal blood vessels.
+
+Laser Photocoagulation
+A laser treatment used to seal abnormal blood vessels.
+
+Photodynamic Therapy (PDT)
+A treatment that uses a light-activated drug and laser to target abnormal blood vessels in the retina.
+
+Slit Lamp
+A microscope with a bright light used by eye doctors to examine structures of the eye, including the retina and optic nerve.

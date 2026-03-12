@@ -1,0 +1,92 @@
+TITLE: Familial Exudative Vitreoretinopathy (FEVR)
+
+OVERVIEW
+Familial Exudative Vitreoretinopathy (FEVR) is a hereditary eye disorder in which the retinal blood vessels do not develop normally. Because of this abnormal development, scar tissue may form in the retina. As the scar tissue contracts, it can pull on the retina and lead to retinal detachment and vision loss. :contentReference[oaicite:0]{index=0}
+
+FEVR is a lifelong condition that can affect individuals differently, even among members of the same family.
+
+CAUSES
+FEVR is caused by genetic abnormalities affecting signaling pathways responsible for the normal development of retinal blood vessels. Specifically, defects in the **Wnt signaling pathway** disrupt normal vascular growth in the retina.
+
+Genes commonly associated with FEVR include:
+
+- FZD4
+- NDP
+- TSPAN12
+- LRP5
+
+Because the disease is inherited, family members may carry the condition without showing symptoms.
+
+SYMPTOMS
+Vision loss is the most common symptom of FEVR.
+
+Other symptoms may include:
+
+- Crossed eyes (strabismus)
+- Lazy eye (amblyopia)
+- Reduced visual acuity
+- Progressive vision loss
+
+Some individuals with FEVR have no symptoms and are only diagnosed when a family member is found to have the disease.
+
+Disease progression is often categorized into stages:
+
+Stage 1
+Peripheral retinal blood vessels are abnormal or incomplete.
+
+Stage 2
+Abnormal new blood vessel growth (neovascularization) develops.
+
+Stages 3–5
+Scar tissue forms and contracts, causing traction on the retina and potentially leading to retinal detachment.
+
+Vision loss can also occur due to abnormal leakage from blood vessels (exudation) and progressive loss of small retinal capillaries responsible for oxygen delivery.
+
+DIAGNOSTIC TESTING
+
+Fluorescein Angiography
+Wide-field fluorescein angiography is essential for diagnosing and monitoring FEVR. This imaging test uses injected dye to evaluate the structure and function of retinal blood vessels.
+
+Eye Examination
+Both eyes are examined because FEVR typically affects both eyes, although not always equally.
+
+Family Member Screening
+Because FEVR is hereditary, examination of relatives may reveal previously undiagnosed cases.
+
+Genetic Testing
+Genetic testing can confirm the diagnosis in approximately half of patients with FEVR.
+
+TREATMENT
+Treatment depends on disease severity.
+
+Early Stages
+Early or mild cases without leaking blood vessels may only require observation.
+
+Moderate Disease
+Laser treatment may be used to treat areas of the retina that lack normal blood vessels.
+
+Advanced Disease
+In more advanced stages, surgery may be required to remove scar tissue and relieve traction on the retina.
+
+These procedures help reattach the retina and stabilize or improve vision.
+
+PROGNOSIS
+FEVR is a lifelong condition that requires ongoing monitoring.
+
+Patients are typically followed every six months with retinal examination and fluorescein angiography, or more frequently if the disease is active.
+
+Even after stabilization, reactivation of the disease can occur.
+
+CLINICAL TERMS
+
+Neovascularization
+The growth of abnormal new blood vessels that can cause bleeding, scar tissue formation, and retinal traction.
+
+Fluorescein Angiography
+An imaging technique that uses injected fluorescent dye to visualize blood flow in the retina and choroid.
+
+Retinal Detachment
+A condition in which the retina separates from the underlying tissue due to fluid or traction.
+
+Exudation
+Leakage of fluid from abnormal blood vessels that can accumulate in retinal tissue and affect vision.

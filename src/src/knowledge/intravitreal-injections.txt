@@ -1,0 +1,94 @@
+TITLE: Intravitreal Injections
+
+OVERVIEW
+An intravitreal injection is a medical procedure in which medication is injected directly into the vitreous cavity, the jelly-filled space in the back of the eye. This procedure is typically performed by a retina specialist in an office setting and is commonly used to treat several retinal diseases. :contentReference[oaicite:0]{index=0}
+
+The vitreous cavity contains a clear gel called the vitreous humor. Delivering medication directly into this space allows drugs to reach the retina more effectively than systemic treatments.
+
+WHAT ARE INTRAVITREAL INJECTIONS USED FOR?
+Intravitreal injections are used to treat many retinal conditions, including:
+
+- Age-related macular degeneration (AMD)
+- Diabetic retinopathy
+- Retinal vein occlusion
+- Macular edema
+- Eye infections such as endophthalmitis
+- Retinitis
+
+In some cases, a small gas bubble may be injected into the eye to help repair a retinal detachment.
+
+MEDICATIONS USED IN INTRAVITREAL INJECTIONS
+Several types of medications can be administered through intravitreal injection:
+
+Anti-VEGF medications  
+These drugs reduce abnormal blood vessel growth and leakage in the retina.
+
+Steroids  
+Steroid medications reduce inflammation and swelling in the eye.
+
+Antibiotics, antivirals, and antifungal medications  
+These medications are used to treat infections within the eye.
+
+THE INJECTION PROCEDURE
+Intravitreal injections are usually performed while the patient is reclining in a chair.
+
+Typical steps in the procedure include:
+
+1. Numbing the eye using anesthetic drops or gel.
+2. Cleaning the eye and eyelids with povidone-iodine to reduce infection risk.
+3. Placing an eyelid speculum to keep the eyelids open.
+4. Injecting medication through the pars plana (the white part of the eye) using a very small needle.
+
+Patients usually feel pressure during the injection but minimal pain. The entire procedure typically takes **10 to 15 minutes**. :contentReference[oaicite:1]{index=1}
+
+SAFETY AND RISKS
+Intravitreal injections are generally very safe. Severe complications are rare, but potential risks include:
+
+- Infection inside the eye (endophthalmitis)
+- Inflammation in the eye
+- Bleeding inside the vitreous gel (vitreous hemorrhage)
+- Retinal detachment
+
+A small surface bleed called a subconjunctival hemorrhage may occur where the needle entered the eye. This usually resolves within about one week.
+
+Your retina specialist may also check the **intraocular pressure (IOP)** after the injection, as the pressure inside the eye may temporarily increase.
+
+WHAT TO EXPECT AFTER THE INJECTION
+Most patients can resume normal activities after the injection, although it is recommended to avoid contaminating the eye on the same day.
+
+Patients should contact their retina specialist if they experience:
+
+- Eye pain or discomfort
+- Increased floaters
+- Increased sensitivity to light
+- Decreased vision
+
+Some patients may feel as if something is in their eye following the procedure. This sensation is often due to irritation from the povidone-iodine cleaning solution. Artificial tears may help relieve this irritation.
+
+REPEATED INJECTIONS
+Many retinal diseases require **repeated intravitreal injections** over time. Chronic conditions such as:
+
+- Age-related macular degeneration
+- Diabetic macular edema
+- Retinal vein occlusions
+
+often require ongoing injections every **4–6 weeks** or as determined by the retina specialist.
+
+Advances in anti-VEGF medications have made intravitreal injections one of the most important treatments for retinal disease today.
+
+CLINICAL TERMS
+
+Anti-VEGF Medications  
+Drugs that block vascular endothelial growth factor (VEGF), reducing abnormal blood vessel growth and leakage in the retina.
+
+Endophthalmitis  
+A severe infection inside the eye that can cause pain, vision loss, and inflammation.
+
+Fluorescein Angiography (FA)  
+A diagnostic imaging technique that uses fluorescent dye to visualize blood flow in the retina.
+
+Optical Coherence Tomography (OCT)  
+A non-invasive imaging test that produces detailed cross-section images of the retina.
+
+Retinal Detachment  
+A condition in which the retina separates from the back wall of the eye, potentially leading to vision loss.

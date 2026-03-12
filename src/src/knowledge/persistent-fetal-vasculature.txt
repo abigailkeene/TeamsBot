@@ -1,0 +1,77 @@
+TITLE: Persistent Fetal Vasculature (PFV)
+
+OVERVIEW
+Persistent Fetal Vasculature (PFV), also known as persistent hyperplastic primary vitreous (PHPV), is a congenital developmental disorder of the eye. It occurs when blood vessel structures that normally develop during fetal eye formation fail to regress before birth. These persistent structures can cause abnormal development of the eye and may impair vision. :contentReference[oaicite:0]{index=0}
+
+During normal fetal development, a network of blood vessels forms to nourish the developing lens and retina. This network typically disappears before birth. In PFV, these vessels remain and form abnormal tissues that can interfere with normal eye structure and function.
+
+SYMPTOMS
+The range of symptoms in PFV can vary widely and often becomes apparent at birth or shortly afterward.
+
+Common signs include:
+
+- A white pupil (leukocoria)
+- Crossed eyes (strabismus)
+- Abnormal eye movements (nystagmus)
+- Reduced vision or visual impairment
+- Lazy eye (amblyopia)
+
+Eyes affected by PFV are often smaller than normal (microphthalmia), and the condition usually affects only one eye. However, in some cases both eyes may be involved.
+
+CAUSES
+PFV develops when fetal blood vessels inside the eye fail to regress normally before birth. Two major structures involved in fetal eye circulation include:
+
+Tunica Vasculosa Lentis  
+A vascular network surrounding the developing lens.
+
+Hyaloidal System (Primary Vitreous)  
+A vascular connection extending from the optic nerve through the vitreous gel to the lens.
+
+Normally, both structures disappear by the end of pregnancy. In PFV, one or both of these systems persist and form abnormal tissue that can cause traction and structural changes in the eye. As the eye grows, these abnormal tissues do not grow proportionally, which can lead to additional complications.
+
+DIAGNOSIS
+PFV is commonly identified in infants who present with leukocoria (a white reflection from the pupil). However, several other conditions can also cause leukocoria, including retinoblastoma, which is a rare but serious eye cancer. Because of this, retinoblastoma must be ruled out during diagnosis. :contentReference[oaicite:1]{index=1}
+
+Doctors may diagnose PFV through:
+
+- Clinical eye examination
+- Ultrasound imaging of the eye
+- CT or MRI scans if visualization is difficult
+
+Often a fibrous stalk can be seen extending between the optic nerve and the back of the lens.
+
+TREATMENT
+Treatment depends on the severity of the condition and the degree of visual impairment.
+
+For children with visually significant PFV, surgery may be recommended. Surgical treatment often involves:
+
+- Removal of the abnormal tissue
+- Removal of the lens (lensectomy)
+- Repair of retinal abnormalities if present
+
+After surgery, visual rehabilitation may include:
+
+- Use of a contact lens to replace the focusing function of the removed lens
+- Patching therapy to treat amblyopia (lazy eye)
+
+PROGNOSIS
+Vision in eyes affected by PFV is rarely completely normal, even with treatment. However, surgery can often improve eye structure and visual function, allowing the eye to develop more normally.
+
+Early diagnosis and treatment are important to maximize visual outcomes and prevent additional complications.
+
+CLINICAL TERMS
+
+Leukocoria  
+A white reflection from the pupil that can indicate serious eye disease.
+
+Strabismus  
+Misalignment of the eyes where they do not look in the same direction.
+
+Nystagmus  
+Involuntary rapid eye movements.
+
+Amblyopia  
+Reduced vision in one eye caused by abnormal visual development during childhood.
+
+Hyaloidal System  
+A fetal vascular structure supplying the developing lens that normally disappears before birth.

@@ -1,0 +1,84 @@
+TITLE: Vitrectomy
+
+OVERVIEW
+Vitrectomy is a surgical procedure performed by a retina specialist in which the vitreous gel that fills the eye cavity is removed. Removing the vitreous allows the surgeon to access the retina and repair retinal conditions such as scar tissue, retinal detachment, macular holes, and other retinal disorders. After the vitreous is removed, the eye may be filled with saline, a gas bubble, or silicone oil to help hold the retina in place during healing. :contentReference[oaicite:0]{index=0}
+
+TYPES OF VITRECTOMY
+
+Posterior (Pars Plana) Vitrectomy  
+This is the most common type of vitrectomy and is performed to treat diseases affecting the posterior segment of the eye, which includes the vitreous cavity and retina.
+
+Anterior Vitrectomy  
+This procedure is performed when vitreous gel moves into the front portion of the eye. This may occur after trauma or during complicated eye surgeries such as cataract, corneal, or glaucoma surgery.
+
+WHY A VITRECTOMY IS PERFORMED
+Vitrectomy may be recommended for several reasons:
+
+1. Vision-blocking vitreous clouding or hemorrhage
+2. Conditions caused by abnormal pulling (traction) on the retina
+3. To assist with other retinal or eye surgeries
+4. To diagnose certain vitreoretinal diseases
+5. To deliver medications or therapeutic devices inside the eye :contentReference[oaicite:1]{index=1}
+
+CONDITIONS TREATED WITH VITRECTOMY
+Vitrectomy is commonly used to treat retinal conditions including:
+
+- Retinal tears
+- Retinal detachment
+- Epiretinal membrane
+- Macular holes
+- Vitreous hemorrhage
+- Vitreomacular traction
+- Macular edema
+- Proliferative vitreoretinopathy
+- Traction retinal detachment :contentReference[oaicite:2]{index=2}
+
+HOW THE SURGERY WORKS
+During surgery, small instruments are inserted through the sclera (white part of the eye) through an area called the pars plana. A surgical microscope and special instruments are used to remove the vitreous gel.
+
+Other instruments used during the procedure may include:
+
+- A light pipe to illuminate the eye
+- Forceps to remove scar tissue or membranes
+- Drainage needles to remove fluid
+- Laser probes to seal retinal tears or abnormal blood vessels
+
+The vitreous cavity is then filled with saline solution, gas, or silicone oil to stabilize the retina. :contentReference[oaicite:3]{index=3}
+
+BEFORE SURGERY
+Before vitrectomy surgery, the retina specialist performs a detailed examination of the eye. Diagnostic tests may include:
+
+- Dilated eye examination
+- Optical coherence tomography (OCT)
+- Fluorescein angiography
+- Retinal photography
+- Ultrasound imaging
+
+Patients are typically instructed not to eat or drink for several hours before surgery and may need to adjust certain medications.
+
+AFTER SURGERY
+Most vitrectomy procedures are outpatient surgeries. The eye may be patched and protected after surgery.
+
+If a gas bubble is used during surgery, patients may need to maintain a specific head position (often face-down) for several days to help the retina heal properly. Air travel and high altitudes must be avoided until the gas bubble dissolves.
+
+Recovery may include:
+
+- Mild eye redness or swelling
+- Temporary blurred vision
+- Sensation of something in the eye
+- Use of prescribed eye drops
+
+Full visual recovery may take several weeks or months depending on the condition being treated.
+
+RISKS AND COMPLICATIONS
+Serious complications are uncommon but may include:
+
+- Infection
+- Bleeding
+- Cataract formation
+- Retinal detachment
+- High or low eye pressure
+- Vision loss
+
+OUTCOMES
+Vitrectomy surgery has a high success rate for many retinal conditions. Advances in surgical technology and techniques have significantly improved outcomes, and many previously untreatable retinal diseases can now be successfully managed with vitrectomy. :contentReference[oaicite:4]{index=4}
