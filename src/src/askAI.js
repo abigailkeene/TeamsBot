@@ -2,7 +2,6 @@ import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { logInteraction } from "../../logs/logger.js";
 
 /* ============================
    PATH HANDLING (DEPLOY SAFE)
@@ -29,7 +28,7 @@ function loadPrompt(file) {
    ENVIRONMENT VARIABLES
 ============================ */
 
-const endpoint = process.env.AZURE_OPENAI_ENDPOINT?.trim();
+const endpoint = process.env.AZURE_OPENAI_ENDPOINT.trim();
 const apiKey = process.env.AZURE_OPENAI_API_KEY;
 const deployment = process.env.AZURE_OPENAI_DEPLOYMENT_NAME;
 const apiVersion = process.env.AZURE_OPENAI_API_VERSION;
@@ -377,26 +376,7 @@ export async function askAI(question) {
   if (unsafePatterns.some(pattern =>
     aiOutput.toLowerCase().includes(pattern)
   )) {
-    aiOutput = "I’m sorry, that information is not available in the current internal documentation.";
-  }
-
-  /* ============================
-     DATABASE LOGGING
-  ============================ */
-
-  try {
-    const tokensUsed = data?.usage?.total_tokens || 0;
-
-    await logInteraction({
-      user_id: "unknown",     // replace later with Teams user id
-      user_email: "unknown",  // replace later with Teams email
-      question: question,
-      response: aiOutput,
-      tokens_used: tokensUsed
-    });
-
-  } catch (err) {
-    console.error("Logging failed:", err.message);
+    aiOutput = "I am sorry, that information is not available in the current internal documentation.";
   }
 
   return aiOutput;
